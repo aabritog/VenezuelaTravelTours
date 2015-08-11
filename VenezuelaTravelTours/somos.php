@@ -57,7 +57,7 @@
 				</section>-->
 			<br>
 		
-		
+		<div class="container">
 			<!--Quienes somos -->
 			<div class="panel panel-warning">
 			  <div class="panel-heading">
@@ -85,8 +85,9 @@
 						</p>
 			  		</div>
 			    </div>
-			</div>			
-		</div>			
+			</div>
+			
+			
 		
 			<!--Nuestros productos -->
 			<div class="panel panel-warning">
@@ -109,7 +110,7 @@
 						</p>
 			  		</div>
 			    </div>
-			</div>
+			</div>	
 
 
 			<!--Alianzas -->
@@ -140,7 +141,8 @@
 						</p>
 			  		</div>
 			    </div>
-			</div>			
+			</div>
+		</div>	
 					
 			<!-- Main -->
 				<div class="wrapper style2">
