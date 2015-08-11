@@ -20,7 +20,7 @@
 
 						<div class="inner">
 							<header>
-								<!--<a href="index.html" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
@@ -30,17 +30,17 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="index.html">Inicio</a></li>
-								<li><a href="somos.html">Quienes somos</a></li>
+								<li><a href="index.php">Inicio</a></li>
+								<li><a href="somos.php">Quienes somos</a></li>
 								<li>
 									<a href="#">Destinos</a>
 									<ul>
-										<li><a href="salto.html">Salto Angel</a></li>
+										<li><a href="salto.php">Salto Angel</a></li>
 										<li><a href="#">Canaima</a></li>
 									</ul>
 								</li>
 								<li><a href="#" class="scrolly">Contacto</a></li>
-								<!--<li><a href="no-sidebar.html">No Sidebar</a></li>-->
+								<!--<li><a href="no-sidebar.php">No Sidebar</a></li>-->
 							</ul>
 						</nav>
 				</div>
@@ -196,40 +196,12 @@
 					<div class="container">
 						<div class="row">
 
-							<!-- Tweets -->
+							<!-- Twitter-->
 								<section class="4u 12u(mobile)">
 									<header>
 										<h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2>
 									</header>
-										<a class="twitter-timeline" href="https://twitter.com/vzlatraveltours" data-widget-id="630207745187291136">Tweets por el @vzlatraveltours.</a>
-										<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-									
-									<!--<ul class="divided">
-										<li>
-											<article class="tweet">
-												Amet nullam fringilla nibh nulla convallis tique ante sociis accumsan.
-												<span class="timestamp">5 minutes ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Hendrerit rutrum quisque.
-												<span class="timestamp">30 minutes ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Curabitur donec nulla massa laoreet nibh. Lorem praesent montes.
-												<span class="timestamp">3 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Lacus natoque cras rhoncus curae dignissim ultricies. Convallis orci aliquet.
-												<span class="timestamp">5 hours ago</span>
-											</article>
-										</li>
-									</ul>-->
+										<?php include("twitter.php"); ?>
 								</section>
 
 							<!-- Posts -->
@@ -273,30 +245,13 @@
 									</ul>
 								</section>
 
-							<!-- Photos -->
-								<section class="4u 12u(mobile)">
+							<!--Instagram-->
+								<section class="4u 12u(mobile)">								
 									<header>
 										<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
 									</header>
 									<div class="row 25%">
-										<div class="6u">
-											<a href="#" class="image fit"><img src="images/Galapagos.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/SalarDeUyuni.jpg" alt="" /></a>
-										</div>
-										<div class="6u">
-											<a href="#" class="image fit"><img src="images/Canaima.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/SaltoAngel.jpg" alt="" /></a>
-										</div>
-										<div class="6u">
-											<a href="#" class="image fit"><img src="images/LencoisMaranhenses.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/MachuPicchu.jpg" alt="" /></a>
-										</div>
+										<?php include("instagram.php"); ?>
 									</div>
 								</section>
 
@@ -345,12 +300,12 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://twitter.com/vzlatraveltours" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>-->
 										</ul>
 									</section>
 

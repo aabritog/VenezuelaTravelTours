@@ -23,7 +23,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<!--<a href="index.html" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
@@ -33,17 +33,17 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="index.html">Inicio</a></li>
-								<li><a href="somos.html">Quienes somos</a></li>
+								<li><a href="index.php">Inicio</a></li>
+								<li><a href="somos.php">Quienes somos</a></li>
 								<li>
 									<a href="#carousel" class="scrolly">Destinos</a>
 									<ul>
-										<li><a href="salto.html">Salto Angel</a></li>
+										<li><a href="salto.php">Salto Angel</a></li>
 										<li><a href="#">Canaima</a></li>
 									</ul>
 								</li>
 								<li><a href="#contacto" class="scrolly">Contacto</a></li>
-								<!--<li><a href="no-sidebar.html">No Sidebar</a></li>-->
+								<!--<li><a href="no-sidebar.php">No Sidebar</a></li>-->
 							</ul>
 						</nav>
 
@@ -65,9 +65,9 @@
 					<div class="reel" id="carousel">
 
 						<article>
-							<a href="salto.html" class="image featured"><img src="images/SaltoAngel.jpg" alt="" /></a>
+							<a href="salto.php" class="image featured"><img src="images/SaltoAngel.jpg" alt="" /></a>
 							<header>
-								<h3><a href="salto.html"><p>Salto Angel<br>Venezuela</p></a></h3>
+								<h3><a href="salto.php"><p>Salto Angel<br>Venezuela</p></a></h3>
 							</header>
 							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
 						</article>
@@ -247,7 +247,7 @@
 							o Transporte<br><br>
 						</p>
 						<footer>
-							<a href="somos.html" class="button">Continuar Leyendo</a>
+							<a href="somos.php" class="button">Continuar Leyendo</a>
 						</footer>
 					</article>
 			</div>
@@ -264,7 +264,7 @@
 							<article class="4u 12u(mobile) special">
 								<a href="#" class="image featured"><img src="images/Angel-Falls.png" alt="" /></a>
 								<header>
-									<h3><a href="salto.html">Salto Angel</a></h3>
+									<h3><a href="salto.php">Salto Angel</a></h3>
 								</header>
 								<p>
 									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
@@ -306,8 +306,7 @@
 									<header>
 										<h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2>
 									</header>
-										<a class="twitter-timeline" href="https://twitter.com/vzlatraveltours" data-widget-id="630207745187291136">Tweets por el @vzlatraveltours.</a>
-										<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+									<?php include("twitter.php"); ?>
 									
 									<!--<ul class="divided">
 										<li>
@@ -378,13 +377,16 @@
 									</ul>
 								</section>
 
-							<!-- Photos -->
-								<section class="4u 12u(mobile)">
+							<!--Instagram http://instansive.com/-->														
+								<section class="4u 12u(mobile)">								
 									<header>
 										<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
 									</header>
 									<div class="row 25%">
-										<div class="6u">
+									
+									<?php include("instagram.php"); ?>
+									
+										<!--<div class="6u">
 											<a href="#" class="image fit"><img src="images/Galapagos.jpg" alt="" /></a>
 										</div>
 										<div class="6u$">
@@ -401,7 +403,7 @@
 										</div>
 										<div class="6u$">
 											<a href="#" class="image fit"><img src="images/MachuPicchu.jpg" alt="" /></a>
-										</div>
+										</div>-->
 									</div>
 								</section>
 
@@ -450,12 +452,12 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://twitter.com/vzlatraveltours" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-											<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+											<li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>-->
 										</ul>
 									</section>
 
