@@ -3,6 +3,18 @@
 <html lang="es">
 	<head>
 
+		<title>ONLY ONE TRAVEL</title>
+		<link href="images/Logo-Final.ico" rel="shortcut icon" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
+		<script src="JQuery/jquery-validation-1.13.1/dist/jquery.validate.min.js"></script>
+		<script src="JQuery/jquery-2.1.3.min.js"></script>
+		<script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
         <script>
         $().ready(function(){
             $("#frmContacto").validate({
@@ -61,14 +73,7 @@
 
 		</head>
 		
-		<title>ONLY ONE TRAVEL</title>
-		<link href="images/Logo-Final.ico" rel="shortcut icon" />
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
 		
 
 
