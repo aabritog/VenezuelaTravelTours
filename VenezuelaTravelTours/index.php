@@ -613,7 +613,9 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>&copy;Todos los derechos Reservados</li><li>Design: <a href="#">--</a></li>
+											<li>Dirección: Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</li><br><br>
+											<li>&copy;Todos los derechos Reservados</li><br>
+											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>
 
