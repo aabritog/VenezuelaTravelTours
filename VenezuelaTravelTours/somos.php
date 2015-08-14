@@ -20,29 +20,15 @@
 
 						<div class="inner">
 							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
+								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
 							</footer>-->
 						</div>
 
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li><a href="index.php">Inicio</a></li>
-								<li><a href="somos.php">Quienes somos</a></li>
-								<li>
-									<a href="#">Destinos</a>
-									<ul>
-										<li><a href="salto.php">Salto Angel</a></li>
-										<li><a href="#">Canaima</a></li>
-									</ul>
-								</li>
-								<li><a href="#" class="scrolly">Contacto</a></li>
-								<!--<li><a href="no-sidebar.php">No Sidebar</a></li>-->
-							</ul>
-						</nav>
+					<?php include("menu.php"); ?>
+					
 				</div>
 
 			<!-- Banner -->
@@ -58,91 +44,95 @@
 			<br>
 		
 		<div class="container">
-			<!--Quienes somos -->
-			<div class="panel panel-warning">
-			  <div class="panel-heading">
-			  	<h2 class="panel-title">
-			    	<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="segundoCollapse">Quienes somos</a>
-			  	</h2>
-			  </div>
-          		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-			  		<div class="panel-body">
-						<p>
-							<strong>Grupo Only One (GOO)</strong>
-							<br>
-								En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo solo es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
-							<br>
-							<br>
-							<strong>NUESTRA MISIÓN</strong>
-							<br>
-								• Ofrecer un producto nunca antes visto en América Latina.<br>
-							<br>
-							<strong>NUESTRO SECRETO DEL ÉXITO</strong><br>
-								• Contamos con un personal altamente calificado.<br>
-								• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
-								• Ofrecemos asistencia inmediata.<br>
-								• Hablamos tu idioma<br>
-						</p>
-			  		</div>
-			    </div>
-			</div>
-			
-			
-		
-			<!--Nuestros productos -->
-			<div class="panel panel-warning">
-			  <div class="panel-heading">
-			  	<h2 class="panel-title">
-			    	<a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">Nuestros productos</a>
-			  	</h2>
-			  </div>
-          		<div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-			  		<div class="panel-body">
-						<p>
-							<strong>o Desarrollo de negocios traducciones o de documentos y traducción simultánea</strong><br><br/>
-							<strong>o Soluciones habitacionales:</strong><br/>
-								• Bienes Raíces<br/>
-								• Asistencia Legal<br/>
-								• Apertura de cuentas bancarias<br/>
-								• Apertura de cuentas bancarias<br/><br/>
-							<strong>o Consultoría de Turismo arreglos o y viajes de ocio</strong><br/><br/>
-							<strong>o Transporte</strong><br>
-						</p>
-			  		</div>
-			    </div>
-			</div>	
-
-
-			<!--Alianzas -->
-			<div class="panel panel-warning">
-			  <div class="panel-heading">
-			  	<h2 class="panel-title">
-			    	<a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="segundoCollapse">Alianzas</a>
-			  	</h2>
-			  </div>
-          		<div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-			  		<div class="panel-body">
-						<p>
-							<strong>o Autoridad de Turismo de Panamá</strong><br>
-							    Por los primeros 4 meses de 2015 hemos tenido un impacto en más de 20 millones de espectadores en Japón, la promoción de Panamá como destino turístico.<br><br>
-							
-							<strong>o Autoridad del Canal de Panamá</strong><br>
-							    Hemos roto la barrera del idioma mediante el establecimiento de una relación entre la Autoridad del Canal de Panamá y la multinacional ENEOS Oil Company en 2015.<br><br>
-							
-							<strong>o Toyota</strong><br>
-							    Tenemos éxito en la reubicación de los altos ejecutivos de esta gran empresa en la Ciudad de Panamá.<br><br>
+			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">			
+				<!--Quienes somos -->
+				<div class="panel panel-warning">
+				  <div class="panel-heading">
+				  	<h2 class="panel-title">
+				    	<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="segundoCollapse">
+				    		Quienes somos
+			    		</a>				    	
+				  	</h2>
+				  </div>
+	          		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+				  		<div class="panel-body">
+							<p>
+								<strong>Grupo Only One (GOO)</strong>
+								<br>
+									En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo solo es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
+								<br>
+								<br>
+								<strong>NUESTRA MISIÓN</strong>
+								<br>
+									• Ofrecer un producto nunca antes visto en América Latina.<br>
+								<br>
+								<strong>NUESTRO SECRETO DEL ÉXITO</strong><br>
+									• Contamos con un personal altamente calificado.<br>
+									• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+									• Ofrecemos asistencia inmediata.<br>
+									• Hablamos tu idioma<br>
+							</p>
+				  		</div>
+				    </div>
+				</div>
 				
-							<strong>o Only One Travel</strong><br>
-								Ofrecemos una amplia gama de paquetes turísticos conducir por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
-								<br>• Salar de Uyuni, Bolivia
-								<br>• El Salto del Angel, Venezuela
-								<br>• Lencois Maranhenses, Brasil
-								<br>• Machu Picchu, Perú
-						</p>
-			  		</div>
-			    </div>
+				
+			
+				<!--Nuestros productos -->
+				<div class="panel panel-warning">
+				  <div class="panel-heading">
+				  	<h2 class="panel-title">
+				    	<a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">Nuestros productos</a>
+				  	</h2>
+				  </div>
+	          		<div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+				  		<div class="panel-body">
+							<p>
+								<strong>Desarrollo de negocios traducciones o de documentos y traducción simultánea</strong><br><br/>
+								<strong>Soluciones habitacionales:</strong><br/>
+									• Bienes Raíces<br/>
+									• Asistencia Legal<br/>
+									• Apertura de cuentas bancarias<br/>
+									• Apertura de cuentas bancarias<br/><br/>
+								<strong>Consultoría de Turismo arreglos o y viajes de ocio</strong><br/><br/>
+								<strong>Transporte</strong><br>
+							</p>
+				  		</div>
+				    </div>
+				</div>	
+	
+	
+				<!--Alianzas -->
+				<div class="panel panel-warning">
+				  <div class="panel-heading">
+				  	<h2 class="panel-title">
+				    	<a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="segundoCollapse">Alianzas</a>
+				  	</h2>
+				  </div>
+	          		<div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+				  		<div class="panel-body">
+							<p>
+								<strong>Autoridad de Turismo de Panamá</strong><br>
+								    Por los primeros 4 meses de 2015 hemos tenido un impacto en más de 20 millones de espectadores en Japón, la promoción de Panamá como destino turístico.<br><br>
+								
+								<strong>Autoridad del Canal de Panamá</strong><br>
+								    Hemos roto la barrera del idioma mediante el establecimiento de una relación entre la Autoridad del Canal de Panamá y la multinacional ENEOS Oil Company en 2015.<br><br>
+								
+								<strong>Toyota</strong><br>
+								    Tenemos éxito en la reubicación de los altos ejecutivos de esta gran empresa en la Ciudad de Panamá.<br><br>
+					
+								<strong>Only One Travel</strong><br>
+									Ofrecemos una amplia gama de paquetes turísticos conducir por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
+									<br>• Salar de Uyuni, Bolivia
+									<br>• El Salto del Angel, Venezuela
+									<br>• Lencois Maranhenses, Brasil
+									<br>• Machu Picchu, Perú
+							</p>
+				  		</div>
+				    </div>
+				</div>
 			</div>
-		</div>	
+	</div>			
 					
 			<!-- Main -->
 				<div class="wrapper style2">

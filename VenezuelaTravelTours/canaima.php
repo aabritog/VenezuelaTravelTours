@@ -49,16 +49,16 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Salto Angel
+                                Canaima
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Salto Ángel (Kerepakupai Vená, en pemón, que significa «salto del lugar más profundo») es el salto de agua más alto del mundo, con una altura de 979 m (807 m de caída ininterrumpida),generada desde el Auyantepuy. Se localiza en el Parque Nacional Canaima, en el estado Bolívar, Venezuela.
+			    		El Parque Nacional Canaima es un parque nacional ubicado en el Estado Bolívar, Venezuela. Fue instaurado el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en el año 1994.
 			    		<br><br>
-						Este espacio natural protegido, establecido como Parque Nacional el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en 1994, se extiende sobre un área de más de 30.000 km² (similar a la extensión territorial de Bélgica), hasta la frontera con Brasil y el territorio del Esequibo (actualmente en reclamación) y por su tamaño es el más extenso del mundo. El nombre con el que es conocido internacionalmente, Salto Ángel, fue sugerido por un venezolano en honor al aviador estadounidense Jimmie Angel, que en el año 1937 corroboró más formalmente la existencia y ubicación exacta de la caída al sobrevolarla en su avioneta y más tarde posarse en su cima, dándole con esto repercusión mundial. En el siglo XXI, fue una de las 28 finalistas en la elección de las Siete maravillas naturales del mundo.
+						Se extiende sobre 30.000 km² hasta la frontera con Guyana y Brasil, por su tamaño es considerado el sexto parque nacional más grande del mundo. Cerca de 65 % del parque está ocupado por mesetas de roca llamadas tepuyes. Estos constituyen un medio biológico único, presentando también un gran interés geológico. Sus acantilados escarpados y sus caídas de agua (incluyendo el Salto Ángel, que es la caída de agua más elevada del mundo, a 1.002 m) forman paisajes espectaculares.
 					</p>
                    </div>
                </div>
@@ -67,25 +67,75 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Turismo
+                                Canaima: Patrimonio de la Humanidad
                      </a>
                  </h2>
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Salto Ángel es una de las mayores atracciones turísticas de Venezuela, pero incluso en la actualidad, un viaje a las cataratas no es un asunto simple, debido a que la zona se encuentra aislada por la espesa selva, y los tepuyes hacen peligrosa la navegación aérea. Se puede llegar a la región mediante un vuelo en avioneta desde Caracas o Ciudad Bolívar, para llegar a un campamento en Canaima. Otros turistas prefieren llegar a las cataratas por medios más naturales, cruzando la selva por las vías acuáticas hasta llegar a la base del salto.
+			    		En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO, por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas casi planas.
 			    		<br><br>
-						El Salto Ángel también es conocido erróneamente como Churún-Merú (cuando debería ser Kerepakupai Vená, río que dá origen al salto y ramificación del Río Churún), nombre que corresponde en realidad a otra catarata que se encuentra en el mismo Tepuy, de unos 400 m de altura.
+						Los tepuyes más conocidos son el Monte Roraima, el más alto y fácil de escalar de todo el parque, y el Auyan-tepui, el más visitado, pues en este se encuentra la catarata o caída de agua más alta del mundo, el Salto Ángel.
 			    		<br><br>
-						En Santa Elena de Uairén, Ciudad Guayana y Ciudad Bolívar hay operadores turísticos que realizan excursiones por tierra, agua y aire (en avioneta o helicóptero), para observar el Auyantepuy y sus numerosos saltos de agua. Las excursiones por tierra y agua se realizan desde el campamento Canaima y duran unas 13 horas.
+						Se dice que los tepuy son rocas areniscas y datan del período en que América y África formaban un supercontinente. A este tipo de relieve se le conoce comúnmente como Macizo Guayanés.
 			    		<br><br>
-			    		Los viajes al Salto Ángel tienen lugar de junio a diciembre, cuando los ríos tienen la profundidad suficiente para soportar las curiaras de madera (canoas) utilizadas por los indígenas de etnia pemón. Durante la estación seca (de diciembre a marzo) hay menos caudal de agua que lo que se aprecia en algunas fotos. El escurridizo salto no puede ser visto en días nublados, por lo que los visitantes no tienen ninguna garantía de poder verlo en su plenitud.						
+			    		El parque es hogar del pueblo pemón. Estos tienen una relación con los tepuy, y creen en que son el hogar de los espíritus "Mawari". El parque está en un sitio lejano a la civilización. Cuenta con pocas carreteras que conectan con otras ciudades cercanas, como Ciudad Guayana. El medio de transporte más común para recorrerlo es a través de canoas.						
 			    		<br>
 					</p>
                    </div>
              </div>
              </div>
+             <div class="panel panel-warning">
+             <div class="panel-heading">
+                 <h2 class="panel-title">
+                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
+                     	Caracteristicas
+                     </a>
+                 </h2>
+             </div>
+             <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                 <div class="panel-body">
+                <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
+                                  
+					<p>
+						<strong>Fauna<br></strong>
+							Canaima posee una fauna muy variada, la cual está distribuida a lo largo del parque de acuerdo a múltiples factores ambientales como la altura y el tipo de vegetación. Entre las especies que podemos encontrar están:
+							<ul>
+								<li>• Armadillo gigante (Priodontes maximus)</li>
+								<li>• Perro de agua gigante (Pteronura brasiliensis)</li>
+								<li>• Oso hormiguero gigante (Myrmecophaga tridactyla)</li>
+								<li>• Puma (Puma concolor)</li>
+								<li>• AJaguar (Panthera onca)</li>
+								<li>• Pereza de dos dedos (Choloepus didactylus)</li>
+								<li>• Mono viuda (Pithecia pithecia)</li>																
+							</ul>
+							<br>
+						<strong>Flora<br></strong>
+							Existen más de 300 especies endémicas solo en La Gran Sabana.
+							<ul>
+								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
+								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
+							</ul>
+							<br>
+						<strong>Hidrografía<br></strong>
+							El parque incluye la totalidad de la cuenca de la margen derecha del río Caroní, y dos de los saltos de agua más altos del mundo, el salto Ángel y el Kukenán y gran cantidad de cataratas de menor altura.
+							<ul>
+								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
+								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
+							</ul>
+							<br>
+						<strong>Relieve<br></strong>
+							La única forma de relieve son los tepuyes, que son mesetas con características inigualables, entre las que destacan sus paredes verticales y sus cimas prácticamente planas, aunque hay varios tepuyes que
+							no cumplen estas reglas. Geológicamente constituyen restos de una cobertura sedimentaria formada por arenisca muy antigua que se superpone a una base de rocas ígneas (granito, principalmente) que es aún
+							más antigua (casi 3000 millones de años). Sobre sus cumbres habita una cantidad muy importante de especies endémicas muy específicas, tanto de vegetales como de animales. Algunas especies vegetales
+							endémicas están categorizadas como "carnívoras", que encuentran de este modo, una provisión de alimentos (insectos, principalmente) que son tan escasos en las cumbres. Estas formaciones tienen una edad
+							geológica que oscila entre 1500 y 2000 millones de años, lo que las convierte en unas de las formaciones más antiguas del planeta. Los tepuyes más conocidos son: el Auyantepuy (de donde se desprende el Salto Ángel),
+							El Roraima, El Kukenan y El Chimantá entre muchos otros.
+					</p>
+                 </div>
+               </div>
+               </div>             
         </div>			
 			
 	</div>	
@@ -110,7 +160,7 @@
 		        <div class="carousel-inner" role="listbox">
     
 		            <div class="item active">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -118,7 +168,7 @@
 
                 
                     <div class="item">
-                        <img src="images/slide/SaltoAngel02.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -134,21 +184,21 @@
 		           -->
 		           
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel05.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Canaima03.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel04.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Canaima04.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel06.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Canaima05.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
@@ -194,14 +244,14 @@
              <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
+                     <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
                      	Itinerario del paquete
                      </a>
                  </h2>
              </div>
-             <div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+             <div id="cuartoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           
-					<p>
+					<!--<p>
 						<strong>• Día 1: KAVAC</strong><br> 
 							Hoy nos encontramos en Puerto Ordaz a las 8:00am para tomar nuestro vuelo a Canaima, el cual despega entre las 9:00 ? 9:30am. Una vez lleguemos a Canaima haremos un transbordo a las avionetas Cessna 206 para volar hasta la comunidad de Kavac. Durante este vuelo se observa la inmensidad de La Gran Sabana y lo inhóspito de la cumbre del Auyan Tepui mientras la avioneta hace pasos rasantes al Salto Angel, de ser posible. Al llegar a la comunidad indígena de Kavac nos preparamos para visitar las cuevas de Kavak y regresar para disfrutar de un delicioso almuerzo. Al final de la tarde subimos hacia la toma para disfrutar del atardecer. Pernocta en camas en Churuatas indígenas.
 							<br><br> 
@@ -218,7 +268,7 @@
 							Navegaremos el Río Carrao hacia Canaima. En el recorrido pasaremos por los peligrosos raudales de Mayupa. Llegada a Canaima justo a tiempo para tomar el vuelo de las 11:30 am rumbo a Puerto Ordaz. Fin del servicio.
 							<br>
 							<br>
-					</p>
+					</p>-->
                  </div>
                </div>
                </div>			

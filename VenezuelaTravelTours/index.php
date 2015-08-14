@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    $_SESSION['id_page']="index";
+?>
+
 <!DOCTYPE HTML>
 
 <html lang="es">
@@ -15,7 +20,7 @@
 		<script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-        <script>
+<!--        <script>
         $().ready(function(){
             $("#frmContacto").validate({
             rules: {
@@ -69,13 +74,9 @@
             }
         return true;
         }
-        </script>
+     </script>-->
 
 		</head>
-		
-
-		
-
 
 	<body class="homepage">
 
@@ -87,36 +88,21 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
+								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
 							</footer>-->
 						</div>
 
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li><a href="index.php">Inicio</a></li>
-								<li><a href="somos.php">Quienes somos</a></li>
-								<li>
-									<a href="#carousel" class="scrolly">Destinos</a>
-									<ul>
-										<li><a href="salto.php">Salto Angel</a></li>
-										<li><a href="#">Canaima</a></li>
-									</ul>
-								</li>
-								<li><a href="#contacto" class="scrolly">Contacto</a></li>
-								<!--<li><a href="no-sidebar.php">No Sidebar</a></li>-->
-							</ul>
-						</nav>
+					<?php include("menu.php"); ?>
 
 				</div>
 
 			<!-- Banner -->
 				<section id="banner">
 					<header>
-						<h2>Only One Travel te lleva a conocer los destinos turísticos mas exoticos del mundo</h2>
+						<h2>Only One Travel te lleva a conocer los destinos turísticos mas exoticos del mundo...</h2>
 						<!--<p>
 							A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
 							Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
@@ -283,7 +269,9 @@
 				<div class="panel panel-warning">
 				<div class="panel-heading">
 			    	<h2 class="panel-title">
-			    		<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">QUIENES SOMOS</a>
+			    		<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
+			    			QUIENES SOMOS
+			    		</a>
 			  		</h2>
 			  	</div>
           		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">			  
@@ -358,7 +346,7 @@
 				<div class="wrapper style1">
 					<section id="features" class="container special">
 						<header>
-							<h2>NUESTROS PAQUETES</h2>
+							<h2>Nuestros Paquetes</h2><br>
 							<!--<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>-->
 						</header>
 						<div class="row">
@@ -368,28 +356,28 @@
 									<h3><a href="salto.php">Salto Angel</a></h3>
 								</header>
 								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+									El Salto Ángel (Kerepakupai Vená, en pemón, que significa «salto del lugar más profundo») es el salto de agua más alto del mundo,
+									con una altura de 979 m (807 m de caída ininterrumpida),generada desde el Auyantepuy. Se localiza en el Parque Nacional Canaima, en el estado Bolívar, Venezuela...
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
 								<a href="#" class="image featured"><img src="images/canaima998xgh7.png" alt="" /></a>
 								<header>
-									<h3><a href="#">Canaima</a></h3>
+									<h3><a href="canaima.php">Canaima</a></h3>
 								</header>
 								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+									En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO,
+									por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas...
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="images/Galapagos.jpg" alt="" /></a>
 								<header>
-									<h3><a href="#">Otro</a></h3>
+									<h3><a href="galapagos.php">Galapagos</a></h3>
 								</header>
 								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+									Las islas Galápagos constituyen un archipiélago del océano Pacífico ubicado a 972 km de la costa de Ecuador.
+									Está conformado por 13 islas grandes con una superficie mayor a 10 km², 6 islas medianas con una superficie de 1 km² a 10 km² y otros 215 islotes de tamaño pequeño, además de promontorios...
 								</p>
 							</article>
 						</div>
@@ -536,27 +524,7 @@
 								</section>
 
 						</div>
-            <!--						<hr />
-			
-<?php
-            if (isset($_GET['id'])) {
-                if ($_GET['id']==1) {
-            ?>
-                    <div class='alert alert-success alert-dismissible'  role='alert'>
-  <button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
-  <strong>Enhorabuena</strong> Correo enviado correctamente.
-</div>
-<?php
-                } else {?>
-                   <div class='alert alert-danger alert-dismissible'  role='alert'>
-  <button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
-  <strong>Warning!</strong> Better check yourself, youre not looking too good.
-</div>
-<?php
-                }
-                
-            }
-            ?>-->
+
 									<?php include("contacto.php"); ?>						
 						
 		<!--<div id="contacto" style="margin-top: 100px;">

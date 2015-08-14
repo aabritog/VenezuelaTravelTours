@@ -49,16 +49,25 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Salto Angel
+                                Galapagos
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Salto Ángel (Kerepakupai Vená, en pemón, que significa «salto del lugar más profundo») es el salto de agua más alto del mundo, con una altura de 979 m (807 m de caída ininterrumpida),generada desde el Auyantepuy. Se localiza en el Parque Nacional Canaima, en el estado Bolívar, Venezuela.
+			    		Las islas Galápagos constituyen un archipiélago del océano Pacífico ubicado a 972 km de la costa de Ecuador. Está conformado por 13 islas grandes con una superficie mayor a 10 km², 6 islas medianas con una superficie de 1 km² a 10 km² y otros 215 islotes de tamaño pequeño, además de promontorios rocosos de pocos metros cuadrados, distribuidas alrededor de la línea del ecuador terrestre.
 			    		<br><br>
-						Este espacio natural protegido, establecido como Parque Nacional el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en 1994, se extiende sobre un área de más de 30.000 km² (similar a la extensión territorial de Bélgica), hasta la frontera con Brasil y el territorio del Esequibo (actualmente en reclamación) y por su tamaño es el más extenso del mundo. El nombre con el que es conocido internacionalmente, Salto Ángel, fue sugerido por un venezolano en honor al aviador estadounidense Jimmie Angel, que en el año 1937 corroboró más formalmente la existencia y ubicación exacta de la caída al sobrevolarla en su avioneta y más tarde posarse en su cima, dándole con esto repercusión mundial. En el siglo XXI, fue una de las 28 finalistas en la elección de las Siete maravillas naturales del mundo.
+						Las islas fueron declaradas Patrimonio de la Humanidad en 1978 por la Unesco. El archipiélago tiene como mayor fuente de ingresos el turismo y recibe 200 000 turistas al año. También se ha desarrollado el turismo ecológico con el fin de preservar las especies. La región fue el hábitat de El Solitario George, el último espécimen de la especie Tortuga gigante de Pinta, extinta el 24 de junio del 2012.4 Las islas también son hábitat de especies como tortugas marinas, iguanas, lagartos, cormoranes, albatros, leones marinos y pingüinos.
+			    		<br><br>
+						Al igual que la masa continental de Ecuador, el archipiélago es atravesado por la línea ecuatorial, en su mayor parte por el norte de la Isla Isabela. Galápagos es el segundo archipiélago con mayor actividad volcánica del planeta, superado únicamente por Hawái.6 Entra en la categoría de los puntos calientes; los volcanes más activos son Cerro Azul, Sierra Negra, Marchena y volcán La Cumbre en la Isla Fernandina, que es el más activo del archipiélago y uno de los más activos del mundo.			    								
+			    		<br><br>
+						Galápagos es conocida por sus numerosas especies endémicas y por los estudios de Charles Darwin8 que le llevaron a establecer su teoría de la evolución por la selección natural. Son llamadas, turísticamente, Las Islas Encantadas, denominación que se ganó el archipiélago en el siglo XVI por su grandiosa biodiversidad de flora y fauna, heredando el nombre por generaciones.
+			    		<br><br>
+			    		Se estima que la formación de la primera isla tuvo lugar hace más de 5 millones de años,10 como resultado de la actividad tectónica. Las islas más recientes, llamadas Isabela y Fernandina, están todavía en proceso de formación, habiéndose registrado la erupción volcánica más reciente en 2009.
+			    		<br><br>
+						Administrativamente, Galápagos constituye una provincia de Ecuador, conformada por tres Cantones que a su vez son islas, las cuales son San Cristóbal, Santa Cruz e Isabela. El 12 de febrero de 1832, bajo la presidencia de Juan José Flores, las islas Galápagos fueron anexadas a Ecuador. Desde el 18 de febrero de 1973 constituyen una provincia de este país.
+			    		<br><br>									    					    											    		
 					</p>
                    </div>
                </div>
@@ -67,25 +76,43 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Turismo
+                                Geografía
                      </a>
                  </h2>
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Salto Ángel es una de las mayores atracciones turísticas de Venezuela, pero incluso en la actualidad, un viaje a las cataratas no es un asunto simple, debido a que la zona se encuentra aislada por la espesa selva, y los tepuyes hacen peligrosa la navegación aérea. Se puede llegar a la región mediante un vuelo en avioneta desde Caracas o Ciudad Bolívar, para llegar a un campamento en Canaima. Otros turistas prefieren llegar a las cataratas por medios más naturales, cruzando la selva por las vías acuáticas hasta llegar a la base del salto.
-			    		<br><br>
-						El Salto Ángel también es conocido erróneamente como Churún-Merú (cuando debería ser Kerepakupai Vená, río que dá origen al salto y ramificación del Río Churún), nombre que corresponde en realidad a otra catarata que se encuentra en el mismo Tepuy, de unos 400 m de altura.
-			    		<br><br>
-						En Santa Elena de Uairén, Ciudad Guayana y Ciudad Bolívar hay operadores turísticos que realizan excursiones por tierra, agua y aire (en avioneta o helicóptero), para observar el Auyantepuy y sus numerosos saltos de agua. Las excursiones por tierra y agua se realizan desde el campamento Canaima y duran unas 13 horas.
-			    		<br><br>
-			    		Los viajes al Salto Ángel tienen lugar de junio a diciembre, cuando los ríos tienen la profundidad suficiente para soportar las curiaras de madera (canoas) utilizadas por los indígenas de etnia pemón. Durante la estación seca (de diciembre a marzo) hay menos caudal de agua que lo que se aprecia en algunas fotos. El escurridizo salto no puede ser visto en días nublados, por lo que los visitantes no tienen ninguna garantía de poder verlo en su plenitud.						
-			    		<br>
+						El archipiélago se conoce por una variedad de nombres; en Ecuador comúnmente se conocen por sus nombres en español, que además son los oficiales, usando los antiguos nombres en inglés solo con fines históricos. El nombre oficial de las islas es Archipiélago de Colón, mientras que administrativamente se conoce al territorio como "Provincia de Galápagos". La denominación más conocida y común es Islas Galápagos. La primera carta de navegación de las islas, aunque rústica, fue realizada por el bucanero Ambrose Cowley en 1684, y en dicha carta bautizó las islas con los nombres de algunos de sus amigos piratas y de algunos nobles ingleses que apoyaban la causa de los piratas.
+			    		<br><br>						
 					</p>
                    </div>
              </div>
              </div>
+             <div class="panel panel-warning">
+             <div class="panel-heading">
+                 <h2 class="panel-title">
+                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
+                     	Conservación
+                     </a>
+                 </h2>
+             </div>
+             <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                 <div class="panel-body">
+                <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
+	                <p>
+						Las Galápagos fueron declaradas parque nacional en 1959, protegiendo así el 97,5% de la superficie terrestre del archipiélago. El área restante es ocupada por asentamientos humanos que ya existían al tiempo de la declaratoria. Para entonces, aproximadamente 1.000 a 2.000 personas vivían en cuatro islas. En 1972 un censo determinó que 3488 personas vivían en Galápagos, pero en la década de 1980 este número se había incrementado notablemente a más de 20 000 habitantes.
+			    		<br><br>
+						En 1986 el mar que rodea a las islas fue declarado reserva marina. Unesco incluyó a Galápagos en la lista de Patrimonio de la Humanidad en 1978, y en diciembre de 2001 se amplió esta declaración para la reserva marina.
+			    		<br><br>
+						En el año 2007, fueron incluidas en la lista del Lista del Patrimonio de la Humanidad en peligro, debido al turismo masivo y las especies invasoras. El 29 de julio de 2010, las Islas Galápagos fueron retiradas de la lista de patrimonios en peligro de extinción por el Comité de Patrimonios de la Unesco.
+			    		<br><br>
+						El archipiélago tiene diferentes figuras internacionales que se han aplicado para tratar de garantizar la conservación de Galápagos; entre ellas: Reserva de Patrimonio Natural de la Humanidad, Sitio Ramsar, Santuario de Ballenas, reserva de Biósfera, etc. La Estrategia Mundial para la Conservación de la Naturaleza identifica a Galápagos como una provinciaI Biogeográfica prioritaria para el establecimiento de áreas protegidas. A nivel nacional las figuras de Parque Nacional y Reserva Marina, reflejan el compromiso asumido por el Gobierno Ecuatoriano de conservar este importante legado de las futuras generaciones de galapagueños, ecuatorianos y para la humanidad en general.
+			    		<br><br>
+					</p>
+                 </div>
+               </div>
+               </div>             
         </div>			
 			
 	</div>	
@@ -110,7 +137,7 @@
 		        <div class="carousel-inner" role="listbox">
     
 		            <div class="item active">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/Galapagos05.jpg" width="100%" height="1200px" alt="" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -118,7 +145,7 @@
 
                 
                     <div class="item">
-                        <img src="images/slide/SaltoAngel02.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/Galapagos01.jpg" width="100%" height="1200px" alt="" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -134,21 +161,21 @@
 		           -->
 		           
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel05.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Galapagos02.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel04.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Galapagos03.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel06.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Galapagos04.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
@@ -194,14 +221,14 @@
              <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
+                     <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
                      	Itinerario del paquete
                      </a>
                  </h2>
              </div>
-             <div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+             <div id="cuartoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           
-					<p>
+					<!--<p>
 						<strong>• Día 1: KAVAC</strong><br> 
 							Hoy nos encontramos en Puerto Ordaz a las 8:00am para tomar nuestro vuelo a Canaima, el cual despega entre las 9:00 ? 9:30am. Una vez lleguemos a Canaima haremos un transbordo a las avionetas Cessna 206 para volar hasta la comunidad de Kavac. Durante este vuelo se observa la inmensidad de La Gran Sabana y lo inhóspito de la cumbre del Auyan Tepui mientras la avioneta hace pasos rasantes al Salto Angel, de ser posible. Al llegar a la comunidad indígena de Kavac nos preparamos para visitar las cuevas de Kavak y regresar para disfrutar de un delicioso almuerzo. Al final de la tarde subimos hacia la toma para disfrutar del atardecer. Pernocta en camas en Churuatas indígenas.
 							<br><br> 
@@ -218,7 +245,7 @@
 							Navegaremos el Río Carrao hacia Canaima. En el recorrido pasaremos por los peligrosos raudales de Mayupa. Llegada a Canaima justo a tiempo para tomar el vuelo de las 11:30 am rumbo a Puerto Ordaz. Fin del servicio.
 							<br>
 							<br>
-					</p>
+					</p>-->
                  </div>
                </div>
                </div>			

@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 
 <html lang="es">
@@ -46,7 +47,7 @@
                 texto: "Este campo es obligatorio",
                 tel:{   required:"Este campo es obligatorio",
                             minlength: "El teléfono no es válido. Debe tener minimo 7 dígitos",
-                            maxlength:"El teléfono no es válido. Debe tener maximo 10 dígitos"
+                            maxlength:"El teléfono no es válido. Debe tener maximo 13 dígitos"
                 }
                       }
             });
@@ -81,7 +82,7 @@
 
 		<div id="page-wrapper">
 			<div class="container">
-			
+				<hr />			
 				<?php
 					if (isset($_GET['id'])) {
 				    	if ($_GET['id']==1) {
@@ -101,7 +102,6 @@
 				    }
 				}
 				?>				
-					<hr />
 					<div id="contacto" style="margin-top: 100px;">
 						<br>
 						<header>
@@ -130,6 +130,7 @@
 			                <div class="form-group">
 			                    <label style="color: #fff" for="texto">Mensaje:</label>
 			                    <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
+			                    <!--<input type="hidden" name="id_page" value="<?php id_page ?>"><br>-->
 			                </div>
 			                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
 			         	</form>                  
