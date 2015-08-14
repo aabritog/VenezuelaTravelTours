@@ -348,8 +348,8 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="https://twitter.com/vzlatraveltours" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="https://twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.facebook.com/VenezuelaTravelTours" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>

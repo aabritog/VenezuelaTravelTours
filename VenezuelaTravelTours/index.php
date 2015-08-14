@@ -278,8 +278,46 @@
 		        
 		    </div>
 		    <div id="nostros">
-		    <article id="main" class="container special">
-						<!--<header>-->
+		    	
+			<div class="container">
+				<div class="panel panel-warning">
+				<div class="panel-heading">
+			    	<h2 class="panel-title">
+			    		<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">QUIENES SOMOS</a>
+			  		</h2>
+			  	</div>
+          		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">			  
+			    	<div class="panel-body">
+							<p>
+								En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. 
+								Grupo Only One, es una empresa "detallada orientada", con una vasta experiencia en:
+								desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
+							</p>
+						<p>
+							<strong>Nuestra misión:</strong><br>
+							• Ofrecer un producto nunca antes visto en América Latina.<br><br>
+							
+							<strong>Nuestro secreto del éxito:</strong><br>
+							• Contamos con un personal altamente calificado.<br>
+							• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+							• Ofrecemos asistencia inmediata.<br>
+							• Hablamos tu idioma<br><br>
+							
+							<strong>Nuestros productos:</strong><br>
+							• Desarrollo de negocios, traducciones o de documentos y traducción simultánea<br>
+							• Soluciones Habitacionales:<br>
+							  * Bienes Raíces<br>
+							  * Asistencia Legal<br>
+							  * Apertura de cuentas bancarias<br>
+							• Consultoría de Turismo, arreglos o y viajes de ocio<br>
+							• Transporte<br>
+						</p>
+			  		</div>
+			  	</div>
+				</div>
+			</div>	
+		    <!--<article id="main" class="container special">
+
 							<header>
 							<h2><a href="#">Quienes Somos</a></h2>
 							</header>
@@ -288,34 +326,33 @@
 								Grupo Only One, es una empresa "detallada orientada", con una vasta experiencia en:
 								desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
 							</p>
-						<!--</header>-->
+
 						<p>
-							Nuestra misión:
+							Nuestra misión:<br>
 							• Ofrecer un producto nunca antes visto en América Latina.<br><br>
 							
-							Nuestro secreto del éxito:
-							• Contamos con un personal altamente calificado.
-							• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.
-							• Ofrecemos asistencia inmediata.
+							Nuestro secreto del éxito:<br>
+							• Contamos con un personal altamente calificado.<br>
+							• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+							• Ofrecemos asistencia inmediata.<br>
 							• Hablamos tu idioma<br><br>
 							
-							Nuestros productos:
-							• Desarrollo de negocios
-							traducciones o de documentos y traducción simultánea
-							• Soluciones Habitacionales
-							o Bienes Raíces
-							o Asistencia Legal
-							o Apertura de cuentas bancarias
-							• Consultoría de Turismo
-							arreglos o y viajes de ocio
+							Nuestros productos:<br>
+							• Desarrollo de negocios<br>
+							traducciones o de documentos y traducción simultánea<br>
+							• Soluciones Habitacionales<br>
+							o Bienes Raíces<br>
+							o Asistencia Legal<br>
+							o Apertura de cuentas bancarias<br>
+							• Consultoría de Turismo<br>
+							arreglos o y viajes de ocio<br>
 							o Transporte<br><br>
 						</p>
 						<footer>
 							<a href="somos.php" class="button">Continuar Leyendo</a>
 						</footer>
-					</article>
+					</article>-->
 			</div>
-	</div>
 
 			<!-- Features -->
 				<div class="wrapper style1">
@@ -359,6 +396,50 @@
 					</section>
 
 				</div>
+
+	</div>
+
+			<!-- Features -->
+				<!--<div class="wrapper style1">
+					<section id="features" class="container special">
+						<header>
+							<h2>NUESTROS PAQUETES</h2>
+						</header>
+						<div class="row">
+							<article class="4u 12u(mobile) special">
+								<a href="#" class="image featured"><img src="images/Angel-Falls.png" alt="" /></a>
+								<header>
+									<h3><a href="salto.php">Salto Angel</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+							<article class="4u 12u(mobile) special">
+								<a href="#" class="image featured"><img src="images/canaima998xgh7.png" alt="" /></a>
+								<header>
+									<h3><a href="#">Canaima</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+							<article class="4u 12u(mobile) special">
+								<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+								<header>
+									<h3><a href="#">Otro</a></h3>
+								</header>
+								<p>
+									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
+									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								</p>
+							</article>
+						</div>
+					</section>
+
+				</div>-->
 
 			<!-- Footer -->
 				<div id="footer">
@@ -520,8 +601,8 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="https://twitter.com/vzlatraveltours" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="https://twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.facebook.com/VenezuelaTravelTours" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 											<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
