@@ -405,7 +405,9 @@
 									<header>
 										<h2 class="icon fa-file circled"><span class="label">Posts</span></h2>
 									</header>
-									<ul class="divided">
+									
+									<?php include("facebook.php"); ?>
+									<!--<ul class="divided">
 										<li>
 											<article class="post stub">
 												<header>
@@ -438,7 +440,7 @@
 												<span class="timestamp">2 days ago</span>
 											</article>
 										</li>
-									</ul>
+									</ul>-->
 								</section>
 
 							<!--Instagram http://instansive.com/-->														
@@ -449,32 +451,13 @@
 									<div class="row 25%">
 									
 									<?php include("instagram.php"); ?>
-									
-										<!--<div class="6u">
-											<a href="#" class="image fit"><img src="images/Galapagos.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/SalarDeUyuni.jpg" alt="" /></a>
-										</div>
-										<div class="6u">
-											<a href="#" class="image fit"><img src="images/Canaima.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/SaltoAngel.jpg" alt="" /></a>
-										</div>
-										<div class="6u">
-											<a href="#" class="image fit"><img src="images/LencoisMaranhenses.jpg" alt="" /></a>
-										</div>
-										<div class="6u$">
-											<a href="#" class="image fit"><img src="images/MachuPicchu.jpg" alt="" /></a>
-										</div>-->
 									</div>
 								</section>
 
 						</div>
-						<hr />
+            <!--						<hr />
 			
-            <?php
+<?php
             if (isset($_GET['id'])) {
                 if ($_GET['id']==1) {
             ?>
@@ -492,9 +475,10 @@
                 }
                 
             }
-            ?>
+            ?>-->
+									<?php include("contacto.php"); ?>						
 						
-		<div id="contacto" style="margin-top: 100px;">
+		<!--<div id="contacto" style="margin-top: 100px;">
 
 			<header>
 				<p>CONTACTANOS Y PLANIFICAMOS TU VIAJE</p>
@@ -504,36 +488,31 @@
 			<form id="frmContacto" method="post" action="correo.php">
                 <div class="form-group">
                     <label style="color: #fff" for="nombres">Nombres:</label>
-                    <!--<input type="text" name="nombres" id="nombres" placeholder="Ingrese sus nombres" />-->
                     <input type="text" class="form-control" name="nombres" id="nombres" placeholder="Ingrese sus nombres" />
                 </div>
                 <div class="form-group">
                     <label style="color: #fff" for="apellidos">Apellidos:</label>
-                    <!--<input type="text" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos" />-->
                     <input type="text" class="form-control" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos" />
                 </div>
                 <div class="form-group">
                     <label style="color: #fff" for="tel">Tel&eacute;fono:</label>
-                    <!--<input type="text" id="tel" name="tel" placeholder="Celular" />-->
                     <input type="tel" id="tel" name="tel" onkeypress="return validarNro(event);" class="form-control" placeholder="Celular" />
                 </div>               
                 <div class="form-group">
                     <label style="color: #fff" for="email">Correo:</label>
                     <div class="input-group">
                         <div class="input-group-addon">@</div>
-                        <!--<input type="email" id="email" name="email" placeholder="Correo Electronico" />-->
                         <input type="email" id="email" name="email" class="form-control" placeholder="Correo Electronico" />
                     </div>
                 </div>
                 <div class="form-group">
                     <label style="color: #fff" for="texto">Mensaje:</label>
-                    <!--<textarea name="texto" id="texto"></textarea>-->
                     <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
                 </div>
                 <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
          </form>         
          
-		<br><br><br>
+		<br><br><br>-->
 		
 						<div class="row">
 							<div class="12u">

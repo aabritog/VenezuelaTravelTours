@@ -7,10 +7,10 @@ $asunto = "Only One Travel - Información";
 $cuerpo = ' 
 <html> 
 <head> 
-   <title>Only One Travel</title> 
+   <title>Venezuela Travel Tours</title> 
 </head> 
 <body> 
-<h4>Para Only One Travel,</h4> 
+<h4>Brokers Venezuela Travel Tours,</h4> 
 <p> 
 '.$_POST["texto"].'</br>
 Telefono de contacto del solicitante: '.$_POST["tel"].'

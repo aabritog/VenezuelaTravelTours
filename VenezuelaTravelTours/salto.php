@@ -58,6 +58,7 @@
 			<br>
 			
 			<!--Salto Angel-->
+		<div class="container">
 			<div class="panel panel-warning">
 				<div class="panel-heading">
 			    	<h2 class="panel-title">
@@ -93,7 +94,7 @@
 			  		</div>
 			  </div>
 			</div>
-
+	</div>
 
 			<!--Slider-->
 				<div class="wrapper style2">
@@ -194,7 +195,8 @@
 		    </div>
 		</div>		
 
-			<!--Itinerario del paquete-->				
+			<!--Itinerario del paquete-->	
+		<div class="container">			
 			<div class="panel panel-warning">
 				<div class="panel-heading">
 			    	<h2 class="panel-title">
@@ -223,7 +225,8 @@
 						</p>
 			  		</div>
 			  	</div>
-			</div>	
+			</div>
+		</div>
 
 			<!-- Features -->
 				<!--<div class="wrapper style1">
@@ -287,40 +290,7 @@
 									<header>
 										<h2 class="icon fa-file circled"><span class="label">Posts</span></h2>
 									</header>
-									<ul class="divided">
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Nisl fermentum integer</a></h3>
-												</header>
-												<span class="timestamp">3 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Phasellus portitor lorem</a></h3>
-												</header>
-												<span class="timestamp">6 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Magna tempus consequat</a></h3>
-												</header>
-												<span class="timestamp">Yesterday</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Feugiat lorem ipsum</a></h3>
-												</header>
-												<span class="timestamp">2 days ago</span>
-											</article>
-										</li>
-									</ul>
+									<?php include("facebook.php"); ?>
 								</section>
 
 							<!--Instagram-->
