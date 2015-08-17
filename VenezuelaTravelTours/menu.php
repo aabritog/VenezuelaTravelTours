@@ -24,7 +24,7 @@
 									<ul>
 										<li><a href="salto.php">Salto Angel</a></li>
 										<li><a href="canaima.php">Canaima</a></li>
-										<li><a href="galapagos.php">Galápagos</a></li>
+										<!--<li><a href="galapagos.php">Galápagos</a></li>-->
 										<!--<li><a href="#">Salar de Uyuni</a></li>-->
 									</ul>
 								</li>
