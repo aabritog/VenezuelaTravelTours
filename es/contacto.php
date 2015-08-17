@@ -83,29 +83,31 @@
 		<div id="page-wrapper">
 			<div class="container">
 				<hr />			
-				<?php
-					if (isset($_GET['id'])) {
-				    	if ($_GET['id']==1) {
-				?>
-				<div class='alert alert-success alert-dismissible'  role='alert'>
-					<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
-					<strong>Enhorabuena</strong> Correo enviado correctamente.
-				</div>
-				        
-				<?php
-					} else {?>
-				<div class='alert alert-danger alert-dismissible'  role='alert'>
-				  		<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
-				    	<strong>Advertencia:</strong> Error al enviar el correo.
-				</div>
-				<?php
-				    }
-				}
-				?>				
+				
 					<div id="contacto" style="margin-top: 100px;">
 						<br>
 						<header>
 							<p>CONTACTANOS Y PLANIFICAMOS TU VIAJE</p>
+
+								<?php
+									if (isset($_GET['id'])) {
+								    	if ($_GET['id']==1) {
+								?>
+								<div class='alert alert-success alert-dismissible'  role='alert'>
+									<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
+									<strong>Enhorabuena</strong> Correo enviado correctamente.
+								</div>
+								        
+								<?php
+									} else {?>
+								<div class='alert alert-danger alert-dismissible'  role='alert'>
+								  		<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
+								    	<strong>Advertencia:</strong> Error al enviar el correo.
+								</div>
+								<?php
+								    }
+								}
+								?>
 						</header>
 						<form id="frmContacto" method="post" action="correo.php">
 			                <div class="form-group">
@@ -130,10 +132,12 @@
 			                <div class="form-group">
 			                    <label style="color: #fff" for="texto">Mensaje:</label>
 			                    <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
-			                    <!--<input type="hidden" name="id_page" value="<?php id_page ?>"><br>-->
+			                    <!--<input type="hidden" id= "id_page" name="id_page" value="<?php $_SERVER['REQUEST_URI'] ?>" />-->
+			                    <input type="hidden" id= "id_page" name="id_page" value="<?php echo $_SERVER['REQUEST_URI'] ?>" />
 			                </div>
 			                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
 			         	</form>                  
+			         				                
 						<br><br><br>		
 					</div>
 			 </div>

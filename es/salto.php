@@ -191,6 +191,9 @@
 
 			<!--Itinerario del paquete-->	
 		<div class="container">	
+
+
+        <div class="container">
              <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
@@ -221,7 +224,32 @@
 					</p>
                  </div>
                </div>
-               </div>			
+               </div>
+            	<div class="row">
+	                <div class="col-md-6">
+	                    <div class="panel panel-warning" style="margin-top: 25px">
+	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
+	                        <div class="panel-body">
+	                            <p><strong><i>Salto Angel - Venezuela</i></strong></p>
+	                    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.1976036289198!2d-62.535556!3d5.967499999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc6be70f5f89659%3A0x9fcfc52234c7238e!2sSalto+%C3%81ngel!5e0!3m2!1ses!2sve!4v1439828414671" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
+	                        </div>
+	                    </div>
+	                </div>
+	                <!--<div class="col-md-6">
+	                    <div class="panel panel-warning" style="margin-top: 25px">
+	                        <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
+	                        <div class="panel-body">
+	                            
+	                            <ul>
+	                                <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
+	                                <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
+	                            </ul>
+	                        </div>
+	                    </div>
+	                </div>-->
+            	</div>
+        </div>               
+               			
 		</div>	
 			<!-- Footer -->
 				<div id="footer">

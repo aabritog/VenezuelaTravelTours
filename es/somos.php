@@ -44,7 +44,7 @@
 			<br>
 		
 		<div class="container">
-			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">			
+			<!--</div> <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">aabg-->			
 				<!--Quienes somos -->
 				<div class="panel panel-warning">
 				  <div class="panel-heading">
@@ -85,7 +85,7 @@
 				    	<a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">Nuestros productos</a>
 				  	</h2>
 				  </div>
-	          		<div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+	          		<div id="segundoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 				  		<div class="panel-body">
 							<p>
 								<strong>Desarrollo de negocios traducciones o de documentos y traducción simultánea</strong><br><br/>
@@ -106,10 +106,12 @@
 				<div class="panel panel-warning">
 				  <div class="panel-heading">
 				  	<h2 class="panel-title">
-				    	<a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="segundoCollapse">Alianzas</a>
+				    	<a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="segundoCollapse">
+				    		Alianzas
+				    	</a>
 				  	</h2>
 				  </div>
-	          		<div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+	          		<div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 				  		<div class="panel-body">
 							<p>
 								<strong>Autoridad de Turismo de Panamá</strong><br>
@@ -130,10 +132,33 @@
 							</p>
 				  		</div>
 				    </div>
-				</div>
-			</div>
-	</div>			
-					
+				</div>			
+		    	<div class="row">
+		            <div class="col-md-6">
+		                <div class="panel panel-warning" style="margin-top: 25px">
+		                    <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
+		                    <div class="panel-body">
+		                        <p><strong><i>Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</i></strong></p>
+		                			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15763.381396977995!2d-79.5180833!3d8.986374799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca8fac2c0d2ed%3A0xf6664f5b3642e0e7!2sObarrio%2C+Panam%C3%A1!5e0!3m2!1ses!2sve!4v1439829372420" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-md-6">
+		                <div class="panel panel-warning" style="margin-top: 25px">
+		                    <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
+		                    <div class="panel-body">
+		                        
+		                        <ul>
+		                            <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
+		                            <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
+		                        </ul>
+		                    </div>
+		                </div>
+		            </div>
+		    	</div>			
+			<!--</div> aabg-->
+	</div>
+		
 			<!-- Main -->
 				<div class="wrapper style2">
 

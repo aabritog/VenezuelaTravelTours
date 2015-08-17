@@ -21,6 +21,8 @@ $cuerpo = '
 <h4>Apellidos: '.$_POST["apellidos"].'</br></h4>
 <h4>Telefono: '.$_POST["tel"].'</h4>
 <h4>Correo: '.$_POST["email"].'</br></h4>
+<h4>Pagina: '.$_POST["id_page"].'</br></h4>
+
 <p> 
 	<strong>Mensaje: </strong>'.$_POST["texto"].'</br></br>
 </p>  
@@ -55,8 +57,24 @@ else {
 	$resultado=0;
 }
 
-header('Location:index.php?id='.$resultado);
+
+if ($_POST["id_page"]=="/index.php"){
+	header('Location:index.php?id='.$resultado);
 }
+elseif ($_POST["id_page"]=="/salto.php"){
+	header('Location:salto.php?id='.$resultado);
+}
+elseif ($_POST["id_page"]=="/canaima.php"){
+	header('Location:canaima.php?id='.$resultado);
+}
+elseif ($_POST["id_page"]=="/somos.php"){
+	header('Location:somos.php?id='.$resultado);
+}
+elseif ($_POST["id_page"]=="/venezuela.php"){
+	header('Location:venezuela.php?id='.$resultado);
+}
+
+}//if (isset($_POST['enviar']))
 else {
 	header('Location:index.php');
 }

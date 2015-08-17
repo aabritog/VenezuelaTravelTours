@@ -119,15 +119,15 @@
 							<header>
 								<h3><a href="salto.php"><p>Salto Angel<br>Venezuela</p></a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
 							<a href="#" class="image featured"><img src="images/Canaima.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Canaima<br>Venezuela</a></h3>
+								<h3><a href="canaima.php">Canaima<br>Venezuela</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -135,7 +135,7 @@
 							<header>
 								<h3><a href="#">Galapagos<br>Ecuador</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -143,7 +143,7 @@
 							<header>
 								<h3><a href="#">Salar de Uyuni<br>Bolivia</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -151,16 +151,16 @@
 							<header>
 								<h3><a href="#">Machu Picchu<br>Perú</a></h3>
 							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
+							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
-						<article>
+						<!--<article>
 							<a href="#" class="image featured"><img src="images/LencoisMaranhenses.jpg" alt="" /></a>
 							<header>
 								<h3><a href="#">Lencois Maranhenses<br>Brazil</a></h3>
 							</header>
 							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
+						</article>-->
 
 <!--						<article>
 							<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
@@ -371,13 +371,13 @@
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/Galapagos.jpg" alt="" /></a>
+								<a href="#" class="image featured"><img src="images/Venezuela02.png" alt=""/></a>
 								<header>
-									<h3><a href="galapagos.php">Galapagos</a></h3>
+									<h3><a href="venezuela.php">Venezuela</a></h3>
 								</header>
 								<p>
-									Las islas Galápagos constituyen un archipiélago del océano Pacífico ubicado a 972 km de la costa de Ecuador.
-									Está conformado por 13 islas grandes con una superficie mayor a 10 km², 6 islas medianas con una superficie de 1 km² a 10 km² y otros 215 islotes de tamaño pequeño, además de promontorios...
+									Venezuela, oficialmente denominada República Bolivariana de Venezuela, es un país de América situado en la parte septentrional de América del Sur, constituido por una parte continental y por un gran número
+									de islas pequeñas e islotes en el mar Caribe, cuya capital y mayor aglomeración urbana es la...
 								</p>
 							</article>
 						</div>

@@ -49,16 +49,18 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Canaima
+                                Venezuela
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Parque Nacional Canaima es un parque nacional ubicado en el Estado Bolívar, Venezuela. Fue instaurado el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en el año 1994.
+			    		Venezuela, oficialmente denominada República Bolivariana de Venezuela, es un país de América situado en la parte septentrional de América del Sur, constituido por una parte continental y por un gran número de islas pequeñas e islotes en el mar Caribe, cuya capital y mayor aglomeración urbana es la ciudad de Caracas. Posee una extensión territorial de 916 445 km². 
 			    		<br><br>
-						Se extiende sobre 30.000 km² hasta la frontera con Guyana y Brasil, por su tamaño es considerado el sexto parque nacional más grande del mundo. Cerca de 65 % del parque está ocupado por mesetas de roca llamadas tepuyes. Estos constituyen un medio biológico único, presentando también un gran interés geológico. Sus acantilados escarpados y sus caídas de agua (incluyendo el Salto Ángel, que es la caída de agua más elevada del mundo, a 1.002 m) forman paisajes espectaculares.
+						El territorio continental limita al norte con el mar Caribe, al oeste con Colombia, al sur con Brasil y por el este con Guyana. Con este último país, el Gobierno venezolano mantiene una reclamación por la Guayana Esequiba sobre un área de 159 542 km².13
+			    		<br><br>
+						Por sus espacios marítimos, ejerce soberanía sobre 71 295 km² de mar territorial,14 22 224 km² en su zona contigua,14 471 507 km² del mar Caribe y del océano Atlántico bajo el concepto de zona económica exclusiva,15 16 17 y 99 889 km² de plataforma continental.17 Esta zona marina limita con las de trece Estados.						
 					</p>
                    </div>
                </div>
@@ -67,22 +69,40 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Canaima: Patrimonio de la Humanidad
+                                Geografía
                      </a>
                  </h2>
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO, por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas casi planas.
+	                	<strong>• CONTEXTO Y CONDICIONES</strong><br>
+			    			La ubicación geográfica de Venezuela se corresponde con el Hemisferio Norte, y su límite sur está muy cercano a la línea del Ecuador terrestre. Su territorio continental está compuesto por una compacta masa terrestre que se extiende equitativamente de este a oeste y de norte a sur. Su territorio insular comprende un conjunto de archipiélagos, islas e islotes en el mar Caribe. Su geografía le concede una gran diversidad de recursos naturales, principalmente energéticos y minerales, así como de especies y ecosistemas.
 			    		<br><br>
-						Los tepuyes más conocidos son el Monte Roraima, el más alto y fácil de escalar de todo el parque, y el Auyan-tepui, el más visitado, pues en este se encuentra la catarata o caída de agua más alta del mundo, el Salto Ángel.
+							El país se encuentra localizado en la costa septentrional de América del Sur, y ocupa la mayor parte del Caribe Sudamericano. Al norte tiene su fachada marítima en el mar Caribe y el océano Atlántico. En el mar Caribe cuenta con una extensa costa de 2.718 km de extensión, mientras que en el océano Atlántico es de 556 km a la cual habría que agregarle el área costera del territorio en disputa con Guyana conocido como Guayana Esequiba, llegando así a 1.008 km.
 			    		<br><br>
-						Se dice que los tepuy son rocas areniscas y datan del período en que América y África formaban un supercontinente. A este tipo de relieve se le conoce comúnmente como Macizo Guayanés.
+							Su plataforma continental está ubicada al Norte y Noreste del país; abarca aproximadamente 18 % del total de superficie continental y con una presencia marítima de 860.000 km². En general, comprende una ancha faja costera de bajo relieve, entre los 0 y 100 msnm. Se ubica entre el mar Caribe y la cordillera de la Costa. Presenta tres depresiones ensanchadas de importancia: el lago de Maracaibo al oeste, la Depresión de Unare en el extremo central noreste y la región del delta del Orinoco al este, de tierras bajas y cenagosas. En la zona costera se encuentran los puertos más importantes del país: La Guaira, Maracaibo, Puerto Cabello y Puerto La Cruz.
 			    		<br><br>
-			    		El parque es hogar del pueblo pemón. Estos tienen una relación con los tepuy, y creen en que son el hogar de los espíritus "Mawari". El parque está en un sitio lejano a la civilización. Cuenta con pocas carreteras que conectan con otras ciudades cercanas, como Ciudad Guayana. El medio de transporte más común para recorrerlo es a través de canoas.						
-			    		<br>
+			    			Estos extensos territorios se expresan en una compacta superficie continental, cuya distancia máxima es de 1.493 km en dirección Este-Oeste, y de 1.271 km en dirección Norte-Sur, lo que contribuye a facilitar la integración y cohesión interna. Está articulado con amplias líneas de costa, que alcanzan en el mar Caribe una fachada marítima de 2.183 km de longitud, desde Castilletes al promontorio de Paria. Es de forma irregular y está constituida por numerosos golfos y bahías entre los que destacan los golfos de Venezuela, Triste, Paria y Cariaco y más de 314 islas, cayos e islotes de soberanía venezolana que llegan por el norte hasta la isla de Aves.						
+			    		<br><br>
 					</p>
+	                <p>
+	                	<strong>• CLIMA</strong><br>
+			    			Por encontrarse en el trópico, Venezuela posee un clima cálido y lluvioso con dos estaciones: una estación seca, que va desde octubre a marzo, y una estación lluviosa, de abril a septiembre. Pero debido a la orografía, los vientos y el mar, hay diferencias climáticas. La latitud tiene poca importancia, pero la altitud cambia drásticamente el clima, especialmente la temperatura, alcanzando valores muy diferentes.
+			    		<br><br>
+							De acuerdo a la clasificación de Köppen, los tipos de clima son:
+						<br><br>
+							<strong>Tropical o lluvioso cálido (A):</strong> Es el más predominante y del más característico del país. Mantiene temperaturas superiores a los 18 °C y precipitaciones en gran parte del año. El clima Tropical de Sabana (Aw) se da en los llanos, al norte de Guayana, y en parte de los Andes y la cordillera de la Costa, como San Cristóbal y Caracas. Es seco entre diciembre y marzo y con precipitaciones entre 600 y 1.500 mm. En la Guayana, el río Aroa y Barlovento es propio el Monzónico (Am), con precipitaciones entre 1.600 y 2.500 mm anuales y una sequía de apenas 45 días. Al sur de la misma región y en la sierra de Perijá es propio el clima de Selva Tropical (Af), las precipitaciones superan los 2.500 mm, no tendiendo estación seca.
+						<br><br>
+							<strong>Seco (B):</strong> Donde la evaporación supera a las precipitaciones. Es típica de zonas desérticas y áridas del litoral, con temperaturas muy superiores a los 18 °C. En Falcón, especialmente en los Médanos de Coro, y la Región Insular se da la modalidad Desértica Cálida (BWh) con lluvias moderadas y escasa vegetación. Al oeste de ese estado, el litoral central, la cordillera de la Costa, Paraguaná, Barquisimeto, Maracaibo y parte de la isla de Margarita poseen el Estepario Cálido o Semiárido (BSh).
+						<br><br>
+							<strong>Intertropical Templado de Altura o Invierno Seco (Cw):</strong> Se presenta con temperaturas los 14 y 18 °C en las más altas elevaciones de la cordillera de la Costa como la Colonia Tovar, y a alturas medias de los Andes, como Mérida, Tovar y Mucuchíes. 
+						<br><br>
+							<strong>Frío de Alta Montaña (E):</strong> Las temperaturas oscilan entre menos de 0 y 10 °C. El clima de Tundra (ET) se aprecia en los páramos, por encima de los 2.800 msnm, en Apartaderos y el Pico El Águila. El clima helado de alta montaña (EF) se reserva a las más altas cumbres de los Andes venezolanos, como son los Picos Bonpland, La Concha, Humboldt y Bolívar.
+						<br><br>
+							<strong>Frío de Alta Montaña (E):</strong> Las temperaturas oscilan entre menos de 0 y 10 °C. El clima de Tundra (ET) se aprecia en los páramos, por encima de los 2.800 msnm, en Apartaderos y el Pico El Águila. El clima helado de alta montaña (EF) se reserva a las más altas cumbres de los Andes venezolanos, como son los Picos Bonpland, La Concha, Humboldt y Bolívar.							
+			    		<br><br>
+					</p>					
                    </div>
              </div>
              </div>
@@ -90,7 +110,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	Caracteristicas
+                     	Turismo
                      </a>
                  </h2>
              </div>
@@ -99,39 +119,18 @@
                 <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
                                   
 					<p>
-						<strong>Fauna<br></strong>
-							Canaima posee una fauna muy variada, la cual está distribuida a lo largo del parque de acuerdo a múltiples factores ambientales como la altura y el tipo de vegetación. Entre las especies que podemos encontrar están:
-							<ul>
-								<li>• Armadillo gigante (Priodontes maximus)</li>
-								<li>• Perro de agua gigante (Pteronura brasiliensis)</li>
-								<li>• Oso hormiguero gigante (Myrmecophaga tridactyla)</li>
-								<li>• Puma (Puma concolor)</li>
-								<li>• AJaguar (Panthera onca)</li>
-								<li>• Pereza de dos dedos (Choloepus didactylus)</li>
-								<li>• Mono viuda (Pithecia pithecia)</li>																
-							</ul>
-							<br>
-						<strong>Flora<br></strong>
-							Existen más de 300 especies endémicas solo en La Gran Sabana.
-							<ul>
-								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
-								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
-							</ul>
-							<br>
-						<strong>Hidrografía<br></strong>
-							El parque incluye la totalidad de la cuenca de la margen derecha del río Caroní, y dos de los saltos de agua más altos del mundo, el salto Ángel y el Kukenán y gran cantidad de cataratas de menor altura.
-							<ul>
-								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
-								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
-							</ul>
-							<br>
-						<strong>Relieve<br></strong>
-							La única forma de relieve son los tepuyes, que son mesetas con características inigualables, entre las que destacan sus paredes verticales y sus cimas prácticamente planas, aunque hay varios tepuyes que
-							no cumplen estas reglas. Geológicamente constituyen restos de una cobertura sedimentaria formada por arenisca muy antigua que se superpone a una base de rocas ígneas (granito, principalmente) que es aún
-							más antigua (casi 3000 millones de años). Sobre sus cumbres habita una cantidad muy importante de especies endémicas muy específicas, tanto de vegetales como de animales. Algunas especies vegetales
-							endémicas están categorizadas como "carnívoras", que encuentran de este modo, una provisión de alimentos (insectos, principalmente) que son tan escasos en las cumbres. Estas formaciones tienen una edad
-							geológica que oscila entre 1500 y 2000 millones de años, lo que las convierte en unas de las formaciones más antiguas del planeta. Los tepuyes más conocidos son: el Auyantepuy (de donde se desprende el Salto Ángel),
-							El Roraima, El Kukenan y El Chimantá entre muchos otros.
+						El turismo en Venezuela es una industria poco desarrollada, pese a que el país está favorecido por la amplia gama de ambientes naturales que posee el país. El país recibe menos visitantes extranjeros que la mayoría de los países de igual dimensión e incluso que regiones cercanas como Aruba. Para 2008 Venezuela contó con unos 301.579 visitantes provenientes de Europa, seguidos por Suramérica (227.105), América del Norte (130.257), el Caribe (39.480), Asia (15.912), Centroamérica (11.377) y el Medio Oriente (10.100).149 La industria vivió una caída importante debido a la inestabilidad política en años recientes. Según los datos del Ministerio del Poder Popular para el Turismo (MPPT), en 2003 se recibieron a 435.421 turistas, un 47 % menor a los números de 1998. No obstante, esta tasa ha mostrado un repunte para el 2008, con 856.810 turistas extranjeros visitando el país.
+						<br><br>
+						En lo que se refiere al turismo interno, los datos del MPPT expresan que los venezolanos prefieren moverse a destinos varios en la geografía nacional durante el asueto de la Semana Santa y las festividades del Carnaval —13,1 y 12,6 millones de turistas respectivamente para 2007—, así como en las vacaciones con motivo de Navidad y Año Nuevo. La principal razón de los viajes en el interior del país en todo el año, según las estadísticas, es la visita a familiares o amigos, seguido del deseo de recreación propio de las temporadas vacacionales, y los motivos profesionales y de negocios como tercer móvil.
+						<br><br>
+						Todas las regiones naturales de Venezuela poseen gran cantidad de atractivos turísticos. Dado el desarrollo de su industria turística, la Isla de Margarita es el destino por excelencia para el esparcimiento, siendo valorada por sus playas, su clima y su cultura. También se destacan el archipiélago Los Roques y el Parque Nacional Morrocoy. La Selva Amazónica posee tribus indígenas de gran interés y especiales atractivos naturales, entre ellos se destaca el Salto Ángel y los tepuyes, mientras que la popularidad de la Gran Sabana va en aumento.						
+						<br><br>
+						Los Médanos de Coro y la Cueva del Guácharo también despiertan interés por su peculiaridad. La región andina, atractiva también por su clima templado y sus paisajes, cuenta con el Pico Bolívar y el Teleférico de Mérida, así como con la Sierra Nevada. Los destinos urbanos son rentables especialmente en el casco histórico de cada ciudad, siendo Caracas la ciudad más visitada —cerca de 231 mil turistas internacionales en 2008. Venezuela es un país especialmente interesante para el desarrollo del ecoturismo o el turismo de aventura, y sus principales destinos son el Parque Nacional Canaima, la Región de Los Llanos (que tiene áreas de exuberante biodiversidad), el estado Amazonas, y la deshabitada isla La Tortuga, entre otros. El bajo costo del transporte, dado el bajo precio de la gasolina en Venezuela, favorece la movilidad de los turistas. Estos destinos ecoturísticos son recomendables para visitantes en búsqueda de riesgo, aventura y experiencias distintas al turismo convencional.
+						<br><br>
+						Dentro del parque Nacional Canaima, al Sur de Venezuela, en el Estado Bolívar, que es uno de los mayores atractivos turísticos del país, hay vistas que no se consiguen en otro lugar del mundo.
+						<br><br>
+						Este parque tiene dos sectores muy distintos. Al Este, el sector Oriental, en donde se encuentra la Gran Sabana y al Oeste, el sector occidental, en donde se encuentra el Salto Angel y la laguna de Canaima.						
+						<br><br>												
 					</p>
                  </div>
                </div>
@@ -245,7 +244,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
-                     	Itinerario del paquete
+                     	-
                      </a>
                  </h2>
              </div>
@@ -271,7 +270,30 @@
 					</p>-->
                  </div>
                </div>
-               </div>			
+               </div>	
+            	<div class="row">
+	                <div class="col-md-6">
+	                    <div class="panel panel-warning" style="margin-top: 25px">
+	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
+	                        <div class="panel-body">
+	                            <p><strong><i>Venezuela</i></strong></p>
+	                    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8116055.595140307!2d-66.61467055!3d6.65711345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2853cb36cbd801%3A0xdca0f2587cd54dd3!2sVenezuela!5e0!3m2!1ses-419!2sve!4v1439834588517" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
+	                        </div>
+	                    </div>
+	                </div>
+	                <div class="col-md-6">
+	                    <div class="panel panel-warning" style="margin-top: 25px">
+	                        <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
+	                        <div class="panel-body">
+	                            
+	                            <ul>
+	                                <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
+	                                <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
+	                            </ul>
+	                        </div>
+	                    </div>
+	                </div>
+            	</div>               		
 		</div>	
 			<!-- Footer -->
 				<div id="footer">
