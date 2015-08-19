@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>ONLY ONE TRAVEL</title>
+		<title>Venezuela Travel Tours</title>
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +20,7 @@
 
 						<div class="inner">
 							<header>
-								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
@@ -198,29 +198,22 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	Itinerario del paquete
+                     	Itinerario del paquete: Canaima y Salto Angel 3 días
                      </a>
                  </h2>
              </div>
              <div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           
 					<p>
-						<strong>• Día 1: KAVAC</strong><br> 
-							Hoy nos encontramos en Puerto Ordaz a las 8:00am para tomar nuestro vuelo a Canaima, el cual despega entre las 9:00 ? 9:30am. Una vez lleguemos a Canaima haremos un transbordo a las avionetas Cessna 206 para volar hasta la comunidad de Kavac. Durante este vuelo se observa la inmensidad de La Gran Sabana y lo inhóspito de la cumbre del Auyan Tepui mientras la avioneta hace pasos rasantes al Salto Angel, de ser posible. Al llegar a la comunidad indígena de Kavac nos preparamos para visitar las cuevas de Kavak y regresar para disfrutar de un delicioso almuerzo. Al final de la tarde subimos hacia la toma para disfrutar del atardecer. Pernocta en camas en Churuatas indígenas.
+						<strong>• Día 1: LLEGADA A CANAIMA / EXCURSIÓN SALTO EL SAPO</strong><br> 
+							Salida en avioneta a las 9:00 am desde el Aeropuerto de Puerto Ordaz con destino a Canaima. En el aeropuerto, estará esperando el guía para trasladarnos en Jeep (15 min.) y posteriormente en curiara (5 min.) hasta el Campamento Ucaima, donde seremos recibidos con un exquisito cóctel de bienvenida. Luego de realizar check in y una vez ubicados en las habitaciones, tenemos tiempo de descanso y/o disfrutar de las instalaciones para luego tomar un suculento almuerzo. Entre 2.00pm y 2.30pm nos preparamos para salir a la excursión a la Laguna de Canaima y Salto el Sapo, donde pasaremos por detrás de la cortina de agua de la cascada, una experiencia que será inolvidable. Al final de la tarde, retornamos al Campamento Ucaima, donde nos esperan con un delicioso refrigerio y cena (A/C).
 							<br><br> 
-						<strong>• Día 2: ARENAL</strong><br> 
-							Luego del desayuno tomamos un jeep para cruzar la sabana hasta llegar a Kamarata. Comienzo del tramo fluvial de la excursión partiendo del puerto de Kamarata en curiaras a motor por el rio Akanan. En este tramo se bordea la pared sureste del Auyán Tepuy además de pasar por diversos raudales. Excelente oportunidad para fotografiar el Auyan tepuy desde diversos ángulos mientras la curiara serpentea en el río Akanan. Campamento en Arenal. Hamacas.
+						<strong>• Día 2: EXCURSIÓN Y PERNOCTA EN SALTO ANGEL</strong><br> 
+							Desayuno a las 7:00/7:30, (check out de las habitaciones, solo llevar equipaje necesario para la pernocta, los demás equipajes queda guardado en la oficina) salida de la excursión al Salto Angel a las 8:00/8:30 am. Comenzamos con una travesía por el Río Carrao hasta la zona de Mayupa (15 min.), haremos una caminata de 30 min. Por la sabana, continuamos la travesía por él río pasando por los rápidos de Arautaima. Seguimos nuestro trayecto hasta la zona de la Isla Orquídea, continuamos por el río Churún, haremos una parada a orillas del rio para un pequeño Lunch, continuamos hasta llegar a la isla Ratoncito (1:00/2:00pm), donde comenzaremos una caminata un poco más de 1 hora por la empinada selva a través de un sendero natural entre raíces y piedras. Llegaremos al Mirador Laime que es una piedra inmensa que sale de la selva, para brindarnos un panorama espectacular del misterioso Auyantepui y del Salto Angel en su totalidad. Descansaremos un poco para luego seguir la caminata hasta la poza del salto en donde (si el nivel del agua lo permite) podremos tomar un baño en sus frías aguas. Retornamos al Refugio, Cena y descanso en cómodas cabañas (con camas) compartidas con baño común. (D/A/C). 
 							<br><br> 
-						<strong>• Día 3: SALTO ANGEL</strong><br> 
-							Luego del desayuno navegamos por el rio Carrao hasta la boca del río Churún y comenzamos a remontar el rio por el Cañón del diablo. Este emocionante trayecto los hará pasar por varios raudales e inmensas piedras. Al llegar a isla ratón nos preparamos para disfrutar del almuerzo y explorar esta selva y nadar en el rio. Hamacas.
+						<strong>• Día 3: RETORNO DEL SALTO ANGEL / PUERTO ORDAZ </strong><br> 
+							Luego del desayuno regreso a Canaima, haremos una breve parada en el Pozo de la Felicidad, en las aguas cristalinas con su hermosa cascada podremos tomar un agradable baño y disfrutar de la tranquilidad y belleza de nuestra naturaleza, navegaremos hasta Mayupa, volvemos a hacer la caminata por la sabana, y 35 min el curiara hasta el Campamento. (Tendremos una habitación común para cambiarnos). Salida al Aeropuerto para tomar el vuelo de retorno a Puerto Ordaz. Fin de nuestro servicio. (D/-/-).
 							<br><br> 
-						<strong>• Día 4: SALTO ANGEL</strong><br> 
-							Comienza la caminata de 1 hora a través de la selva hacia el mirador del Salto Ángel. Durante es recorrido podrán disfrutar de la vegetación y de bellas vistas del Salto Angel. Ya en el mirador los más osados pueden caminar otros 20 minutos que los llevaran a la base donde disfrutarán de un energizante baño en el pozo y cascada que se forma de las aguas del Salto Angel. Regreso al campamento Isla Ratón.
-							<br><br> 							
-						<strong>• Día 5: CANAIMA</strong><br> 
-							Navegaremos el Río Carrao hacia Canaima. En el recorrido pasaremos por los peligrosos raudales de Mayupa. Llegada a Canaima justo a tiempo para tomar el vuelo de las 11:30 am rumbo a Puerto Ordaz. Fin del servicio.
-							<br>
-							<br>
 					</p>
                  </div>
                </div>
@@ -283,44 +276,10 @@
 								</section>
 
 						</div>
+
 						<?php include("contacto.php"); ?>	
 						
-		<!--<div id="contacto" style="margin-top: 100px;">
 
-			<header>
-				<p>CONTACTANOS Y PLANIFICAMOS TU VIAJE</p>
-			</header>
-			
-			
-			<form id="frmContacto" method="post" action="#">
-                <div class="form-group">
-                    <label style="color: #fff" for="nombres">Nombres:</label>
-                    <input type="text" name="nombres" id="nombres" placeholder="Ingrese sus nombres" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="apellidos">Apellidos:</label>
-                    <input type="text" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="tel">Tel&eacute;fono:</label>
-                    <input type="text" id="tel" name="tel" placeholder="Celular" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="email">Correo:</label>
-                    <div class="input-group">
-                        <div class="input-group-addon">@</div>
-                        <input type="email" id="email" name="email" placeholder="Correo Electronico" />
-                    </div>
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="texto">Mensaje:</label>
-                    <textarea name="texto" id="texto"></textarea>
-                </div>
-                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
-         </form>         
-         
-		<br><br><br>-->
-		
 						<div class="row">
 							<div class="12u">
 

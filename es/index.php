@@ -8,7 +8,7 @@
 <html lang="es">
 	<head>
 
-		<title>ONLY ONE TRAVEL</title>
+		<title>Venezuela Travel Tours</title>
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,62 +19,6 @@
 		<script src="JQuery/jquery-2.1.3.min.js"></script>
 		<script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
-<!--        <script>
-        $().ready(function(){
-            $("#frmContacto").validate({
-            rules: {
-                nombres: "required",
-                apellidos: "required",
-                email:{
-                        required:true,
-                        email:true
-                    },
-                texto:"required",
-                tel:{   required:true,
-                            minlength: 7,
-                            maxlength:10
-                }
-                      
-
-                    },  
-            messages: {
-                nombres: "Este campo es obligatorio",
-                apellidos: "Este campo es obligatorio",
-                email: {
-                        required:"Este campo es obligatorio",
-                        email:"El correo no es válido"
-                },
-                texto: "Este campo es obligatorio",
-                tel:{   required:"Este campo es obligatorio",
-                            minlength: "El teléfono no es válido. Debe tener minimo 7 dígitos",
-                            maxlength:"El teléfono no es válido. Debe tener maximo 10 dígitos"
-                }
-                      }
-            });
-        }); 
-        
-        function validarNro(e) {
-        var key;
-        if(window.event) // IE
-            {
-            key = e.keyCode;
-            }
-        else if(e.which) // Netscape/Firefox/Opera
-            {
-            key = e.which;
-            }
-         
-        if (key < 48 || key > 57)
-            {
-            if(key == 8) // Detectar . (punto) y backspace (retroceso)
-                { return true; }
-            else
-                { return false; }
-            }
-        return true;
-        }
-     </script>-->
 
 		</head>
 
@@ -88,7 +32,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
@@ -371,7 +315,7 @@
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/Venezuela02.png" alt=""/></a>
+								<a href="venezuela.php" class="image featured"><img src="images/Venezuela02.png" alt=""/></a>
 								<header>
 									<h3><a href="venezuela.php">Venezuela</a></h3>
 								</header>
@@ -525,44 +469,8 @@
 
 						</div>
 
-									<?php include("contacto.php"); ?>						
-						
-		<!--<div id="contacto" style="margin-top: 100px;">
-
-			<header>
-				<p>CONTACTANOS Y PLANIFICAMOS TU VIAJE</p>
-			</header>
-			
-			
-			<form id="frmContacto" method="post" action="correo.php">
-                <div class="form-group">
-                    <label style="color: #fff" for="nombres">Nombres:</label>
-                    <input type="text" class="form-control" name="nombres" id="nombres" placeholder="Ingrese sus nombres" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="apellidos">Apellidos:</label>
-                    <input type="text" class="form-control" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="tel">Tel&eacute;fono:</label>
-                    <input type="tel" id="tel" name="tel" onkeypress="return validarNro(event);" class="form-control" placeholder="Celular" />
-                </div>               
-                <div class="form-group">
-                    <label style="color: #fff" for="email">Correo:</label>
-                    <div class="input-group">
-                        <div class="input-group-addon">@</div>
-                        <input type="email" id="email" name="email" class="form-control" placeholder="Correo Electronico" />
-                    </div>
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="texto">Mensaje:</label>
-                    <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
-                </div>
-                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
-         </form>         
-         
-		<br><br><br>-->
-		
+						<?php include("contacto.php"); ?>						
+								
 						<div class="row">
 							<div class="12u">
 

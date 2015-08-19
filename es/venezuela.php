@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>ONLY ONE TRAVEL</title>
+		<title>Venezuela Travel Tours</title>
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +20,7 @@
 
 						<div class="inner">
 							<header>
-								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>

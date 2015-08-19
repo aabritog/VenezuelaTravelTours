@@ -16,7 +16,11 @@
 		
 					<!-- Nav -->
 						<nav id="nav">
+							<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="95px" alt="Logo" /></a>-->
 							<ul>
+								<li><a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="100px" alt="Logo" /></a></li>
+								<!--<li><a href="#"></a></li>
+								<li><a href="#"></a></li>-->
 								<li><a href="index.php">Inicio</a></li>
 								<li><a href="somos.php">Quienes somos</a></li>
 								<li>

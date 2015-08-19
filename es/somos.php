@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>ONLY ONE TRAVEL</title>
+		<title>Venezuela Travel Tours</title>
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,7 +20,7 @@
 
 						<div class="inner">
 							<header>
-								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
+								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
@@ -238,44 +238,9 @@
 								</section>
 
 						</div>
-						<hr />
 						
-		<div id="contacto" style="margin-top: 100px;">
-
-			<header>
-				<p>CONTACTANOS Y PLANIFICAMOS TU VIAJE</p>
-			</header>
-			
-			
-			<form id="frmContacto" method="post" action="#">
-                <div class="form-group">
-                    <label style="color: #fff" for="nombres">Nombres:</label>
-                    <input type="text" name="nombres" id="nombres" placeholder="Ingrese sus nombres" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="apellidos">Apellidos:</label>
-                    <input type="text" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="tel">Tel&eacute;fono:</label>
-                    <input type="text" id="tel" name="tel" placeholder="Celular" />
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="email">Correo:</label>
-                    <div class="input-group">
-                        <div class="input-group-addon">@</div>
-                        <input type="email" id="email" name="email" placeholder="Correo Electronico" />
-                    </div>
-                </div>
-                <div class="form-group">
-                    <label style="color: #fff" for="texto">Mensaje:</label>
-                    <textarea name="texto" id="texto"></textarea>
-                </div>
-                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
-         </form>         
-         
-		<br><br><br>
-		
+						<?php include("contacto.php"); ?>
+									
 						<div class="row">
 							<div class="12u">
 
