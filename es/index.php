@@ -7,11 +7,10 @@
 
 <html lang="es">
 	<head>
-
-		<title>Venezuela Travel Tours</title>
+		<title>Venezuela Travel Tours.</title>
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo.">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
@@ -67,7 +66,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/Canaima.jpg" alt="" /></a>
+							<a href="canaima.php" class="image featured"><img src="images/Canaima.jpg" alt="" /></a>
 							<header>
 								<h3><a href="canaima.php">Canaima<br>Venezuela</a></h3>
 							</header>
@@ -477,7 +476,7 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="https://twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 											<li><a href="https://www.facebook.com/VenezuelaTravelTours" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>

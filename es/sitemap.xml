@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://venezuelatravel.tours/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://venezuelatravel.tours/index.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://venezuelatravel.tours/somos.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://venezuelatravel.tours/salto.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://venezuelatravel.tours/canaima.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://venezuelatravel.tours/venezuela.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

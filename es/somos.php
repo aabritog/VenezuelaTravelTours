@@ -2,10 +2,11 @@
 
 <html>
 	<head>
-		<title>Venezuela Travel Tours</title>
+		<title>Venezuela Travel Tours -  Quienes somos</title>
+		<meta name="description" content="Venezuela Travel Tours es una empresa dedicada al turismo nacional e internacional">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="viewport" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
@@ -59,7 +60,7 @@
 							<p>
 								<strong>Grupo Only One (GOO)</strong>
 								<br>
-									En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo solo es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
+									En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo Only One es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
 								<br>
 								<br>
 								<strong>NUESTRA MISIÓN</strong>

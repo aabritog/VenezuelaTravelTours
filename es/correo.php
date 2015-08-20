@@ -2,10 +2,10 @@
 if (isset($_POST['enviar']))
 {
 $resultado=0;
-//$destinatario = "ing.aabg@gmail.com"; 
+$destinatario = "abrito@venezuelatravel.tours"; 
 //$destinatario = "ing.aabg@gmail.com". , ."ing.aabg@outlook.com";
-$destinatario  = 'ing.aabg@gmail.com' . ', '; // atención a la coma
-$destinatario .= 'ing.aabg@outlook.com';
+//$destinatario  = 'ing.aabg@gmail.com' . ', '; // atención a la coma
+//$destinatario .= 'ing.aabg@outlook.com';
 
 
 $asunto = "Venezuela Travel Tours - Información"; 
@@ -49,7 +49,8 @@ $headers .= "From: Venezuela Travel Tours no-reply@venezuelatravel.tours\r\n";
 //direcciones que recibirán copia oculta 
 //$headers .= "Bcc: pepe@pepe.com,juan@juan.com\r\n"; 
 
-if(mail($destinatario,$asunto,$cuerpo,$headers))
+//if(mail($destinatario,$asunto,$cuerpo,$headers))
+if(mail("ing.aabg@gmail.com",$asunto,$cuerpo,$headers))
 {
     $resultado=1;
 }

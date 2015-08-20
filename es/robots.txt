@@ -1,0 +1,20 @@
+User-agent: *
+Disallow:/assets/
+Disallow:/helios/
+Disallow:/images/
+Disallow:/JQuery/
+Disallow:/PHPMailer_5.2.1/
+Disallow:correo.php
+Disallow:menu.php
+Disallow:info.php
+Disallow:contacto.php
+Disallow:twitter.php
+Disallow:facebook.php
+Disallow:instagram.php
+Disallow:galapagos.php
+Allow:index.php
+Allow:canaima.php
+Allow:salto.php
+Allow:somos.php
+Allow:venezuela.php
+
