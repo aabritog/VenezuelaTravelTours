@@ -133,8 +133,7 @@
 			                <div class="form-group">
 			                    <label style="color: #fff" for="texto">Mensaje:</label>
 			                    <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
-			                    <!--<input type="hidden" id= "id_page" name="id_page" value="<?php $_SERVER['REQUEST_URI'] ?>" />-->
-			                    <input type="hidden" id= "id_page" name="id_page" value="<?php echo $_SERVER['REQUEST_URI'] ?>" />
+			                    <input type="hidden" id= "id_page" name="id_page" value="<?php echo $_SERVER['SCRIPT_NAME'] ?>" />
 			                </div>
 			                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
 			         	</form>                  
