@@ -23,7 +23,7 @@
 								<li><a href="index.php">Inicio</a></li>
 								<li><a href="somos.php">Quienes somos</a></li>
 								<li>
-									<a href="#carousel" class="scrolly">Destinos</a>
+									<a href="#">Destinos</a>
 									<ul>
 										<li><a href="salto.php">Salto Angel</a></li>
 										<li><a href="canaima.php">Canaima</a></li>

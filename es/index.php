@@ -1,14 +1,10 @@
-<?php
-    session_start();
-    $_SESSION['id_page']="index";
-?>
-
 <!DOCTYPE HTML>
 
 <html lang="es">
 	<head>
-		<title>Venezuela Travel Tours.</title>
+		<title>Venezuela Travel Tours</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo.">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -45,7 +41,7 @@
 			<!-- Banner -->
 				<section id="banner">
 					<header>
-						<h2>Only One Travel te lleva a conocer los destinos turísticos mas exoticos del mundo...</h2>
+						<h2>Only One Travel te lleva a conocer los destinos turísticos mas exóticos del mundo...</h2>
 						<!--<p>
 							A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
 							Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
@@ -476,7 +472,7 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="https://www.twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 											<li><a href="https://www.facebook.com/VenezuelaTravelTours" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>

@@ -2,7 +2,7 @@
 if (isset($_POST['enviar']))
 {
 $resultado=0;
-$destinatario = "abrito@venezuelatravel.tours"; 
+$destinatario = "info@venezuelatravel.tours"; 
 //$destinatario = "ing.aabg@gmail.com". , ."ing.aabg@outlook.com";
 //$destinatario  = 'ing.aabg@gmail.com' . ', '; // atención a la coma
 //$destinatario .= 'ing.aabg@outlook.com';
@@ -17,13 +17,16 @@ $cuerpo = '
 <body> 
 	<h4>Mensaje desde Venezuela Travel Tours</h4> 
 	<h4>DATOS DEL CLIENTE:</h4>
-	<h4>Nombres: '.$_POST["nombres"].'</br></h4>
-	<h4>Apellidos: '.$_POST["apellidos"].'</br></h4>
+	<h4>Nombres: '.$_POST["nombres"].'<br></h4>
+	<h4>Apellidos: '.$_POST["apellidos"].'<br></h4>
 	<h4>Telefono: '.$_POST["tel"].'</h4>
-	<h4>Correo: '.$_POST["email"].'</br></h4>
+	<h4>Correo: '.$_POST["email"].'<br></h4>
 	<p> 
-		<strong>Mensaje: </strong>'.$_POST["texto"].'</br></br>
-	</p>  
+		<strong>Mensaje: </strong>'.$_POST["texto"].'<br><br>
+	</p>
+	<p>
+		Esta es una cuenta de correo no monitoreada, por favor no responder.
+	</p>	
 </body> 
 </html> 
 '; 
@@ -35,7 +38,7 @@ $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
 //dirección del remitente 
 //$headers .= "From: ".$_POST['nombres']. " ". $_POST['apellidos']." ".$_POST['email']."\r\n";
 //$headers .= "From: info@venezuelatravel.tours\r\n";
-$headers .= "From: Venezuela Travel Tours no-reply@venezuelatravel.tours\r\n"; 
+$headers .= "From: Web Site Venezuela Travel Tours no-reply@venezuelatravel.tours\r\n"; 
 
 //dirección de respuesta, si queremos que sea distinta que la del remitente 
 //$headers .= "Reply-To: mariano@desarrolloweb.com\r\n"; 
@@ -50,7 +53,7 @@ $headers .= "From: Venezuela Travel Tours no-reply@venezuelatravel.tours\r\n";
 //$headers .= "Bcc: pepe@pepe.com,juan@juan.com\r\n"; 
 
 //if(mail($destinatario,$asunto,$cuerpo,$headers))
-if(mail("ing.aabg@gmail.com",$asunto,$cuerpo,$headers))
+if(mail($destinatario,$asunto,$cuerpo,$headers))
 {
     $resultado=1;
 }
