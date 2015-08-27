@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Venezuela Travel Tours - Los Roques</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer el Salto Angel">
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Los Roques">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
