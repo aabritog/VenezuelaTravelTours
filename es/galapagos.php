@@ -2,13 +2,13 @@
 
 <html>
 	<head>
-		<title>Venezuela Travel Tours</title>
+		<title>Venezuela Travel Tours - Galapagos</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one">		
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">		
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/galapagos.css" />
 		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
@@ -21,14 +21,13 @@
 
 						<div class="inner">
 							<header>
-								<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>
 							</header>
 							<!--<footer>
 								<a href="#banner" class="button circled scrolly">Inicio</a>
 							</footer>-->
 						</div>
 
-					<?php include("menu.php"); ?>
+					<!--<?php include("menu.php"); ?>-->
 					
 				</div>
 
@@ -261,7 +260,7 @@
 									<header>
 										<h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2>
 									</header>
-										<?php include("twitter.php"); ?>
+										<!--<?php include("twitter.php"); ?>-->
 								</section>
 
 							<!-- Posts -->
@@ -269,7 +268,7 @@
 									<header>
 										<h2 class="icon fa-file circled"><span class="label">Posts</span></h2>
 									</header>
-									<?php include("facebook.php"); ?>
+									<!--<?php include("facebook.php"); ?>-->
 								</section>
 
 							<!--Instagram-->
@@ -278,12 +277,12 @@
 										<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
 									</header>
 									<div class="row 25%">
-										<?php include("instagram.php"); ?>
+										<!--<?php include("instagram.php"); ?>-->
 									</div>
 								</section>
 
 						</div>
-						<?php include("contacto.php"); ?>	
+						<!--<?php include("contacto.php"); ?>-->	
 						
 		<!--<div id="contacto" style="margin-top: 100px;">
 
@@ -355,15 +354,15 @@
 		</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<!--<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/jquery.onvisible.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
+			<script src="assets/js/util.js"></script>-->
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-			 <script src="JQuery/jquery-2.1.3.min.js"></script>
+			<!--<script src="assets/js/main.js"></script>
+			 <script src="JQuery/jquery-2.1.3.min.js"></script>-->
         <script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
         <script src="JQuery/jquery-validation-1.13.1/dist/jquery.validate.min.js"></script>
 

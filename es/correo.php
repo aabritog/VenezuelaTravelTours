@@ -2,31 +2,38 @@
 if (isset($_POST['enviar']))
 {
 $resultado=0;
-$destinatario = "info@venezuelatravel.tours"; 
+$destinatario = "info@venezuelatravel.tours";
+//$destinatario = "ing.aabg@gmail.com"; 
 //$destinatario = "ing.aabg@gmail.com". , ."ing.aabg@outlook.com";
 //$destinatario  = 'ing.aabg@gmail.com' . ', '; // atención a la coma
 //$destinatario .= 'ing.aabg@outlook.com';
 
 
-$asunto = "Venezuela Travel Tours - Información"; 
+//$asunto = "Venezuela Travel Tours - Información";
+$asunto = "".$_POST['traveldate']." Sr. ".$_POST['nombres']. " ". $_POST['apellidos']." x ".$_POST['passenger']." ".$_POST['destinos']."";
+
 $cuerpo = ' 
 <html> 
 <head> 
    <title>Venezuela Travel Tours</title> 
 </head> 
 <body> 
-	<h4>Mensaje desde Venezuela Travel Tours</h4> 
-	<h4>DATOS DEL CLIENTE:</h4>
-	<h4>Nombres: '.$_POST["nombres"].'<br></h4>
-	<h4>Apellidos: '.$_POST["apellidos"].'<br></h4>
-	<h4>Telefono: '.$_POST["tel"].'</h4>
-	<h4>Correo: '.$_POST["email"].'<br></h4>
+	<h4>Message from Venezuela Travel Tours</h4> 
+	<h4>DATOS DEL CLIENTE/CLIENT DATA:</h4>
+	<h4>Nombres/First name: '.$_POST["nombres"].'<br></h4>
+	<h4>Apellidos/Last name: '.$_POST["apellidos"].'<br></h4>
+	<h4>Telefono/Phone: '.$_POST["tel"].'</h4>
+	<h4>Correo/Email: '.$_POST["email"].'<br></h4>
+	<h4>Fecha de viaje/Travel Date: '.$_POST["traveldate"].'<br></h4>
+	<h4>Destinos de interés/Destinations of interest: '.$_POST["destinos"].'<br></h4>
+	<h4>Número de pasajeros/Number of passengers: '.$_POST["passenger"].'<br></h4>
 	<p> 
-		<strong>Mensaje: </strong>'.$_POST["texto"].'<br><br>
+		<strong>Mensaje/Message: </strong>'.$_POST["texto"].'<br><br>
 	</p>
-	<p>
+		<br><br>
 		Esta es una cuenta de correo no monitoreada, por favor no responder.
-	</p>	
+		<br>
+		Venezuela Travel Tours	
 </body> 
 </html> 
 '; 
@@ -77,7 +84,9 @@ elseif ($_POST["id_page"]=="/somos.php"){
 elseif ($_POST["id_page"]=="/venezuela.php"){
 	header('Location:venezuela.php?id='.$resultado);
 }
-
+elseif ($_POST["id_page"]=="/roques.php"){
+	header('Location:roques.php?id='.$resultado);
+}
 }//if (isset($_POST['enviar']))
 else {
 	header('Location:index.php');

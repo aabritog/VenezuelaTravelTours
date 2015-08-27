@@ -1,10 +1,9 @@
 <!DOCTYPE HTML>
-
 <html lang="es">
 	<head>
 		<title>Venezuela Travel Tours</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo.">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,8 +13,7 @@
 		<script src="JQuery/jquery-2.1.3.min.js"></script>
 		<script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
-		</head>
+	</head>
 
 	<body class="homepage">
 
@@ -145,6 +143,8 @@
 		            <li data-target="#carousel-principal" data-slide-to="1"></li>
 		            <li data-target="#carousel-principal" data-slide-to="2"></li>
 		            <li data-target="#carousel-principal" data-slide-to="3"></li>
+		            <li data-target="#carousel-principal" data-slide-to="4"></li>
+		            <li data-target="#carousel-principal" data-slide-to="5"></li>		            		            
 		            <!--<li data-target="#carousel-principal" data-slide-to="4"></li>-->
 		       		</ol>
 		        
@@ -165,11 +165,18 @@
                     </div>
                     
 		            <div class="item">
+		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="" />
+		                <div class="carousel-caption">
+		                    <h3>Los Roques</h3>
+		                </div>
+		            </div>
+
+		            <div class="item">
 		                <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="" />
 		                <div class="carousel-caption">
 		                    <h3>Canaima</h3>
 		                </div>
-		            </div>
+		            </div>		            
 		            
 		            <div class="item">
 		                <img src="images/slide/Escalando.jpg" width="100%" height="1200px" alt="" />
@@ -178,6 +185,12 @@
 		                </div>
 		            </div>
 
+		            <div class="item">
+		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="" />
+		                <div class="carousel-caption">
+		                    <h3>Los Roques</h3>
+		                </div>
+		            </div>
 		            <!--<div class="item">
 		                <img src="images/pic06.jpg" width="100%" alt="" />
 		                <div class="carousel-caption">
@@ -226,18 +239,18 @@
 							
 							<strong>Nuestro secreto del éxito:</strong><br>
 							• Contamos con un personal altamente calificado.<br>
-							• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+							• Fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
 							• Ofrecemos asistencia inmediata.<br>
-							• Hablamos tu idioma<br><br>
+							• Hablamos tu idioma.<br><br>
 							
 							<strong>Nuestros productos:</strong><br>
-							• Desarrollo de negocios, traducciones o de documentos y traducción simultánea<br>
+							• Desarrollo de negocios, traducciones de documentos y traducción simultánea.<br>
 							• Soluciones Habitacionales:<br>
-							  * Bienes Raíces<br>
-							  * Asistencia Legal<br>
-							  * Apertura de cuentas bancarias<br>
-							• Consultoría de Turismo, arreglos o y viajes de ocio<br>
-							• Transporte<br>
+							  * Bienes Raíces.<br>
+							  * Asistencia Legal.<br>
+							  * Apertura de cuentas bancarias.<br>
+							• Consultoría de Turismo, arreglos o y viajes de ocio.<br>
+							• Transporte.<br>
 						</p>
 			  		</div>
 			  	</div>
@@ -310,13 +323,13 @@
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="venezuela.php" class="image featured"><img src="images/Venezuela02.png" alt=""/></a>
+								<a href="roques.php" class="image featured"><img src="images/los-roques05.jpg" alt=""/></a>
 								<header>
-									<h3><a href="venezuela.php">Venezuela</a></h3>
+									<h3><a href="roques.php">Los Roques</a></h3>
 								</header>
 								<p>
-									Venezuela, oficialmente denominada República Bolivariana de Venezuela, es un país de América situado en la parte septentrional de América del Sur, constituido por una parte continental y por un gran número
-									de islas pequeñas e islotes en el mar Caribe, cuya capital y mayor aglomeración urbana es la...
+									La Dependencia Federal Archipiélago Los Roques es un conjunto de islas y cayos en las Antillas menores pertenecientes a Venezuela que poseen una superficie estimada en 40,61 km² y que están ubicados entre 
+									el archipiélago Las Aves (al oeste) y la isla de La Orchila (al este) a 176 km al norte de la...
 								</p>
 							</article>
 						</div>
@@ -324,7 +337,7 @@
 
 				</div>
 
-	</div>
+				</div>
 
 			<!-- Features -->
 				<!--<div class="wrapper style1">
@@ -379,33 +392,6 @@
 										<h2 class="icon fa-twitter circled"><span class="label">Tweets</span></h2>
 									</header>
 									<?php include("twitter.php"); ?>
-									
-									<!--<ul class="divided">
-										<li>
-											<article class="tweet">
-												Amet nullam fringilla nibh nulla convallis tique ante sociis accumsan.
-												<span class="timestamp">5 minutes ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Hendrerit rutrum quisque.
-												<span class="timestamp">30 minutes ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Curabitur donec nulla massa laoreet nibh. Lorem praesent montes.
-												<span class="timestamp">3 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="tweet">
-												Lacus natoque cras rhoncus curae dignissim ultricies. Convallis orci aliquet.
-												<span class="timestamp">5 hours ago</span>
-											</article>
-										</li>
-									</ul>-->
 								</section>
 
 							<!-- Posts -->
@@ -413,42 +399,7 @@
 									<header>
 										<h2 class="icon fa-file circled"><span class="label">Posts</span></h2>
 									</header>
-									
 									<?php include("facebook.php"); ?>
-									<!--<ul class="divided">
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Nisl fermentum integer</a></h3>
-												</header>
-												<span class="timestamp">3 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Phasellus portitor lorem</a></h3>
-												</header>
-												<span class="timestamp">6 hours ago</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Magna tempus consequat</a></h3>
-												</header>
-												<span class="timestamp">Yesterday</span>
-											</article>
-										</li>
-										<li>
-											<article class="post stub">
-												<header>
-													<h3><a href="#">Feugiat lorem ipsum</a></h3>
-												</header>
-												<span class="timestamp">2 days ago</span>
-											</article>
-										</li>
-									</ul>-->
 								</section>
 
 							<!--Instagram http://instansive.com/-->														
@@ -457,7 +408,6 @@
 										<h2 class="icon fa-camera circled"><span class="label">Photos</span></h2>
 									</header>
 									<div class="row 25%">
-									
 									<?php include("instagram.php"); ?>
 									</div>
 								</section>
@@ -489,15 +439,13 @@
 											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>
-
 							</div>
-
 						</div>						
-		</div>
 					</div>
 				</div>
+				</div>
 
-		</div>
+	<!--</div>-->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -508,9 +456,9 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-			 <script src="JQuery/jquery-2.1.3.min.js"></script>
-        <script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
-        <script src="JQuery/jquery-validation-1.13.1/dist/jquery.validate.min.js"></script>
+			<script src="JQuery/jquery-2.1.3.min.js"></script>
+        	<script src="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+        	<script src="JQuery/jquery-validation-1.13.1/dist/jquery.validate.min.js"></script>
 
 	</body>
 </html>

@@ -17,7 +17,7 @@
 						<nav id="nav">
 							<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="95px" alt="Logo" /></a>-->
 							<ul>
-								<li><a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="100px" alt="Logo" /></a></li>
+								<li><a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="150px" alt="Logo" /></a></li>
 								<!--<li><a href="#"></a></li>
 								<li><a href="#"></a></li>-->
 								<li><a href="index.php">Inicio</a></li>
@@ -25,9 +25,9 @@
 								<li>
 									<a href="#">Destinos</a>
 									<ul>
-										<li><a href="salto.php">Salto Angel</a></li>
 										<li><a href="canaima.php">Canaima</a></li>
-										<!--<li><a href="galapagos.php">Galápagos</a></li>-->
+										<li><a href="roques.php">Los Roques</a></li>
+										<li><a href="salto.php">Salto Angel</a></li>										
 										<!--<li><a href="#">Salar de Uyuni</a></li>-->
 									</ul>
 								</li>

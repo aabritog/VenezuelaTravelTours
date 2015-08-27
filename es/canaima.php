@@ -4,7 +4,7 @@
 	<head>
 		<title>Venezuela Travel Tours - Canaima</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Canaima">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -17,7 +17,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header">
+				<div id="header2">
 
 						<div class="inner">
 							<header>

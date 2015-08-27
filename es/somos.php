@@ -4,7 +4,7 @@
 	<head>
 		<title>Venezuela Travel Tours -  Quienes somos</title>
 		<meta name="description" content="Venezuela Travel Tours es una empresa dedicada al turismo nacional e internacional">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo" />
@@ -70,9 +70,9 @@
 								<br>
 								<strong>NUESTRO SECRETO DEL ÉXITO</strong><br>
 									• Contamos con un personal altamente calificado.<br>
-									• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+									• Fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
 									• Ofrecemos asistencia inmediata.<br>
-									• Hablamos tu idioma<br>
+									• Hablamos tu idioma.<br>
 							</p>
 				  		</div>
 				    </div>
@@ -90,14 +90,13 @@
 	          		<div id="segundoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 				  		<div class="panel-body">
 							<p>
-								<strong>Desarrollo de negocios traducciones o de documentos y traducción simultánea</strong><br><br/>
+								<strong>Desarrollo de negocios, traducciones de documentos y traducción simultánea.</strong><br><br/>
 								<strong>Soluciones habitacionales:</strong><br/>
-									• Bienes Raíces<br/>
-									• Asistencia Legal<br/>
-									• Apertura de cuentas bancarias<br/>
-									• Apertura de cuentas bancarias<br/><br/>
-								<strong>Consultoría de Turismo arreglos o y viajes de ocio</strong><br/><br/>
-								<strong>Transporte</strong><br>
+									• Bienes Raíces.<br/>
+									• Asistencia Legal.<br/>
+									• Apertura de cuentas bancarias.<br/>
+								<strong>Consultoría de Turismo arreglos o y viajes de ocio.</strong><br/><br/>
+								<strong>Transporte.</strong><br>
 							</p>
 				  		</div>
 				    </div>
@@ -118,19 +117,16 @@
 							<p>
 								<strong>Autoridad de Turismo de Panamá</strong><br>
 								    Por los primeros 4 meses de 2015 hemos tenido un impacto en más de 20 millones de espectadores en Japón, la promoción de Panamá como destino turístico.<br><br>
-								
 								<strong>Autoridad del Canal de Panamá</strong><br>
 								    Hemos roto la barrera del idioma mediante el establecimiento de una relación entre la Autoridad del Canal de Panamá y la multinacional ENEOS Oil Company en 2015.<br><br>
-								
 								<strong>Toyota</strong><br>
 								    Tenemos éxito en la reubicación de los altos ejecutivos de esta gran empresa en la Ciudad de Panamá.<br><br>
-					
 								<strong>Only One Travel</strong><br>
-									Ofrecemos una amplia gama de paquetes turísticos conducir por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
-									<br>• Salar de Uyuni, Bolivia
-									<br>• El Salto del Angel, Venezuela
-									<br>• Lencois Maranhenses, Brasil
-									<br>• Machu Picchu, Perú
+									Ofrecemos una amplia gama de paquetes turísticos, conducidos por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
+									<br>• Salar de Uyuni, Bolivia.
+									<br>• El Salto Angel, Venezuela.
+									<br>• Lencois Maranhenses, Brasil.
+									<br>• Machu Picchu, Perú.
 							</p>
 				  		</div>
 				    </div>

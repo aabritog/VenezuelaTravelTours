@@ -25,6 +25,7 @@
             rules: {
                 nombres: "required",
                 apellidos: "required",
+                destinos: "required",
                 email:{
                         required:true,
                         email:true
@@ -40,6 +41,7 @@
             messages: {
                 nombres: "Este campo es obligatorio",
                 apellidos: "Este campo es obligatorio",
+                destinos: "Este campo es obligatorio",
                 email: {
                         required:"Este campo es obligatorio",
                         email:"El correo no es válido"
@@ -130,10 +132,28 @@
 			                    </div>
 			                </div>
 			                <div class="form-group">
+			                    <label style="color: #fff" for="destinos">Destinos de interés:</label>
+			                    <input type="text" class="form-control" name="destinos" id="destinos" placeholder="Ingrese el/los destino(s)" />
+			                </div>			                
+			                <div class="form-group">
+			                    <label style="color: #fff" for="traveldate">Fecha de viaje: </label>
+			                    <div class="input-group">
+			                    	<input type="date" name="traveldate" id="traveldate" class="form-control" step="1" min="<?php echo date("Y-m-d"); ?>" max="2020-12-31" value="<?php echo date("Y-m-d"); ?>">
+			                    </div>			                    
+			                </div>
+			                <div class="form-group">
+			                    <label style="color: #fff" for="passenger">Número de pasajeros:</label>
+			                    <div class="input-group">
+			                    	<input type="number" name="passenger" id="passenger" class="form-control" min="1" max="50" value="1">
+			                    </div>
+			                </div>
+			                <div class="form-group">
 			                    <label style="color: #fff" for="texto">Mensaje:</label>
 			                    <textarea class="form-control" name="texto" id="texto" rows="5"></textarea>
 			                    <input type="hidden" id= "id_page" name="id_page" value="<?php echo $_SERVER['SCRIPT_NAME'] ?>" />
 			                </div>
+			                
+
 			                <input class="btn btn-primary btn-lg btn-block" id="enviar" value="Enviar" name="enviar" type="submit" />
 			         	</form>                  
 			         				                

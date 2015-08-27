@@ -17,4 +17,5 @@ Allow:canaima.php
 Allow:salto.php
 Allow:somos.php
 Allow:venezuela.php
+Allow:roques.php
 
