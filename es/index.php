@@ -3,7 +3,7 @@
 	<head>
 		<title>Venezuela Travel Tours</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo.">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -17,6 +17,9 @@
 
 	<body class="homepage">
 
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>
+		
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -227,7 +230,7 @@
 			  		</h2>
 			  	</div>
           		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">			  
-			    	<div class="panel-body">
+			    	<div class="panel-body">			    		
 							<p>
 								En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. 
 								Grupo Only One, es una empresa "detallada orientada", con una vasta experiencia en:
@@ -252,6 +255,8 @@
 							• Consultoría de Turismo, arreglos o y viajes de ocio.<br>
 							• Transporte.<br>
 						</p>
+				  		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+						<br><div class="addthis_native_toolbox" align="left"></div><br>
 			  		</div>
 			  	</div>
 				</div>

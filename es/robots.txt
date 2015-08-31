@@ -18,4 +18,5 @@ Allow:salto.php
 Allow:somos.php
 Allow:venezuela.php
 Allow:roques.php
+Allow:isla-de-margarita.php
 

@@ -4,7 +4,7 @@
 	<head>
 		<title>Venezuela Travel Tours - Los Roques</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Los Roques">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,6 +14,10 @@
 		
 	</head>
 	<body class="homepage">
+		
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>
+		
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -258,11 +262,9 @@
 		        </div>
 		    </div>
 		</div>		
-
+                    
 			<!--Itinerario del paquete-->	
 		<div class="container">	
-
-
         <div class="container">
              <div class="panel panel-warning">
              <div class="panel-heading">
@@ -274,6 +276,8 @@
              </div>
              <div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           	
+                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
 						<strong>• FULL DAY PEÑERO</strong><br>
 							Boleto aéreo ida y vuelta desde Higuerote, asistencia al llegar a Los Roques, excursión en peñero a un cayo cercano. Toldos y sillas de playa. Almuerzo en la playa, cava con hielo, agua, refrescos y cervezas.  Equipo Snorkeling y juegos de playa. Refrigerios y Guías bilingües. Regreso al final de la tarde.

@@ -4,7 +4,7 @@
 	<head>
 		<title>Venezuela Travel Tours - Canaima</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Canaima">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,6 +14,10 @@
 		
 	</head>
 	<body class="homepage">
+		
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>		
+
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -252,6 +256,8 @@
              </div>
              <div id="cuartoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           
+                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
 						<strong>• Día 1: LLEGADA A CANAIMA / EXCURSIÓN SALTO EL SAPO</strong><br> 
 							Salida en avioneta a las 9:00 am desde el Aeropuerto de Puerto Ordaz con destino a Canaima. En el aeropuerto, estará esperando el guía para trasladarnos en Jeep (15 min.) y posteriormente en curiara (5 min.) hasta el Campamento Ucaima, donde seremos recibidos con un exquisito cóctel de bienvenida. Luego de realizar check in y una vez ubicados en las habitaciones, tenemos tiempo de descanso y/o disfrutar de las instalaciones para luego tomar un suculento almuerzo. Entre 2.00pm y 2.30pm nos preparamos para salir a la excursión a la Laguna de Canaima y Salto el Sapo, donde pasaremos por detrás de la cortina de agua de la cascada, una experiencia que será inolvidable. Al final de la tarde, retornamos al Campamento Ucaima, donde nos esperan con un delicioso refrigerio y cena (A/C).

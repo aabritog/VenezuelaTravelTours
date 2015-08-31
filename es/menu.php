@@ -26,6 +26,7 @@
 									<a href="#">Destinos</a>
 									<ul>
 										<li><a href="canaima.php">Canaima</a></li>
+										<li><a href="isla-de-margarita.php">Margarita</a></li>
 										<li><a href="roques.php">Los Roques</a></li>
 										<li><a href="salto.php">Salto Angel</a></li>										
 										<!--<li><a href="#">Salar de Uyuni</a></li>-->
