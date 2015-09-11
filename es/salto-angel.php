@@ -1,10 +1,9 @@
 <!DOCTYPE HTML>
-
 <html>
 	<head>
 		<title>Venezuela Travel Tours - Salto Angel</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer el Salto Angel">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -25,27 +24,20 @@
 
 						<div class="inner">
 							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
 							</header>
-							<!--<footer>
-								<a href="#banner" class="button circled scrolly">Inicio</a>
-							</footer>-->
 						</div>
 
 					<?php include("menu.php"); ?>
-					
+				<!-- Banner -->
+			<section id="banner">
+				<header>
+					<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer el Salto Angel</h1>
+					<!--<p>
+						Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
+					</p>-->
+				</header>
+			</section>								
 				</div>
-
-			<!-- Banner -->
-<!--				<section id="banner">
-					<header>
-						<h2><strong>SALTO ANGEL</strong></h2>
-						<!--<p>
-							A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
-							Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
-						</p>-->
-					<!--</header>
-				</section>-->
 			<br>
 			
 		<div class="container">	
@@ -104,84 +96,41 @@
 		            <li data-target="#carousel-principal" data-slide-to="1"></li>
 		            <li data-target="#carousel-principal" data-slide-to="2"></li>
 		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		            <!--<li data-target="#carousel-principal" data-slide-to="5"></li>
-		            <li data-target="#carousel-principal" data-slide-to="6"></li>
-		            <li data-target="#carousel-principal" data-slide-to="7"></li>
-		            <li data-target="#carousel-principal" data-slide-to="8"></li>
-		            <li data-target="#carousel-principal" data-slide-to="9"></li>-->	            
+		            <li data-target="#carousel-principal" data-slide-to="4"></li>	            
 		       		</ol>
 		        
 		        <div class="carousel-inner" role="listbox">
-    
+ 
 		            <div class="item active">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="Salto Angel" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
                     </div>
-
-                
                     <div class="item">
-                        <img src="images/slide/SaltoAngel02.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/SaltoAngel02.jpg" width="100%" height="1200px" alt="Salto Angel" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
-                    </div>
-                    
-                    <!--
+                    </div>	           
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel03.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/SaltoAngel05.JPG" width="100%" height="1200px" alt="Salto Angel" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
-		           -->
-		           
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel05.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/SaltoAngel04.JPG" width="100%" height="1200px" alt="Salto Angel" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
-
 		            <div class="item">
-		                <img src="images/slide/SaltoAngel04.JPG" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/SaltoAngel06.JPG" width="100%" height="1200px" alt="Salto Angel" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/SaltoAngel06.JPG" width="100%" height="1200px" alt="" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-<!--
-		            <div class="item">
-		                <img src="images/slide/SaltoAngel07.JPG" width="100%" height="1200px" alt="" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>	            
-
-
-		            <div class="item">
-		                <img src="images/slide/SaltoAngel08.JPG" width="1800px" alt="" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/SaltoAngel09.jpg" width="1800px" alt="" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>		            
-		           -->
-		           
 		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
 		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 		                <span class="sr-only">Anterior</span>

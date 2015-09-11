@@ -1587,6 +1587,12 @@
 		font-weight: 600;
 	}
 
+	/*abrito*/
+	h1 {
+		font-size: 2.85em;
+	}
+	/*abrito*/
+	
 	h2 {
 		font-size: 2.85em;
 	}
@@ -2517,6 +2523,113 @@
 		opacity: 1;
 	}
 /*#header4 Margarita close*/
+
+/*#header5 Delta Orinoco open*/
+	#header5 {
+		position: relative;
+		background-image: url("../../images/OrinocoDelta01.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
+		color: #fff;
+		text-align: center;
+		padding: 7.5em 0 2em 0;
+		cursor: default;
+	}
+
+		#header5:before {
+			content: '';
+			display: inline-block;
+			vertical-align: middle;
+			height: 100%;
+		}
+
+		#header5 .inner {
+			position: relative;
+			z-index: 1;
+			margin: 0;
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		#header5 header {
+			display: inline-block;
+		}
+
+			#header5 header > p {
+				font-size: 1.25em;
+				margin: 0;
+			}
+
+		#header5 h1 {
+			color: #fff;
+			font-size: 3em;
+			line-height: 1em;
+		}
+
+			#header5 h1 a {
+				color: inherit;
+			}
+
+		#header5 .button {
+			display: inline-block;
+			border-radius: 100%;
+			width: 4.5em;
+			height: 4.5em;
+			line-height: 4.5em;
+			text-align: center;
+			font-size: 1.25em;
+			padding: 0;
+		}
+
+		#header5 hr {
+			top: 1.5em;
+			margin-bottom: 3em;
+			border-bottom-color: rgba(192, 192, 192, 0.35);
+			box-shadow: inset 0 1px 0 0 rgba(192, 192, 192, 0.35);
+		}
+
+			#header5 hr:before, #header5 hr:after {
+				background: rgba(192, 192, 192, 0.35);
+			}
+
+		#header5 footer {
+			margin: 1em 0 0 0;
+		}
+
+	body.homepage #header5 {
+		height: 100vh;
+		min-height: 40em;
+	}
+
+		body.homepage #header5 h1 {
+			font-size: 4em;
+		}
+
+		body.homepage #header5:after {
+			content: '';
+			background: #1C0920;
+			display: block;
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			opacity: 0;
+			-moz-transition: opacity 2.5s ease-in-out;
+			-webkit-transition: opacity 2.5s ease-in-out;
+			-ms-transition: opacity 2.5s ease-in-out;
+			transition: opacity 2.5s ease-in-out;
+			-moz-transition-delay: 0.5s;
+			-webkit-transition-delay: 0.5s;
+			-ms-transition-delay: 0.5s;
+			transition-delay: 0.5s;
+		}
+
+	body.homepage.is-loading #header5:after {
+		opacity: 1;
+	}
+/*#header5 Delta Orinoco close*/
 
 /* Nav */
 

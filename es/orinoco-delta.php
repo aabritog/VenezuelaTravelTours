@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Venezuela Travel Tours - Margarita</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer a la Isla de Margarita">
+		<title>Venezuela Travel Tours - Delta del Orinoco</title>
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer el Delta del Orinoco">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
@@ -20,7 +20,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header4">
+				<div id="header5">
 
 						<div class="inner">
 							<header>
@@ -29,35 +29,39 @@
 						</div>
 
 					<?php include("menu.php"); ?>
-					
 				</div>
 			<br>
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer a la Isla de Margarita</h1>
+				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer el Delta del Orinoco</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
 			</header>
-		</section>					
+		</section>						
 		<div class="container">	
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Isla de Margarita
+                                Delta del Orinoco
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-						La isla de Margarita, llamada la Perla del Caribe, está ubicada al sureste del mar Caribe, noreste venezolano, al norte de la península de Araya del estado Sucre. Junto a las islas de Coche y Cubagua, constituye el único estado insular de Venezuela, denominado Nueva Esparta. La isla desempeñó un papel importante en la historia de independencia de Venezuela.
+						El Delta del Orinoco es el delta formado por la desembocadura del río Orinoco, uno de los más grandes del mundo. Su extensión hizo pensar a los primeros exploradores españoles que se trataba de un mar. Se considera un lugar de gran riqueza paisajística por la gran variedad de flora y fauna que alberga.
 			    		<br><br>
+			    		Se encuentra en el estado Delta Amacuro, al este de Venezuela. Inspirándose en el pensamiento de Heródoto, el deltano Domingo Ordaz dice que el delta es un "presente del Orinoco", refiriéndose al conjunto de islas y caños situados en la zona cercana a la desembocadura. Considerar al delta como un presente
+			    		del Orinoco no sólo sirve de manera metafórica, sino que se plasma en la realidad pues la mayoría de las islas que la conforman, son el producto de la constante acumulación de materiales que el Orinoco ha arrastrado a través de su existencia milenaria, con el aporte de sus afluentes y en la medida que el mar
+			    		fue retirándose de las estribaciones de la Sierra Imataca, hasta donde había penetrado, formando un inmenso golfo con una boca aproximadamente de 350 km. No todas sus islas son producto de la acumulación de sedimentos, sino que también fueron formadas por la acumulación de lodo proveniente de erupciones de volcanes
+			    		de lodo como es el caso del cerro Cedral ubicado en Capure y en la isla Cotorra y de Plata, situadas al norte de Pedernales. La formación del delta se remonta en el tiempo a la Era Terciaria, miles de años antes constituía un espacio geográfico cubierto por el mar, pero debido a la acción de las corrientes marinas
+			    		se dio el retiro de las aguas del mar produciéndose el delta.
 					</p>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d209846.27140608802!2d-64.09254235!3d11.019099999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c31f1a90b8eb173%3A0x8f83879d37efd85e!2sIsla+de+Margarita!5e1!3m2!1ses-419!2sve!4v1440775890686" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d354758.28624579334!2d-61.60822988284855!3d9.361390217036183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdelta+del+orinoco!5e1!3m2!1ses-419!2sve!4v1441290145442" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                    </div>
                </div>
                </div>
@@ -71,68 +75,46 @@
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
-
-			            <div class="row featurette">
-			                <div class="col-md-9">
-			                    <strong>• CLIMA</strong><br>
 			                    <p>
-									Se caracteriza principalmente por un clima tropical seco semi-árido acompañado de un sol radiante, en gran medida en la península de Macanao. La temperatura media es de 27 °C con mínimas que oscilan entre 22º y 23 °C y máximas que pueden superar fácilmente los 34 °C.
-									Existen excepciones como el cerro Copey en donde se puede percibir un tipo de clima montañoso en donde la temperatura puede descender drásticamente a los 14 °C. Las precipitaciones son comunes en los meses de invierno o estación lluviosa que empieza a mediados de 
-									julio-octubre (si bien suelen ser bastante escasas). No se han registrado nevadas ni granizadas en la isla de Margarita. Por estar ubicada en el mar Caribe, cerca del ecuador terrestre, los rayos solares inciden perpendicularmente sobre la isla y por ello es recomendable
-									usar siempre algún tipo de bloqueador solar al momento de visitar sus playas.
+									El delta del orinoco es el segundo delta más grande del continente, con una superficie de unos 25000 kmq. En la parte inferior el río alcanza un ancho de 20 km, dividiéndose en acerca de 40 canales de los que el más meridional e importante es el Recobro Grande.
+								<br><br>
+									El delta es compuesto por un laberinto de islas separado por canales, cuyas orillas están en buena parte flanqueara por manglares. La vegetación además es constituida por selvas mixtas, dónde nacen varios tipos de palmas, entre cuyo la más característica de la región, conocida como moriche.
 								</p>
-			                </div>
-			                <div class="col-md-3">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-fauna01.jpg" />
-			                </div>
-			            </div>
 			
 			            <div class="row featurette">
 			                <div class="col-md-7 col-md-push-5">
-			                    <strong>• FAUNA</strong><br>
 			                    <p>
-					    			La fauna de la Isla de Margarita a parte de no ser lo suficientemente valorada y conocida posee una gran variedad de animales; una importante cantidad de los animales de la Isla de Margarita se encuentra en un peligro de extinción y lo más inaudito es que no se crea 
-					    			conciencia a cerca de ello, lo cual es un problema grave ya que se alterarían los procesos de la vida y la biodiversidad de Margarita. Entre los animales más destacados de la Isla de Margarita se encuentran:
-								<br><br>
-										<i>° El Odocoileus margaritae,</i> es una especie de venado endémica de la Isla, este particular venado sólo se encuentra localizado en la Isla de Margarita ya que en la Isla de Coche ya no se hallan ejemplares aunque se cree que los hubo
-									<br>
-										<i>° El Leopardus pardalis,</i> es un mamífero carnivoro que se distribuye en America, el cual posee 10 subespecies entre las cuales se encuentra el ocelote de Venezuela (Leopardus pardalis melanurus) el cual también se distribuye en Guyana, Trinidad, Barbados y Granada.
-									<br>
-										<i>° Cebus apella margaritae,</i> es también llamado en Margarita, mono machín, mono capuchino o mono común. Esta es otra de las especies de animales de Margarita que se halla en peligro de extinción.
-									<br>
-										<i>° El Sciurus granatensis nesaeus,</i> es una subespecie de ardilla endémica de la Isla ya que existen más de 30 subespecies de este tipo de ardilla.
-									<br>
-										<i>° El Dasypus novemcinctus (Cachicamo),</i> es un mamífero emparentado con los osos hormigueros y los perezosos. Este se encuentra desde los Estados Unidos hasta Argentina. Posee aproximadamente 5 subespecies entre las cuales esta la de Venezuela y/o Margarita.
+			                    <br><br>
+					    			El clima se caracteriza por presentar una temperatura media de 26,7 °C, la máxima media es de 32,3 °C y la mínima media es de 23 °C. La pluviosidad alcanza desde 900 hasta 2500 mm, entre mínimas y máximas respectivamente. Los vientos alisios del noreste y sudeste, al ponerse 
+					    			en contacto con tierras deltanas, producen el viento este-oeste que avanza por el cauce del Orinoco. Durante la crecida se observa la presencia del llamado viento barinés, el cual se desplaza siguiendo la misma dirección del Orinoco. En la época de menor precipitación pluvial 
+					    			actúan en la zona los vientos llamados "nortes". Debido a la influencia de las mareas que se producen en el Atlántico, se eleva y baja el caudal de aguas del río Orinoco y los caños del delta. La acción mediante la cual la marea entra y cambia la dirección del río y su red de 
+					    			caños se llama flujo, y la salida o descenso del agua permitiendo que la corriente del río y caños tomen su dirección normal se denomina reflujo. Cuando el flujo alcanza su nivel máximo hace posible que el agua salada se desplace hacia el interior del delta por sus caños, los 
+					    			cuales se desbordan y anegan las tierras adyacentes facilitando la formación de grandes manglares, ubicados en las áreas cercanas a la costa atlántica.
 								<br><br>							                    	
 			                    </p>
 			                </div>
 			                <br><br>
 			                
 			                <div class="col-md-5 col-md-pull-7">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-fauna02.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/DeltaOrinoco.jpg" />
 			                </div>
 			            </div>
-		
 			            <div class="row featurette">
 			                <div class="col-md-9">
-			                    <br>
-			                    <strong>• VEGETACIÓN</strong><br>
-			                    	En la isla de Margarita los efectos climáticos y/o edáficos han producido una mezcla de zonas de vida, con variados ecosistemas que comprenden desde la maleza desértica tropical, en las zonas bajas y secas, hasta el monte espinoso y el bosque seco tropical en zonas de mayor altura.
-			                    	En el cerro Copey se encuentra el bosque húmedo premontano y en las zonas pantanosas y salinas abundan los manglares.
+									Esta región ha sido por largo tiempo una de las más salvajes de Venezuela, pero la situación es notablemente cambiada después del descubrimiento y la explotación de los grandes yacimientos petrolíferos situado en la zona de perdenales. Otro elemento que ha modificado la costumbre de vida es el tráfico de estupefacientes que explota los canales del delta para hacer llegar la droga de Columbia a los Caribe.
+								<br><br>
+									La capital del estado es Tucupita, que se encuentra en las orillas del Canao manamo, situado en el extremo occidente del delta y cuyo corrido es interrumpido por un dique apuesta 22 km a sur de Tucupita. La calle que pasa sobre el dique es la única calle de enlace terrenal existente entre la capital y el resto del país.
+									Tucupita es que considerarse una base más de cuyo desplazarse en la exploración del Delta, que una meta turística real.
 			                    <br><br>
-			                    	Las especies más representativas son olivos, dividive y pardillo, alrededor de los cerros Copey, Matasiete y Guaraguao. El bosque muy seco se encuentra en áreas de 
-			                    	vegetación muy intervenida. Las principales especies son: cují, guatacare, guamache, cardón, dividive y olivo. Los espinares y las malezas desérticas, formaciones dominantes del estado, ocupan las llanuras costeras. Sus principales especies son abrojo, cují (yaque), orégano, tuna,
-			                    	cardón, dividive (guatapanare), guamache, ortiga (guaritoto) y otras. Las concentraciones de manglares se localizan en La Restinga, Las Marites y otras zonas de agua costaneras. Las especies más importantes son el mangle colorado, botoncillo y el mangle negro.
-			                    <br>
 			                </div>
 			                <div class="col-md-3">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-vegetacion-bahia-de-plata.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/slide/OrinocoDelta01.jpg" />
 			                </div>
 			            </div>	            
                    </div>
              </div>
              </div>
-             <div class="panel panel-warning">
+             <!--<div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
@@ -153,7 +135,7 @@
 					</p>
                    </div>
              </div>
-             </div>
+             </div>-->
         </div>			
 			
 	</div>	
@@ -176,51 +158,51 @@
 		        
 		        <div class="carousel-inner" role="listbox">
 		            <div class="item active">
-                        <img src="images/slide/Margarita03.jpg" width="100%" height="1200px" alt="Margarita Isla" />
+                        <img src="images/slide/OrinocoDelta02.jpg" width="100%" height="1200px" alt="Orinoco Delta" />
                         <div class="carousel-caption">
-		                    <h3>Isla de Coche</h3>
+		                    <h3></h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/Margarita02.jpg" width="100%" height="1200px" alt="Isla de Margarita" />
+                        <img src="images/slide/OrinocoDelta04.jpg" width="100%" height="1200px" alt="Delta del Orinoco" />
                         <div class="carousel-caption">
-		                    <h3>Basílica Menor de la Virgen del Valle</h3>
+		                    <h3></h3>
                         </div>
                     </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita04.jpg" width="100%" height="1200px" alt="Isla de coche" />
+		                <img src="images/slide/OrinocoDelta06.jpg" width="100%" height="1200px" alt="Rio Orinoco" />
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita05.jpg" width="100%" height="1200px" alt="Castillo de Pampatar Margarita" />
+		                <img src="images/slide/OrinocoDelta05.jpg" width="100%" height="1200px" alt="Delta Orinoco" />
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita06.jpg" width="100%" height="1200px" alt="Estado Nueva Esparta" />
+		                <img src="images/slide/OrinocoDelta08.jpg" width="100%" height="1200px" alt="Delta del Orinoco" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita09.jpg" width="100%" height="1200px" alt="Laguna de la restinga" />
+		                <img src="images/slide/OrinocoDelta09.jpg" width="100%" height="1200px" alt="Orinoco" />
 		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita10.jpg" width="100%" height="1200px" alt="Laguna de la restinga" />
+		                <img src="images/slide/OrinocoDelta11.jpg" width="100%" height="1200px" alt="Delta Venezuela" />
 		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>	
 		            <div class="item">
-		                <img src="images/slide/Margarita07.jpg" width="100%" height="1200px" alt="Punta ballena" />
+		                <img src="images/slide/OrinocoDelta07.jpg" width="100%" height="1200px" alt="Oricono Delta Indio" />
 		                <div class="carousel-caption">
-		                    <h3>Faro de Punta Ballena</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>			            	         
 		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">

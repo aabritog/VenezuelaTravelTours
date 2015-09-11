@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<title>Venezuela Travel Tours</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo.">
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exóticos de Venezuela y el mundo.">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
@@ -42,9 +42,8 @@
 			<!-- Banner -->
 				<section id="banner">
 					<header>
-						<h2>Only One Travel te lleva a conocer los destinos turísticos mas exóticos del mundo...</h2>
+						<h1>Only One Travel te lleva a conocer los destinos turísticos mas exóticos del mundo...</h1>
 						<!--<p>
-							A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
 							Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 						</p>-->
 					</header>
@@ -55,23 +54,23 @@
 					<div class="reel" id="carousel">
 
 						<article>
-							<a href="salto.php" class="image featured"><img src="images/SaltoAngel.jpg" alt="" /></a>
+							<a href="salto-angel.php" class="image featured"><img src="images/SaltoAngel.jpg" alt="Salto Angel" title="Salto Angel" /></a>
 							<header>
-								<h3><a href="salto.php"><p>Salto Angel<br>Venezuela</p></a></h3>
+								<h3><a href="salto-angel.php"><p>Salto Angel<br>Venezuela</p></a></h3>
 							</header>
 							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
-							<a href="canaima.php" class="image featured"><img src="images/Canaima.jpg" alt="" /></a>
+							<a href="parque-canaima.php" class="image featured"><img src="images/Canaima.jpg" alt="Canaima" title="Canaima" /></a>
 							<header>
-								<h3><a href="canaima.php">Canaima<br>Venezuela</a></h3>
+								<h3><a href="parque-canaima.php">Canaima<br>Venezuela</a></h3>
 							</header>
 							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/Galapagos.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/Galapagos.jpg" alt="Isla Galapagos" title="Isla Galapagos"/></a>
 							<header>
 								<h3><a href="#">Galapagos<br>Ecuador</a></h3>
 							</header>
@@ -79,7 +78,7 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/SalarDeUyuni.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/SalarDeUyuni.jpg" alt="Salar de Uyuni" title="Salar de Uyuni"/></a>
 							<header>
 								<h3><a href="#">Salar de Uyuni<br>Bolivia</a></h3>
 							</header>
@@ -87,53 +86,12 @@
 						</article>
 
 						<article>
-							<a href="#" class="image featured"><img src="images/MachuPicchu.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/MachuPicchu.jpg" alt="Machu Picchu" title="Machu Picchu" /></a>
 							<header>
 								<h3><a href="#">Machu Picchu<br>Perú</a></h3>
 							</header>
 							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
-
-						<!--<article>
-							<a href="#" class="image featured"><img src="images/LencoisMaranhenses.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Lencois Maranhenses<br>Brazil</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>-->
-
-<!--						<article>
-							<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Fermentum sagittis proin</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
-
-						<article>
-							<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
-
-						<article>
-							<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Ultrices urna sit lobortis</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
-
-						<article>
-							<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Varius magnis sollicitudin</a></h3>
-							</header>
-							<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>
-						</article>
--->
 					</div>
 				</section>
 
@@ -154,59 +112,46 @@
 		        <div class="carousel-inner" role="listbox">
 
 		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
                         <div class="carousel-caption">
                             <h3>Canaima</h3>
                         </div>
                     </div>
                     
                     <div class="item">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="" />
+                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
                         <div class="carousel-caption">
                             <h3>Salto Angel</h3>
                         </div>
                     </div>
                     
 		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques" />
 		                <div class="carousel-caption">
 		                    <h3>Los Roques</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
 		                <div class="carousel-caption">
 		                    <h3>Canaima</h3>
 		                </div>
 		            </div>		            
 		            
 		            <div class="item">
-		                <img src="images/slide/Escalando.jpg" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/Escalando.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
 		            </div>
 
 		            <div class="item">
-		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="" />
+		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques"/>
 		                <div class="carousel-caption">
 		                    <h3>Los Roques</h3>
 		                </div>
-		            </div>
-		            <!--<div class="item">
-		                <img src="images/pic06.jpg" width="100%" alt="" />
-		                <div class="carousel-caption">
-		                    <h3>Imagen 4</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-                        <img src="images/pic06.jpg" width="100%" alt="" />
-                        <div class="carousel-caption">
-                            <h3>Imagen 5</h3>
-                        </div>
-                 </div>-->
-		            
+		            </div>		            
 		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
 		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 		                <span class="sr-only">Anterior</span>
@@ -261,42 +206,6 @@
 			  	</div>
 				</div>
 			</div>	
-		    <!--<article id="main" class="container special">
-
-							<header>
-							<h2><a href="#">Quienes Somos</a></h2>
-							</header>
-							<p>
-								En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. 
-								Grupo Only One, es una empresa "detallada orientada", con una vasta experiencia en:
-								desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
-							</p>
-
-						<p>
-							Nuestra misión:<br>
-							• Ofrecer un producto nunca antes visto en América Latina.<br><br>
-							
-							Nuestro secreto del éxito:<br>
-							• Contamos con un personal altamente calificado.<br>
-							• Nos fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
-							• Ofrecemos asistencia inmediata.<br>
-							• Hablamos tu idioma<br><br>
-							
-							Nuestros productos:<br>
-							• Desarrollo de negocios<br>
-							traducciones o de documentos y traducción simultánea<br>
-							• Soluciones Habitacionales<br>
-							o Bienes Raíces<br>
-							o Asistencia Legal<br>
-							o Apertura de cuentas bancarias<br>
-							• Consultoría de Turismo<br>
-							arreglos o y viajes de ocio<br>
-							o Transporte<br><br>
-						</p>
-						<footer>
-							<a href="somos.php" class="button">Continuar Leyendo</a>
-						</footer>
-					</article>-->
 			</div>
 
 			<!-- Features -->
@@ -308,9 +217,9 @@
 						</header>
 						<div class="row">
 							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/Angel-Falls.png" alt="" /></a>
+								<a href="salto-angel.php" class="image featured"><img src="images/Angel-Falls.png" alt="Salto Angel" title="Salto Angel" /></a>
 								<header>
-									<h3><a href="salto.php">Salto Angel</a></h3>
+									<h3><a href="salto-angel.php">Salto Angel</a></h3>
 								</header>
 								<p>
 									El Salto Ángel (Kerepakupai Vená, en pemón, que significa «salto del lugar más profundo») es el salto de agua más alto del mundo,
@@ -318,9 +227,9 @@
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/canaima998xgh7.png" alt="" /></a>
+								<a href="parque-canaima.php" class="image featured"><img src="images/canaima998xgh7.png" alt="Canaima" title="Canaima" /></a>
 								<header>
-									<h3><a href="canaima.php">Canaima</a></h3>
+									<h3><a href="parque-canaima.php">Canaima</a></h3>
 								</header>
 								<p>
 									En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO,
@@ -328,9 +237,9 @@
 								</p>
 							</article>
 							<article class="4u 12u(mobile) special">
-								<a href="roques.php" class="image featured"><img src="images/los-roques05.jpg" alt=""/></a>
+								<a href="los-roques.php" class="image featured"><img src="images/los-roques05.jpg" alt="Los Roques" title="Los Roques"/></a>
 								<header>
-									<h3><a href="roques.php">Los Roques</a></h3>
+									<h3><a href="los-roques.php">Los Roques</a></h3>
 								</header>
 								<p>
 									La Dependencia Federal Archipiélago Los Roques es un conjunto de islas y cayos en las Antillas menores pertenecientes a Venezuela que poseen una superficie estimada en 40,61 km² y que están ubicados entre 
@@ -339,52 +248,8 @@
 							</article>
 						</div>
 					</section>
-
 				</div>
-
 				</div>
-
-			<!-- Features -->
-				<!--<div class="wrapper style1">
-					<section id="features" class="container special">
-						<header>
-							<h2>NUESTROS PAQUETES</h2>
-						</header>
-						<div class="row">
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/Angel-Falls.png" alt="" /></a>
-								<header>
-									<h3><a href="salto.php">Salto Angel</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/canaima998xgh7.png" alt="" /></a>
-								<header>
-									<h3><a href="#">Canaima</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Otro</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-						</div>
-					</section>
-
-				</div>-->
 
 			<!-- Footer -->
 				<div id="footer">
@@ -416,7 +281,6 @@
 									<?php include("instagram.php"); ?>
 									</div>
 								</section>
-
 						</div>
 
 						<?php include("contacto.php"); ?>						
@@ -427,7 +291,7 @@
 								<!-- Contact -->
 									<section class="contact">
 										<ul class="icons">
-											<li><a href="https://twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.twitter.com/vzlatraveltours" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 											<li><a href="https://www.facebook.com/VenezuelaTravelTours" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://instagram.com/venezuelatraveltours" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 											<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
@@ -449,9 +313,6 @@
 					</div>
 				</div>
 				</div>
-
-	<!--</div>-->
-
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.dropotron.min.js"></script>

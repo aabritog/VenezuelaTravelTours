@@ -72,20 +72,26 @@ else {
 if ($_POST["id_page"]=="/index.php"){
 	header('Location:index.php?id='.$resultado);
 }
-elseif ($_POST["id_page"]=="/salto.php"){
-	header('Location:salto.php?id='.$resultado);
+elseif ($_POST["id_page"]=="/salto-angel.php"){
+	header('Location:salto-angel.php?id='.$resultado);
 }
-elseif ($_POST["id_page"]=="/canaima.php"){
-	header('Location:canaima.php?id='.$resultado);
+elseif ($_POST["id_page"]=="/parque-canaima.php"){
+	header('Location:parque-canaima.php?id='.$resultado);
 }
-elseif ($_POST["id_page"]=="/somos.php"){
-	header('Location:somos.php?id='.$resultado);
+elseif ($_POST["id_page"]=="/quienes-somos.php"){
+	header('Location:quienes-somos.php?id='.$resultado);
 }
 elseif ($_POST["id_page"]=="/venezuela.php"){
 	header('Location:venezuela.php?id='.$resultado);
 }
-elseif ($_POST["id_page"]=="/roques.php"){
-	header('Location:roques.php?id='.$resultado);
+elseif ($_POST["id_page"]=="/los-roques.php"){
+	header('Location:los-roques.php?id='.$resultado);
+}
+elseif ($_POST["id_page"]=="/isla-de-margarita.php"){
+	header('Location:isla-de-margarita.php?id='.$resultado);
+}
+elseif ($_POST["id_page"]=="/orinoco-delta.php"){
+	header('Location:orinoco-delta.php?id='.$resultado);
 }
 }//if (isset($_POST['enviar']))
 else {

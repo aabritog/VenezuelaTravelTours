@@ -3,7 +3,7 @@ Disallow:/assets/
 Disallow:/helios/
 Disallow:/images/
 Disallow:/JQuery/
-Disallow:/PHPMailer_5.2.1/
+Disallow:/bootstrap-3.3.4-dist/
 Disallow:correo.php
 Disallow:menu.php
 Disallow:info.php
@@ -13,10 +13,10 @@ Disallow:facebook.php
 Disallow:instagram.php
 Disallow:galapagos.php
 Allow:index.php
-Allow:canaima.php
-Allow:salto.php
-Allow:somos.php
+Allow:parque-canaima.php
+Allow:salto-angel.php
+Allow:quienes-somos.php
 Allow:venezuela.php
-Allow:roques.php
+Allow:los-roques.php
 Allow:isla-de-margarita.php
-
+Allow:orinoco-delta.php
