@@ -93,6 +93,9 @@ elseif ($_POST["id_page"]=="/isla-de-margarita.php"){
 elseif ($_POST["id_page"]=="/orinoco-delta.php"){
 	header('Location:orinoco-delta.php?id='.$resultado);
 }
+elseif ($_POST["id_page"]=="/estado-merida.php"){
+	header('Location:estado-merida.php?id='.$resultado);
+}
 }//if (isset($_POST['enviar']))
 else {
 	header('Location:index.php');

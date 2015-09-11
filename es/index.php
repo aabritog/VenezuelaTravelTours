@@ -3,7 +3,7 @@
 	<head>
 		<title>Venezuela Travel Tours</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exóticos de Venezuela y el mundo.">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -163,7 +163,7 @@
 		        </div>
 		        
 		    </div>
-		    <div id="nostros">
+		    <!--<div id="nostros">
 		    	
 			<div class="container">
 				<div class="panel panel-warning">
@@ -199,20 +199,20 @@
 							  * Apertura de cuentas bancarias.<br>
 							• Consultoría de Turismo, arreglos o y viajes de ocio.<br>
 							• Transporte.<br>
-						</p>
+						</p>-->
 				  		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-						<br><div class="addthis_native_toolbox" align="left"></div><br>
+						<!--<br><div class="addthis_native_toolbox" align="left"></div><br>
 			  		</div>
 			  	</div>
 				</div>
 			</div>	
-			</div>
+			</div>-->
 
 			<!-- Features -->
 				<div class="wrapper style1">
 					<section id="features" class="container special">
 						<header>
-							<h2>Nuestros Paquetes</h2><br>
+							<h2>Conoce nuestros paquetes turísticos</h2><br>
 							<!--<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>-->
 						</header>
 						<div class="row">
@@ -247,6 +247,38 @@
 								</p>
 							</article>
 						</div>
+						<div class="row">
+							<article class="4u 12u(mobile) special">
+								<a href="orinoco-delta.php" class="image featured"><img src="images/OrinocoDelta03-368x256.jpg" alt="Delta del Orinoco" title="Delta del Orinoco" /></a>
+								<header>
+									<h3><a href="orinoco-delta.php">Delta del Orinoco</a></h3>
+								</header>
+								<p>
+									El Delta del Orinoco es el delta formado por la desembocadura del río Orinoco, uno de los más grandes del mundo. Su extensión hizo 
+									pensar a los primeros exploradores españoles que se trataba de un mar. Se considera un lugar de gran riqueza paisajística por la gran variedad de flora y fauna...
+								</p>
+							</article>
+							<article class="4u 12u(mobile) special">
+								<a href="isla-de-margarita.php" class="image featured"><img src="images/Margarita03-368x256.jpg" alt="Margarita" title="Margarita" /></a>
+								<header>
+									<h3><a href="isla-de-margarita.php">Margarita</a></h3>
+								</header>
+								<p>
+									La isla de Margarita, llamada la Perla del Caribe, está ubicada al sureste del mar Caribe, noreste venezolano, al norte de la península 
+									de Araya del estado Sucre. Junto a las islas de Coche y Cubagua, constituye el único estado insular de Venezuela, denominado Nueva Esparta. La isla desempeñó...
+								</p>
+							</article>
+							<article class="4u 12u(mobile) special">
+								<a href="estado-merida.php" class="image featured"><img src="images/Merida-paramo-culata02-368x256.jpg" alt="Merida" title="Mérida"/></a>
+								<header>
+									<h3><a href="estado-merida.php">Mérida</a></h3>
+								</header>
+								<p>
+									La ciudad de Mérida, cuyo nombre oficial es Santiago de los Caballeros de Mérida es la capital del municipio Libertador y del estado Mérida. Es una de las principales localidades de los Andes venezolanos. 
+									Se encuentra ubicada sobre una meseta en medio de la región, justo entre las sierras montañosas... 
+								</p>
+							</article>
+						</div>						
 					</section>
 				</div>
 				</div>

@@ -28,6 +28,7 @@
 										<li><a href="parque-canaima.php">Canaima</a></li>
 										<li><a href="orinoco-delta.php">Delta del Orinoco</a></li>
 										<li><a href="isla-de-margarita.php">Margarita</a></li>
+										<li><a href="estado-merida.php">Mérida</a></li>										
 										<li><a href="los-roques.php">Los Roques</a></li>
 										<li><a href="salto-angel.php">Salto Angel</a></li>										
 										<!--<li><a href="#">Salar de Uyuni</a></li>-->

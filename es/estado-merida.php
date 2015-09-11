@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Venezuela Travel Tours - Delta del Orinoco</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer el Delta del Orinoco">
+		<title>Venezuela Travel Tours - Mérida</title>
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Mérida">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
@@ -20,7 +20,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header5">
+				<div id="header6">
 
 						<div class="inner">
 							<header>
@@ -34,7 +34,7 @@
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer el Delta del Orinoco</h1>
+				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer Mérida</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
@@ -46,22 +46,19 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Delta del Orinoco
+                                Mérida
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-						El Delta del Orinoco es el delta formado por la desembocadura del río Orinoco, uno de los más grandes del mundo. Su extensión hizo pensar a los primeros exploradores españoles que se trataba de un mar. Se considera un lugar de gran riqueza paisajística por la gran variedad de flora y fauna que alberga.
+						La ciudad de Mérida, cuyo nombre oficial es Santiago de los Caballeros de Mérida es la capital del municipio Libertador y del estado Mérida. Es una de las principales localidades de los Andes venezolanos. Se encuentra ubicada sobre una meseta en medio de la región, justo entre las sierras montañosas de La Culata y 
+						Nevada y los parques nacionales homónimos, dicha condición geográfica la posiciona como un importante centro turístico. Así mismo el prestigio de su principal universidad y la vasta variedad de institutos de enseñanza la han situado a nivel nacional como destino predilecto para el turismo y la población estudiantil. 
+						Posee gran movimiento nocturno; una cultura rica y diversa, es un importante centro deportivo y posee un notable desarrollo comercial y tecnológico.
 			    		<br><br>
-			    		Se encuentra en el estado Delta Amacuro, al este de Venezuela. Inspirándose en el pensamiento de Heródoto, el deltano Domingo Ordaz dice que el delta es un "presente del Orinoco", refiriéndose al conjunto de islas y caños situados en la zona cercana a la desembocadura. Considerar al delta como un presente
-			    		del Orinoco no sólo sirve de manera metafórica, sino que se plasma en la realidad pues la mayoría de las islas que la conforman, son el producto de la constante acumulación de materiales que el Orinoco ha arrastrado a través de su existencia milenaria, con el aporte de sus afluentes y en la medida que el mar
-			    		fue retirándose de las estribaciones de la Sierra Imataca, hasta donde había penetrado, formando un inmenso golfo con una boca aproximadamente de 350 km. No todas sus islas son producto de la acumulación de sedimentos, sino que también fueron formadas por la acumulación de lodo proveniente de erupciones de volcanes
-			    		de lodo como es el caso del cerro Cedral ubicado en Capure y en la isla Cotorra y de Plata, situadas al norte de Pedernales. La formación del delta se remonta en el tiempo a la Era Terciaria, miles de años antes constituía un espacio geográfico cubierto por el mar, pero debido a la acción de las corrientes marinas
-			    		se dio el retiro de las aguas del mar produciéndose el delta.
 					</p>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d354758.28624579334!2d-61.60822988284855!3d9.361390217036183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdelta+del+orinoco!5e1!3m2!1ses-419!2sve!4v1441290145442" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d45474.59836600714!2d-71.15510630000001!3d8.583264765125572!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e648721ba42e8dd%3A0x5df63fea56d56c66!2zTcOpcmlkYQ!5e1!3m2!1ses-419!2sve!4v1442005372047" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                    </div>
                </div>
                </div>
@@ -75,67 +72,104 @@
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
+
+			            <div class="row featurette">
+			                <div class="col-md-9">
+			                    <strong>• CLIMA</strong><br>
 			                    <p>
-									El delta del orinoco es el segundo delta más grande del continente, con una superficie de unos 25000 kmq. En la parte inferior el río alcanza un ancho de 20 km, dividiéndose en acerca de 40 canales de los que el más meridional e importante es el Recobro Grande.
-								<br><br>
-									El delta es compuesto por un laberinto de islas separado por canales, cuyas orillas están en buena parte flanqueara por manglares. La vegetación además es constituida por selvas mixtas, dónde nacen varios tipos de palmas, entre cuyo la más característica de la región, conocida como moriche.
+									Posee un clima subtropical con temperaturas moderadas debido a la situación geográfica de esta ciudad dentro de la cordillera andina, y a su gran altitud. En las zonas y montañas circundantes, por encima de los metros de altura el clima es templado de montaña.
+								<br>
+									Aunque la polución ha generado un aumento en la temperatura, ésta se ha mantenido más baja (en términos relativos) que en las otras ciudades importantes del país, con registros que oscilan entre los 18 °C y los 24 °C, determinando un promedio general de 18,9 °C. 
+									Las precipitaciones son de intensidad media durante las épocas de lluvia, desde el mes de abril hasta el mes de noviembre. La temperatura de la ciudad varía de norte a sur según la altitud. El norte de la ciudad se encuentra más alto, a unos 1700 msnm manteniendo 
+									una temperatura promedio de 16 °C. El sur posee un clima más cálido por encontrarse a unos 1300 metros sobre el nivel del mar, teniendo una temperatura promedio de 22 °C.
 								</p>
+			                </div>
+			                <div class="col-md-3">
+			                	<br>
+			                    <img class="featurette-image img-responsive center-block" src="images/slide/Merida-pico-bolivar-nevado.jpg" />
+			                </div>
+			            </div>
 			
 			            <div class="row featurette">
 			                <div class="col-md-7 col-md-push-5">
+			                    <strong>• ECONOMÍA</strong><br>
 			                    <p>
-			                    <br><br>
-					    			El clima se caracteriza por presentar una temperatura media de 26,7 °C, la máxima media es de 32,3 °C y la mínima media es de 23 °C. La pluviosidad alcanza desde 900 hasta 2500 mm, entre mínimas y máximas respectivamente. Los vientos alisios del noreste y sudeste, al ponerse 
-					    			en contacto con tierras deltanas, producen el viento este-oeste que avanza por el cauce del Orinoco. Durante la crecida se observa la presencia del llamado viento barinés, el cual se desplaza siguiendo la misma dirección del Orinoco. En la época de menor precipitación pluvial 
-					    			actúan en la zona los vientos llamados "nortes". Debido a la influencia de las mareas que se producen en el Atlántico, se eleva y baja el caudal de aguas del río Orinoco y los caños del delta. La acción mediante la cual la marea entra y cambia la dirección del río y su red de 
-					    			caños se llama flujo, y la salida o descenso del agua permitiendo que la corriente del río y caños tomen su dirección normal se denomina reflujo. Cuando el flujo alcanza su nivel máximo hace posible que el agua salada se desplace hacia el interior del delta por sus caños, los 
-					    			cuales se desbordan y anegan las tierras adyacentes facilitando la formación de grandes manglares, ubicados en las áreas cercanas a la costa atlántica.
-								<br><br>							                    	
+					    			El turismo, llamado la industria verde, es la principal fuente de sustento de la ciudad, y una de sus industrias más florecientes. La actividad turística se beneficia del potencial que ofrecen las montañas andinas alrededor de la ciudad, así 
+					    			como las atracciones propias de la misma, como son parques, museos, plazas, entre otros. Además, en los últimos años, gracias a la creación de la única zona libre cultural, científica y tecnológica del país, la ciudad ha empezado a desenvolverse 
+					    			dentro del campo de la tecnología, gracias, además, al apoyo que ha proporcionado la Universidad de los Andes en la materia.
+								<br><br>
+									La ciudad de Mérida posee una economía que gira en torno al turismo y a la Universidad de Los Andes y son justamente estos dos factores los que se han visto afectados en los últimos años y los que han hecho que la ciudad de Mérida viva un evidente
+									 retroceso con respecto a otras ciudades de Venezuela.
+<!--								
+								
+										<i>° El Odocoileus margaritae,</i> es una especie de venado endémica de la Isla, este particular venado sólo se encuentra localizado en la Isla de Margarita ya que en la Isla de Coche ya no se hallan ejemplares aunque se cree que los hubo
+									<br>
+										<i>° El Leopardus pardalis,</i> es un mamífero carnivoro que se distribuye en America, el cual posee 10 subespecies entre las cuales se encuentra el ocelote de Venezuela (Leopardus pardalis melanurus) el cual también se distribuye en Guyana, Trinidad, Barbados y Granada.
+									<br>
+										<i>° Cebus apella margaritae,</i> es también llamado en Margarita, mono machín, mono capuchino o mono común. Esta es otra de las especies de animales de Margarita que se halla en peligro de extinción.
+									<br>
+										<i>° El Sciurus granatensis nesaeus,</i> es una subespecie de ardilla endémica de la Isla ya que existen más de 30 subespecies de este tipo de ardilla.
+									<br>
+										<i>° El Dasypus novemcinctus (Cachicamo),</i> es un mamífero emparentado con los osos hormigueros y los perezosos. Este se encuentra desde los Estados Unidos hasta Argentina. Posee aproximadamente 5 subespecies entre las cuales esta la de Venezuela y/o Margarita.-->
+								<br>					                    	
 			                    </p>
 			                </div>
-			                <br><br>
-			                
 			                <div class="col-md-5 col-md-pull-7">
-			                    <img class="featurette-image img-responsive center-block" src="images/DeltaOrinoco.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/slide/Merida-ciudad02.jpg" />
 			                </div>
 			            </div>
+		
 			            <div class="row featurette">
 			                <div class="col-md-9">
-									Esta región ha sido por largo tiempo una de las más salvajes de Venezuela, pero la situación es notablemente cambiada después del descubrimiento y la explotación de los grandes yacimientos petrolíferos situado en la zona de perdenales. Otro elemento que ha modificado la costumbre de vida es el tráfico de estupefacientes que explota los canales del delta para hacer llegar la droga de Columbia a los Caribe.
-								<br><br>
-									La capital del estado es Tucupita, que se encuentra en las orillas del Canao manamo, situado en el extremo occidente del delta y cuyo corrido es interrumpido por un dique apuesta 22 km a sur de Tucupita. La calle que pasa sobre el dique es la única calle de enlace terrenal existente entre la capital y el resto del país.
-									Tucupita es que considerarse una base más de cuyo desplazarse en la exploración del Delta, que una meta turística real.
-			                    <br><br>
+								<p>
+				                    <strong>• VEGETACIÓN Y FAUNA</strong><br>
+				                    	La vegetación en el interior de la ciudad está integrada por árboles de copa media a alta y helechos (Pteridophyte), ubicados principalmente en torno a la cuenca del río Albarregas. En la periferia de Mérida, se divisan zonas no urbanizadas, donde predominan 
+				                    	formas de vegetación características de sub-montaña y selva estacional. Por otro lado, se extienden por el sur vastos bosques de coníferas, plantados hace varios años. Hacia el norte y el este, se localiza a su vez la Selva nublada.
+				                    <br><br>
+				                    	Respecto de la fauna local, cabe destacar la importante población de ciertas aves pequeñas y medianas como colibríes y loros (Psittacidae), diseminadas especialmente al sur de la ciudad.
+				                    <br>
+				                </p>
 			                </div>
 			                <div class="col-md-3">
-			                    <img class="featurette-image img-responsive center-block" src="images/slide/OrinocoDelta01.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/Merida-vegetacion.jpg" />
 			                </div>
 			            </div>	            
                    </div>
              </div>
              </div>
-             <!--<div class="panel panel-warning">
+             <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                                Turismo
+                                Entretenimiento y Turismo
                      </a>
                  </h2>
              </div>
              <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		La Isla de Margarita constituye el atractivo turístico más importante de Venezuela con más de 2.711.000 turistas en el año 2009. Posee playas con condiciones para el surf, submarinismo, windsurf, kitesurf
-			    		y otros deportes acuáticos, así como pueblos coloniales históricos. En los últimos años se ha previsto la realización de varios proyectos para impulsar el turismo, como el Puerto de Cruceros de Puerto la Mar,
-			    		la ampliación del Aeropuerto Internacional del Caribe Santiago Mariño, el Faro de Punta Ballena (en cooperación con la Armada de Venezuela) entre otros. En la isla se encuentran varias fortificaciones españolas
-			    		antiguas (castillos, fortines y fortalezas), que se consideran patrimonio nacional.
-			    		<br><br>
-						Otros atractivos turísticos son la festividad de la Virgen del Valle, anualmente en la segunda semana de septiembre, y el Festival de la Langosta en noviembre, cuando comienza la temporada de pesca.						
-			    		<br>
+			    		La ciudad turística por excelencia del país, siendo uno de los destinos más reconocidos dentro del ámbito nacional e internacional a la hora de viajar a Venezuela.
+			    	<br><br>
+					<strong>• Hoteles</strong>
+					<br>
+						La infraestructura hotelera de la ciudad está compuesta por diversas clases de locales de hospedaje para todos los presupuestos, disponiendo en gran medida de numerosas posadas y apartamentos para turistas, con ofertas de servicios básicos. Al menos la mitad de los hoteles 
+						del estado Mérida (unos 70 locales, y unas 63 posadas) se localizan en la ciudad, representando el 35% del total estadal. En conjunto, totalizan 2.650 camas, es decir, el 58% del total de camas disponibles en la entidad.						
+			    	<br><br>
+			    	<strong>• Comercios</strong>
+			    	<br>
+			    		Siendo uno de los principales sectores económicos de Mérida, el sector comercial de la ciudad se distribuye mayormente dentro del casco central, donde pueden adquirirse una gran variedad de productos. Sin embargo, centros de servicios, por fuera de esa zona, ofrecen también 
+			    		todo tipo de mercancías. Algunos centros de comercio notables de la ciudad por los productos que ofrecen son el Mercado Principal de Mérida y la Heladería Coromoto. El Mercado Principal se caracteriza por su oferta de artesanías, gastronomía, y distintas mercancías típicas de 
+			    		la región. Por su parte, la Heladería Coromoto es otro de los comercios afamados de la ciudad por la singularidad de ser el comercio del ramo que ofrece mayor variedad de sabores en sus helados a escala mundial, con más de 800 opciones.
+			    	<br><br>
+			    	<strong>• Vida nocturna</strong>
+			    	<br>
+			    		En su carácter de ciudad estudiantil y turística, la ciudad de Mérida goza de una amplia red de locales nocturnos para el entretenimiento del público con diversos gustos, compuesto principalmente de discotecas y bares. También existen diversos cafés, restaurantes y cines. 
+			    		Además, diversos eventos culturales y de entretenimiento son celebrados en la misma constantemente, entre los que destacan conciertos sinfónicos de la Orquesta Sinfónica de Mérida y de bandas locales de rock u otros estilos musicales.
+			    	<br>			    	
 					</p>
                    </div>
              </div>
-             </div>-->
+             </div>
         </div>			
 			
 	</div>	
@@ -158,51 +192,51 @@
 		        
 		        <div class="carousel-inner" role="listbox">
 		            <div class="item active">
-                        <img src="images/slide/OrinocoDelta02.jpg" width="100%" height="1200px" alt="Orinoco Delta" />
+                        <img src="images/slide/Merida-laguna-mucubaji.jpg" width="100%" height="1200px" alt="Merida-laguna-mucubaji.jpg" title="Merida-laguna-mucubaji.jpg" />
                         <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Laguna de Mucubají</h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/OrinocoDelta04.jpg" width="100%" height="1200px" alt="Delta del Orinoco" />
+                        <img src="images/slide/Merida-paramo-culata02.jpg" width="100%" height="1200px" alt="Merida-paramo-culata02.jpg" title="Merida-paramo-culata02.jpg" />
                         <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Páramo de la Culata</h3>
                         </div>
                     </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta06.jpg" width="100%" height="1200px" alt="Rio Orinoco" />
+		                <img src="images/slide/Merida-pico-bolivar.jpg" width="100%" height="1200px" alt="Merida-pico-bolivar" title="Merida-pico-bolivar"/>
 		                <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Pico Bolívar</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta05.jpg" width="100%" height="1200px" alt="Delta Orinoco" />
+		                <img src="images/slide/Merida-ciudad02.jpg" width="100%" height="1200px" alt="Merida-ciudad02" title="Merida-ciudad02" />
 		                <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Ciudad de Mérida</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta08.jpg" width="100%" height="1200px" alt="Delta del Orinoco" />
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" height="1200px" alt="Merida-laguna-mucubaji03" title="Merida-laguna-mucubaji03" />
 		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
+		                    <h3>Laguna de Mucubají</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta09.jpg" width="100%" height="1200px" alt="Orinoco" />
+		                <img src="images/slide/Merida-ciudad.jpg" width="100%" height="1200px" alt="Merida-ciudad" title="Merida-ciudad" />
 		                <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Ciudad de Mérida</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta11.jpg" width="100%" height="1200px" alt="Delta Venezuela" />
+		                <img src="images/slide/Merida-paramo-culata01.jpg" width="100%" height="1200px" alt="Merida-paramo-culata01" title="Merida-paramo-culata01" />
 		                <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Páramo de la Culata</h3>
 		                </div>
 		            </div>	
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta07.jpg" width="100%" height="1200px" alt="Oricono Delta Indio" />
+		                <img src="images/slide/Merida-laguna-mucubaji01.jpg" width="100%" height="1200px" alt="Merida-laguna-mucubaji01" title="Merida-laguna-mucubaji01" />
 		                <div class="carousel-caption">
-		                    <h3></h3>
+		                    <h3>Laguna de Mucubají</h3>
 		                </div>
 		            </div>			            	         
 		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
