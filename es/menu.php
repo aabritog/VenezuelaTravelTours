@@ -36,6 +36,10 @@
 								</li>
 								<li><a href="#contacto" class="scrolly">Contacto</a></li>
 							</ul>
+					<div style="position:absolute; top:0; right:0; padding: 15px;">
+					<a href="#"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>
+					<a href="#"><img src="images/flags/shiny/32/United-Kingdom.png" alt="English" title="English"></a>
+				</div>
 						</nav>		
 		
 		
