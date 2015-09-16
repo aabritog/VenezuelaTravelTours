@@ -2631,7 +2631,7 @@
 	}
 /*#header5 Delta Orinoco close*/
 
-/*#header5 Mérida open*/
+/*#header6 Mérida open*/
 	#header6 {
 		position: relative;
 		background-image: url("../../images/Merida.jpg");
@@ -2736,7 +2736,114 @@
 	body.homepage.is-loading #header6:after {
 		opacity: 1;
 	}
-/*#header5 Mérida close*/
+/*#header6 Mérida close*/
+
+/*#header7 Los Llanos open*/
+	#header7 {
+		position: relative;
+		background-image: url("../../images/Losllanos07.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
+		color: #fff;
+		text-align: center;
+		padding: 7.5em 0 2em 0;
+		cursor: default;
+	}
+
+		#header7:before {
+			content: '';
+			display: inline-block;
+			vertical-align: middle;
+			height: 100%;
+		}
+
+		#header7 .inner {
+			position: relative;
+			z-index: 1;
+			margin: 0;
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		#header7 header {
+			display: inline-block;
+		}
+
+			#header7 header > p {
+				font-size: 1.25em;
+				margin: 0;
+			}
+
+		#header7 h1 {
+			color: #fff;
+			font-size: 3em;
+			line-height: 1em;
+		}
+
+			#header7 h1 a {
+				color: inherit;
+			}
+
+		#header7 .button {
+			display: inline-block;
+			border-radius: 100%;
+			width: 4.5em;
+			height: 4.5em;
+			line-height: 4.5em;
+			text-align: center;
+			font-size: 1.25em;
+			padding: 0;
+		}
+
+		#header7 hr {
+			top: 1.5em;
+			margin-bottom: 3em;
+			border-bottom-color: rgba(192, 192, 192, 0.35);
+			box-shadow: inset 0 1px 0 0 rgba(192, 192, 192, 0.35);
+		}
+
+			#header6 hr:before, #header7 hr:after {
+				background: rgba(192, 192, 192, 0.35);
+			}
+
+		#header7 footer {
+			margin: 1em 0 0 0;
+		}
+
+	body.homepage #header7 {
+		height: 100vh;
+		min-height: 40em;
+	}
+
+		body.homepage #header7 h1 {
+			font-size: 4em;
+		}
+
+		body.homepage #header7:after {
+			content: '';
+			background: #1C0920;
+			display: block;
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			opacity: 0;
+			-moz-transition: opacity 2.5s ease-in-out;
+			-webkit-transition: opacity 2.5s ease-in-out;
+			-ms-transition: opacity 2.5s ease-in-out;
+			transition: opacity 2.5s ease-in-out;
+			-moz-transition-delay: 0.5s;
+			-webkit-transition-delay: 0.5s;
+			-ms-transition-delay: 0.5s;
+			transition-delay: 0.5s;
+		}
+
+	body.homepage.is-loading #header7:after {
+		opacity: 1;
+	}
+/*#header7 Los Llanos close*/
 
 /* Nav */
 

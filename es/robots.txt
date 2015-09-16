@@ -21,3 +21,4 @@ Allow:los-roques.php
 Allow:isla-de-margarita.php
 Allow:orinoco-delta.php
 Allow:estado-merida.php
+Allow:los-llanos-venezuela.php

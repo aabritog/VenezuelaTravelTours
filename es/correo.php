@@ -96,6 +96,9 @@ elseif ($_POST["id_page"]=="/orinoco-delta.php"){
 elseif ($_POST["id_page"]=="/estado-merida.php"){
 	header('Location:estado-merida.php?id='.$resultado);
 }
+elseif ($_POST["id_page"]=="/los-llanos-venezuela.php"){
+	header('Location:los-llanos-venezuela.php?id='.$resultado);
+}
 }//if (isset($_POST['enviar']))
 else {
 	header('Location:index.php');

@@ -28,6 +28,8 @@
 						</div>
 
 					<?php include("menu.php"); ?>
+				</div>
+			<br>
 				<!-- Banner -->
 			<section id="banner">
 				<header>

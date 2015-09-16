@@ -35,7 +35,7 @@
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Quienes somos</h1>
+				<h1>Venezuela Travel Tours - Quienes somos</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
