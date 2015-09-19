@@ -16,22 +16,55 @@
 		
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>
-		
+
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header3">
+			<!--Slider-->		
+				<!--<div class="wrapper style2">-->
+					<?php include("menu.php"); ?>				
+					<div id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div class="carousel-inner" role="listbox">
+    
+		            <div class="item active">
+                        <img src="images/slide/los-roques01.jpg" width="100%" height="30%" alt="Los Roques" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>
 
-						<div class="inner">
-							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
-							</header>
-						</div>
+                
+                    <div class="item">
+                        <img src="images/los-roques07.jpg" width="100%" height="800px" alt="Los Roques" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>
+                    
+		            <div class="item">
+		                <img src="images/slide/los-roques03.jpg" width="100%" height="800px" alt="Los Roques" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		           
+		            <!--<div class="item">
+		                <img src="images/slide/los-roques04.jpg" width="100%" height="800px" alt="Los Roques" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>-->
 
-					<?php include("menu.php"); ?>
-					
-				</div>
-			<br>
+		            <div class="item">
+		                <img src="images/slide/los-roques05.jpg" width="100%" height="800px" alt="Los Roques" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>		           
+		        </div>
+		    </div>
+		<!--</div>	-->
+		
+			
 			<!-- Banner -->
 		<section id="banner">
 			<header>
@@ -43,7 +76,7 @@
 		</section>						
 		<div class="container">	
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div class="panel panel-warning">
+            <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
@@ -62,7 +95,7 @@
                    </div>
                </div>
                </div>
-             <div class="panel panel-warning">
+             <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
@@ -114,29 +147,10 @@
 	                    <img class="featurette-image img-responsive center-block" src="images/los-roques01-flora.jpg" />
 	                </div>
 	            </div>	            
-	            
-	                <!--<p>
-		    		<strong>• CLIMA</strong><br>
-		    			El clima es cálido y seco, con temperatura anual promedio de 27,3 °C,2 en julio y agosto, llega a un máximo de 34º, y entre septiembre y enero se presentan lluvias ocasionales, con una Humedad relativa 83% anual. Las Precipitaciones son 256,6 mm/año; mínima 6,6 mm (abril) y máxima 52,2 mm (noviembre).
-		    		<br><br>
-		    		<strong>• FAUNA</strong><br>
-		    			Debido a las condiciones ambientales extremas y la carencia de agua dulce, los animales terrestres no abundan. La lista se limita a algunas especies de iguanas y lagartijas, arañas e insectos. El murciélago pescador (Noctilio leporinus) es el único mamífero terrestre autóctono.
-					<br><br>
-						Es en el agua donde la inmensa riqueza se vuelve evidente: 280 especies de peces, 200 especies de crustáceos, 140 especies de moluscos, 61 especies de corales, 60 especies de esponjas y 45 especies de erizos y estrellas de mar. Abundan los delfines, ballenas, mantarrayas y tortugas.
-					<br><br>
-						Los animales más representativos son la tortuga verde (Chelonia mydas), el botuto o caracol reina rosado (Strombus gigas), la langosta espinosa (Panulirus argus), peces típicos de los arrecifes de coral y 92 especies de aves. Los Roques es punto de encuentro de unas 50 especies de aves migratorias de América del Norte. Entre las aves más frecuentes está el pelícano pardo (Pelecanus occidentalis), dos especies de pájaro bobo, el de patas coloradas (Sula sula) y el piquero café (Sula leucogaster) y la gaviota guanaguanare (Larus atricilla). También suelen observarse algunos grupos de flamencos (Phoenicopterus ruber).
-					<br><br>
-						En el archipiélago anidan regularmente cuatro tipos de tortugas que están en la lista de especies amenazadas a nivel mundial: tortuga cabezona o caguama (Caretta caretta), tortuga verde o blanca (Chelonia mydas), tortuga laúd o cardón (Dermochelys coriacea) y tortuga carey (Eretmochelys imbricata).						
-					<br><br>
-		    		<strong>• FLORA</strong><br>
-		    			Varias especies de mangle (Rhizophora mangle, Avicennia germinans, Laguncularia racemosa y Conocarpus erectus), extensas praderas de fanerógamas marinas (Thalassia testudinum), especies halófitas como hierba de vidrio, verdolaga roja o campanilla de playa (Sesuvium portulacastrum), cactus como la tuna guasábara (Opuntia caribea) y el buche o melón (Melocactus caesius).
-					<br>
-		    		<br>
-					</p>-->
                    </div>
              </div>
              </div>
-             <div class="panel panel-warning">
+             <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
@@ -159,76 +173,11 @@
 			
 	</div>	
 
-			<!--Slider-->
-				<div class="wrapper style2">
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        <!-- Indicadores del carousel slide -->
-		        	<ol class="carousel-indicators">
-		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
-		            <li data-target="#carousel-principal" data-slide-to="1"></li>
-		            <li data-target="#carousel-principal" data-slide-to="2"></li>
-		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		            <!--<li data-target="#carousel-principal" data-slide-to="5"></li>
-		            <li data-target="#carousel-principal" data-slide-to="6"></li>
-		            <li data-target="#carousel-principal" data-slide-to="7"></li>
-		            <li data-target="#carousel-principal" data-slide-to="8"></li>
-		            <li data-target="#carousel-principal" data-slide-to="9"></li>-->	            
-		       		</ol>
-		        
-		        <div class="carousel-inner" role="listbox">
-    
-		            <div class="item active">
-                        <img src="images/slide/los-roques01.jpg" width="100%" height="1200px" alt="Los Roques" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>
-
-                
-                    <div class="item">
-                        <img src="images/slide/los-roques02.jpg" width="100%" height="1200px" alt="Los Roques" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>
-                    
-		            <div class="item">
-		                <img src="images/slide/los-roques03.jpg" width="100%" height="1200px" alt="Los Roques" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		           
-		            <div class="item">
-		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="Los Roques" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>		           
-		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
-		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		                <span class="sr-only">Anterior</span>
-		            </a>
-		            <a class="right carousel-control" href="#carousel-principal" role="button" data-slide="next">
-		                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		                <span class="sr-only">Siguiente</span>
-		            </a>
-		        </div>
-		    </div>
-		</div>		
+	
                     
 			<!--Itinerario del paquete-->	
-		<div class="container">	
         <div class="container">
-             <div class="panel panel-warning">
+             <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
@@ -279,9 +228,7 @@
 	                        </div>
 	                    </div>
 	                </div>
-            	</div>-->
-        </div>               
-               			
+            	</div>--> 			
 		</div>	
 			<!-- Footer -->
 				<div id="footer">

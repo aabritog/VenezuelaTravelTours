@@ -2856,6 +2856,7 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		color:#FFFFFF;
 	}
 
 		#nav > ul {
@@ -3622,9 +3623,9 @@
 				}
 
 			body.homepage #header {
-				min-height: 0;
+				/*min-height: 0;
 				padding: 5.5em 0 5em 0;
-				height: auto;
+				height: auto;*/
 			}
 
 				body.homepage #header:before {

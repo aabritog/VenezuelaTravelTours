@@ -59,7 +59,6 @@
 							<header>
 								<h3><a href="salto-angel.php"><p>Salto Angel<br>Venezuela</p></a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -67,7 +66,6 @@
 							<header>
 								<h3><a href="parque-canaima.php">Canaima<br>Venezuela</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -75,7 +73,6 @@
 							<header>
 								<h3><a href="#">Galapagos<br>Ecuador</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -83,7 +80,6 @@
 							<header>
 								<h3><a href="#">Salar de Uyuni<br>Bolivia</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 
 						<article>
@@ -91,15 +87,14 @@
 							<header>
 								<h3><a href="#">Machu Picchu<br>Perú</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 					</div>
 				</section>
 
 			<!-- Main -->
+<!--
 				<div class="wrapper style2">
 					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        <!-- Indicadores del carousel slide -->
 		        	<ol class="carousel-indicators">
 		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
 		            <li data-target="#carousel-principal" data-slide-to="1"></li>
@@ -107,7 +102,6 @@
 		            <li data-target="#carousel-principal" data-slide-to="3"></li>
 		            <li data-target="#carousel-principal" data-slide-to="4"></li>
 		            <li data-target="#carousel-principal" data-slide-to="5"></li>		            		            
-		            <!--<li data-target="#carousel-principal" data-slide-to="4"></li>-->
 		       		</ol>
 		        
 		        <div class="carousel-inner" role="listbox">
@@ -163,7 +157,7 @@
 		            </a>
 		        </div>
 		        
-		    </div>
+		   </div>-->
 		    <!--<div id="nostros">
 		    	
 			<div class="container">
