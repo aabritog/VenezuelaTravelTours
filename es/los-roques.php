@@ -22,8 +22,8 @@
 			<!--Slider-->		
 				<!--<div class="wrapper style2">-->
 					<?php include("menu.php"); ?>				
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">							        
-		        <div class="carousel-inner" role="listbox">
+					<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 700px !important;" class="carousel-inner" role="listbox">
     
 		            <div class="item active">
                         <img src="images/slide/los-roques01.jpg" width="100%" height="30%" alt="Los Roques" />

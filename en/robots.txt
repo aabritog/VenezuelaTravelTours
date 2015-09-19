@@ -1,0 +1,23 @@
+User-agent: *
+Disallow:/assets/
+Disallow:/helios/
+Disallow:/images/
+Disallow:/JQuery/
+Disallow:/bootstrap-3.3.4-dist/
+Disallow:correo.php
+Disallow:menu.php
+Disallow:info.php
+Disallow:contacto.php
+Disallow:twitter.php
+Disallow:facebook.php
+Disallow:instagram.php
+Disallow:galapagos.php
+Allow:index.php
+Allow:parque-canaima.php
+Allow:salto-angel.php
+Allow:quienes-somos.php
+Allow:venezuela.php
+Allow:los-roques.php
+Allow:isla-de-margarita.php
+Allow:orinoco-delta.php
+Allow:estado-merida.php
