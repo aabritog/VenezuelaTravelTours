@@ -26,7 +26,7 @@
 		        <div style="height: 700px !important;" class="carousel-inner" role="listbox">
     
 		            <div class="item active">
-                        <img src="images/slide/los-roques01.jpg" width="100%" height="30%" alt="Los Roques" />
+                        <img src="images/slide/los-roques01.jpg" width="100%" alt="Los Roques" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -34,14 +34,14 @@
 
                 
                     <div class="item">
-                        <img src="images/los-roques07.jpg" width="100%" height="800px" alt="Los Roques" />
+                        <img src="images/slide/los-roques07.jpg" width="100%" alt="Los Roques" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
                     </div>
                     
 		            <div class="item">
-		                <img src="images/slide/los-roques03.jpg" width="100%" height="800px" alt="Los Roques" />
+		                <img src="images/slide/los-roques03.jpg" width="100%" alt="Los Roques" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
@@ -55,7 +55,7 @@
 		            </div>-->
 
 		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="800px" alt="Los Roques" />
+		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>

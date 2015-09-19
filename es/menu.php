@@ -1,20 +1,7 @@
 <!DOCTYPE HTML>
 
 <html>
-	<!--<head>
-		<title>Venezuela Travel Tours</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exoticos de Venezuela y el mundo">
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
-
-		
-	</head>-->
-
-	<!--<body class="homepage">-->
-					<!-- Nav -->
 						<nav id="nav">
-							<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="95px" alt="Logo" /></a>-->
 							<ul>
 								<li><a href="index.php" id="logo"><img src="images/Logo-Final.png" width="170px" height="150px" alt="Logo" /></a></li>
 								<li><a href="index.php">Inicio</a></li>
@@ -34,10 +21,9 @@
 								<li><a href="#contacto" class="scrolly">Contacto</a></li>
 							</ul>
 							<div style="position:absolute; top:0; right:0; padding: 15px;">
-							<br>
-							<a href="../es/index.php"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>
-							<a href="../en/index.php"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>
+								<br>
+								<a href="<?php echo str_replace('/en/','/es/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>
+								<a href="<?php echo str_replace('/es/','/en/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>
 							</div>
 						</nav>		
-	<!--</body>-->
 
