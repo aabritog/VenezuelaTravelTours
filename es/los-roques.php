@@ -75,7 +75,133 @@
 			</header>
 		</section>						
 		<div class="container">	
-		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+		<article>
+			<header>
+				<h2>Los Roques</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<p>
+				La Dependencia Federal Archipiélago Los Roques es un conjunto de islas y cayos en las Antillas menores pertenecientes a Venezuela que poseen una superficie estimada en 40,61 km² y que están ubicados entre el archipiélago Las Aves (al oeste) y la isla de La Orchila (al este) a 176 km al norte de la ciudad de Caracas y que representa uno de los principales atractivos turísticos del país, forma parte de las Dependencias Federales Venezolanas, es parque nacional y según estimaciones en el año 2014 contaba con 3.100 habitantes fijos (siendo la dependencia federal más poblada).
+				Tiene una superficie aproximada de 221.120 hectáreas entre espacios marítimos y terrestres, y es considerado el parque marino más grande de América Latina.
+			
+			</p>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40976.28321082461!2d-66.6996246389146!3d11.845695388634129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2853b455e6cea7%3A0x712f7a82d6570ba!2sArchipi%C3%A9lago+Los+Roques!5e1!3m2!1ses-419!2sve!4v1440439755517" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</article>
+
+		<article>
+			<header>
+				<h2>Caracter&iacute;sticas</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<div class="row featurette">
+	                <div class="col-md-9">
+	                    <br><br>
+	                    <strong>• CLIMA</strong><br>
+	                    <p> El clima es cálido y seco, con temperatura anual promedio de 27,3 °C,2 en julio y agosto, llega a un máximo de 34º, y entre septiembre y enero se presentan lluvias ocasionales, con una Humedad relativa 83% anual. Las Precipitaciones son 256,6 mm/año; mínima 6,6 mm (abril) y máxima 52,2 mm (noviembre).</p>
+	                </div>
+	                <div class="col-md-3">
+	                    <img class="featurette-image img-responsive center-block" src="images/los-roques02-clima.jpg" />
+	                </div>
+	        </div>
+			<div class="row featurette">
+	                <div class="col-md-7 col-md-push-5">
+	                    <strong>• FAUNA</strong><br>
+	                    <p>
+			    			Debido a las condiciones ambientales extremas y la carencia de agua dulce, los animales terrestres no abundan. La lista se limita a algunas especies de iguanas y lagartijas, arañas e insectos. El murciélago pescador (Noctilio leporinus) es el único mamífero terrestre autóctono.
+						</p>
+						<p>
+							Es en el agua donde la inmensa riqueza se vuelve evidente: 280 especies de peces, 200 especies de crustáceos, 140 especies de moluscos, 61 especies de corales, 60 especies de esponjas y 45 especies de erizos y estrellas de mar. Abundan los delfines, ballenas, mantarrayas y tortugas.
+						</p>
+						<p>
+							Los animales más representativos son la tortuga verde (Chelonia mydas), el botuto o caracol reina rosado (Strombus gigas), la langosta espinosa (Panulirus argus), peces típicos de los arrecifes de coral y 92 especies de aves. Los Roques es punto de encuentro de unas 50 especies de aves migratorias de América del Norte. Entre las aves más frecuentes está el pelícano pardo (Pelecanus occidentalis), dos especies de pájaro bobo, el de patas coloradas (Sula sula) y el piquero café (Sula leucogaster) y la gaviota guanaguanare (Larus atricilla). También suelen observarse algunos grupos de flamencos (Phoenicopterus ruber).
+						</p>
+						<p>
+							En el archipiélago anidan regularmente cuatro tipos de tortugas que están en la lista de especies amenazadas a nivel mundial: tortuga cabezona o caguama (Caretta caretta), tortuga verde o blanca (Chelonia mydas), tortuga laúd o cardón (Dermochelys coriacea) y tortuga carey (Eretmochelys imbricata).							                    	
+	                    </p>
+	                </div>
+	                <!--<br><br>-->
+	                
+	                <div class="col-md-5 col-md-pull-7">
+	                    <img class="featurette-image img-responsive center-block" src="images/los-roques02-fauna.jpg" />
+	                </div>
+	        </div>
+	        <div class="row featurette">
+	                <div class="col-md-9">
+	                    <br>
+	                    <strong>• FLORA</strong><br>
+	                    Varias especies de mangle (Rhizophora mangle, Avicennia germinans, Laguncularia racemosa y Conocarpus erectus), extensas praderas de fanerógamas marinas (Thalassia testudinum), especies halófitas como hierba de vidrio, verdolaga roja o campanilla de playa (Sesuvium portulacastrum), cactus como la tuna guasábara (Opuntia caribea) y el buche o melón (Melocactus caesius).
+	                </div>
+	                <div class="col-md-3">
+	                    <img class="featurette-image img-responsive center-block" src="images/los-roques01-flora.jpg" />
+	                </div>
+	            </div>
+		</article>
+		<article>
+			<header>
+				<h2>Turismo</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			 <p>
+			    Las Actividades turísticas han tenido un auge durante los últimos años estimuladas por sus Playas de arenas blancas, navegación recreacional en diversos tipos de embarcaciones como kayak, velero, bote de remo y catamarán (en todo el parque se impone un límite de 80 pies de eslora); windsurf, buceo o submarinismo sin tanques, pesca deportiva con caña, observación de aves y excursiones a pie. InParques, el organismo estatal encargado del cuidado y manejo de los parque nacionales de Venezuela, tiene designados varios lugares para acampar.
+			</p>
+			<p>
+				Otros atractivos turísticos son la festividad de la Virgen del Valle, anualmente en la segunda semana de septiembre, y el Festival de la Langosta en noviembre, cuando comienza la temporada de pesca.						
+			</p>
+		</article>
+		<article>
+			<header>
+				<h2>Paquetes</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<div class="addthis_native_toolbox" align="left"></div><br>
+			<p><strong>• FULL DAY PEÑERO</strong></p>
+			<p>
+				Boleto aéreo ida y vuelta desde Higuerote, asistencia al llegar a Los Roques, excursión en peñero a un cayo cercano. Toldos y sillas de playa. Almuerzo en la playa, cava con hielo, agua, refrescos y cervezas.  Equipo Snorkeling y juegos de playa. Refrigerios y Guías bilingües. Regreso al final de la tarde.
+			</p>
+			<p>
+				<i>De lunes a domingo.</i>
+			</p>
+			<p><strong>• FULL DAY EN CATAMARAN</strong></p>
+			<p> 
+				Tenemos otra opción que ofrece la misma excursión con boleto aéreo ida y vuelta,  desde Maiquetia,  almuerzo en la playa, bebidas no alcohólicas,  actividades varias (snokerling opcional) guías turísticos bilingües durante todo el paseo,  pero en lugar de llevarle hasta uno de los cayos solamente, se pasan el día navegando en Catamarán a varios cayos. Regreso al final de la tarde.
+			<p>
+			<p>
+				<i>De lunes a viernes o sábados y domingos.</i>
+			</p>
+			<p><strong>• POSADA TIPO STANDARD, (CHEZ JUDITH, EL BOTUTO)</strong></p>
+			<p>
+				Incluye: Boleto aéreo hasta Los Roques (ida y vuelta). Asistencia a su llegada y salida en la pista de Los Roques, traslado de equipaje, alojamiento en hab. dobles o triples con baño privado, todas las comidas, almuerzo en la playa. Traslado diario en lancha a los cayos cercanos Madrisky o Francisky.
+			</p>
+			<p>
+				<i>2 dias y 1 noche o 3 dias y 2 noches. </i>
+			</p>
+			<p><strong>• POSADA TIPO INTERMEDIA (CAYO LUNA, GUARIPETE)</strong></p>
+			<p> 
+				Incluye: Boleto aéreo hasta Los Roques (ida y vuelta). Asistencia a su llegada y salida en la pista de los roques, alojamiento en habitaciones con aire acondicionado y baño privado agua caliente y ventilador.  Desayuno y cena en la posada. Box lunch para llevar a playa, atención personalizada, reconfirmación de vuelos y chequeo de equipaje. Traslado diario en lancha a los cayos cercanos Madrisky o Francisky.
+			</p>
+			<p>
+				<i>2 dias y 1 noche o 3 dias y 2 noches.</i>
+			</p> 
+			<p><strong>• POSADA TIPO SUPERIOR (MACANAO, ARRECIFE)</strong></p>
+			<p>
+				Incluye: Boleto aéreo hasta Los Roques (ida y vuelta). Asistencia a su llegada y salida en la pista de Los Roques, alojamiento en habitación con Aire Acondicionado, Television Satelital, Nevera Ejecutiva, Ventilador de Techo,  Caja de Seguridad y Baño Privado con agua caliente.  Desayunos y cenas en la posada. Almuerzo para llevar a la playa en lunch box. Refrigerios. Servicio Bar-Restaurant y Wifi en areas comunes. Traslado diario en lancha a los cayos cercanos Madrisky o Francisky.
+			</p>
+			<p>
+				<i>2 dias y 1 noche o 3 dias y 2 noches.</i>
+			</p>
+			<p><strong>• POSADA TIPO DE LUJO, (NATURA VIVA, MEDITERRANEO)</strong></p>
+			<p>
+				Incluye: Boleto aéreo hasta Los Roques (ida y vuelta).  Alojamiento en habitación de lujo con cama queen size, cada una con aire acondicionado, televisor, señal por satélite, DirecTV, caja de seguridad, teléfono para llamadas nacionales e internacionales y amplios closets. Desayunos y cenas en la posada. Almuerzo en cava para llevar a la playa. Bebidas no alcoholicas. Un traslado diario a los cayos cercanos, Madrisky y Francisky.
+			</p>
+			<p>
+				<i>2 dias y 1 noche o 3 dias y 2 noches.</i>
+			</p>
+				
+		</article>
+		
+		
+		 
+		<!--<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
@@ -169,14 +295,15 @@
                    </div>
              </div>
              </div>
-        </div>			
+        </div>-->			
 			
-	</div>	
+	</div>
+	<div style="margin-bottom:40px;"></div>	
 
 	
                     
 			<!--Itinerario del paquete-->	
-        <div class="container">
+       <!-- <div class="container">
              <div class="panel panel-default">
              <div class="panel-heading">
                  <h2 class="panel-title">
@@ -187,7 +314,7 @@
              </div>
              <div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">           	
-                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                   
 					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
 						<strong>• FULL DAY PEÑERO</strong><br>
@@ -218,7 +345,7 @@
                  </div>
                </div>
                </div>
-            	<!--<div class="row">
+            	<div class="row">
 	                <div class="col-md-6">
 	                    <div class="panel panel-warning" style="margin-top: 25px">
 	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
@@ -228,8 +355,8 @@
 	                        </div>
 	                    </div>
 	                </div>
-            	</div>--> 			
-		</div>	
+            	</div>		
+		</div>-->	
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">
