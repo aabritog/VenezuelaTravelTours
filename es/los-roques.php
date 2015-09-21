@@ -12,7 +12,7 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
 	</head>
-	<body class="homepage">
+	<body style="overflow-x:hidden !important;" class="homepage">
 		
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>
