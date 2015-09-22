@@ -33,7 +33,7 @@
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer Canaima</h1>
+				<h1>Only One Travel and Venezuela Travel Tours takes you to know Canaima</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
@@ -52,9 +52,9 @@
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		El Parque Nacional Canaima es un parque nacional ubicado en el Estado Bolívar, Venezuela. Fue instaurado el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en el año 1994.
+			    		Canaima National Park is a national park located in Bolivar State, Venezuela. It was launched on June 12, 1962 and declared a World Heritage Site by Unesco in 1994.
 			    		<br><br>
-						Se extiende sobre 30.000 km² hasta la frontera con Guyana y Brasil, por su tamaño es considerado el sexto parque nacional más grande del mundo. Cerca de 65 % del parque está ocupado por mesetas de roca llamadas tepuyes. Estos constituyen un medio biológico único, presentando también un gran interés geológico. Sus acantilados escarpados y sus caídas de agua (incluyendo el Salto Ángel, que es la caída de agua más elevada del mundo, a 1.002 m) forman paisajes espectaculares.
+						It extends over 30,000 square kilometers to the border with Guyana and Brazil, for its size is considered the world's sixth largest national park. About 65% of the park is occupied by rock mesas called tepuis. These are a unique biological environment, also showing a great geological interest. Its steep cliffs and waterfalls (including Angel Falls, which is the highest water fall of the world, 1,002 m) are spectacular scenery.
 					</p>
                    </div>
                </div>
@@ -63,20 +63,20 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Canaima: Patrimonio de la Humanidad
+                                Canaima:  World Heritage Site
                      </a>
                  </h2>
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO, por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas casi planas.
+			    		In 1994 Canaima National Park was declared a World Heritage Site by UNESCO, for being a natural reserve that which has unique special steep slopes and around the world, the tepuy , which are species plateaus of millions of years old , with vertical walls and almost flats summits
 			    		<br><br>
-						Los tepuyes más conocidos son el Monte Roraima, el más alto y fácil de escalar de todo el parque, y el Auyan-tepui, el más visitado, pues en este se encuentra la catarata o caída de agua más alta del mundo, el Salto Ángel.
+						The most famous tepuis are Mount Roraima, the tallest and easiest to climb around the park, and the Auyan-tepui, the most visited, because in this waterfall or higher water fall of the world is, Angel Falls .
 			    		<br><br>
-						Se dice que los tepuy son rocas areniscas y datan del período en que América y África formaban un supercontinente. A este tipo de relieve se le conoce comúnmente como Macizo Guayanés.
+						It is said that the tepui are sandstones and date from the period when America and Africa formed a supercontinent. This type of relief is commonly called Macizo Guayanes.
 			    		<br><br>
-			    		El parque es hogar del pueblo pemón. Estos tienen una relación con los tepuy, y creen en que son el hogar de los espíritus "Mawari". El parque está en un sitio lejano a la civilización. Cuenta con pocas carreteras que conectan con otras ciudades cercanas, como Ciudad Guayana. El medio de transporte más común para recorrerlo es a través de canoas.						
+			    		The park is home to the Pemon people. They have a relationship with the tepui, and believe that are home to the spirits "Mawari". The park is in a remote site to civilization. It has few roads that connect to other nearby cities such as Ciudad Guayana. The most common means of transport is to traverse through canoes.
 			    		<br>
 					</p>
                    </div>
@@ -86,7 +86,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	Caracteristicas
+                     	Characteristics
                      </a>
                  </h2>
              </div>
@@ -95,38 +95,38 @@
                 <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
 					<p>
 						<strong>Fauna<br></strong>
-							Canaima posee una fauna muy variada, la cual está distribuida a lo largo del parque de acuerdo a múltiples factores ambientales como la altura y el tipo de vegetación. Entre las especies que podemos encontrar están:
+							Canaima has a very varied fauna, which is distributed throughout the park according to multiple environmental factors such as height and type of vegetation. Among the species that can be found we are:
 							<ul>
-								<li>• Armadillo gigante (Priodontes maximus)</li>
-								<li>• Perro de agua gigante (Pteronura brasiliensis)</li>
-								<li>• Oso hormiguero gigante (Myrmecophaga tridactyla)</li>
-								<li>• Puma (Puma concolor)</li>
-								<li>• AJaguar (Panthera onca)</li>
-								<li>• Pereza de dos dedos (Choloepus didactylus)</li>
-								<li>• Mono viuda (Pithecia pithecia)</li>																
+								<li>• Giant Armadillo (Priodontes maximus)</li>
+								<li>• Giant Dog of Water (Pteronura brasiliensis)</li>
+								<li>• Giant Anteater (Myrmecophaga tridactyla)</li>
+								<li>• Cougar (Puma concolor)</li>
+								<li>• Jaguar (Panthera onca)</li>
+								<li>• Two-toed Sloth (Choloepus didactylus)</li>
+								<li>• Widow Monkey (Pithecia pithecia)</li>																
 							</ul>
 							<br>
 						<strong>Flora<br></strong>
-							Existen más de 300 especies endémicas solo en La Gran Sabana.
+							There are over 300 species endemic only in the Gran Sabana.
 							<ul>
-								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
-								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
+								<li>• There are over 300 species endemic only in the Gran Sabana.</li>
+								<li>• Endemic gener: Achnopogon, chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
 							</ul>
 							<br>
-						<strong>Hidrografía<br></strong>
+						<strong>Hydrography<br></strong>
 							El parque incluye la totalidad de la cuenca de la margen derecha del río Caroní, y dos de los saltos de agua más altos del mundo, el salto Ángel y el Kukenán y gran cantidad de cataratas de menor altura.
 							<ul>
-								<li>• Existen más de 300 especies endémicas solo en La Gran Sabana.</li>
-								<li>• Géneros endémicos: Achnopogon, Chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
+								<li>• There are over 300 species endemic only in the Gran Sabana.</li>
+								<li>• Endemic gener: Achnopogon, chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
 							</ul>
 							<br>
-						<strong>Relieve<br></strong>
-							La única forma de relieve son los tepuyes, que son mesetas con características inigualables, entre las que destacan sus paredes verticales y sus cimas prácticamente planas, aunque hay varios tepuyes que
-							no cumplen estas reglas. Geológicamente constituyen restos de una cobertura sedimentaria formada por arenisca muy antigua que se superpone a una base de rocas ígneas (granito, principalmente) que es aún
-							más antigua (casi 3000 millones de años). Sobre sus cumbres habita una cantidad muy importante de especies endémicas muy específicas, tanto de vegetales como de animales. Algunas especies vegetales
-							endémicas están categorizadas como "carnívoras", que encuentran de este modo, una provisión de alimentos (insectos, principalmente) que son tan escasos en las cumbres. Estas formaciones tienen una edad
-							geológica que oscila entre 1500 y 2000 millones de años, lo que las convierte en unas de las formaciones más antiguas del planeta. Los tepuyes más conocidos son: el Auyantepuy (de donde se desprende el Salto Ángel),
-							El Roraima, El Kukenan y El Chimantá entre muchos otros.
+						<strong>Relief<br></strong>
+							The only form of relief are the tepuis, which are plateaus with unique features, among which are its vertical walls and flat tops practically, although there are several tepuyes
+							do not meet these rules. Geologically are remains of a sedimentary cover consists of very old sandstone overlying a base of igneous rocks (granite, mainly) is even
+							oldest (nearly 3000 million years). On their summits inhabits a very large number of very specific endemic species, both plant and animal. Some plant species
+							endemic are categorized as "carnivorous", which are thus a supply of food (insects in particular) that are so rare in the summits. These formations are older
+							Geological ranging between 1500 and 2000 million years, which makes them one of the oldest formations on the planet. The most famous tepuis are the Auyantepuy (where the Angel follows)
+							The Roraima The Chimantá The Kukenan and many others.
 					</p>
                  </div>
                </div>
@@ -197,7 +197,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
-                     	Itinerario del paquete: Canaima y Salto Angel 3 días
+                     	Package itinerary: Canaima and Angel Falls 3 days
                      </a>
                  </h2>
              </div>
@@ -206,14 +206,14 @@
                     <!-- Go to www.addthis.com/dashboard to customize your tools -->
 					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
-						<strong>• Día 1: LLEGADA A CANAIMA / EXCURSIÓN SALTO EL SAPO</strong><br> 
-							Salida en avioneta a las 9:00 am desde el Aeropuerto de Puerto Ordaz con destino a Canaima. En el aeropuerto, estará esperando el guía para trasladarnos en Jeep (15 min.) y posteriormente en curiara (5 min.) hasta el Campamento Ucaima, donde seremos recibidos con un exquisito cóctel de bienvenida. Luego de realizar check in y una vez ubicados en las habitaciones, tenemos tiempo de descanso y/o disfrutar de las instalaciones para luego tomar un suculento almuerzo. Entre 2.00pm y 2.30pm nos preparamos para salir a la excursión a la Laguna de Canaima y Salto el Sapo, donde pasaremos por detrás de la cortina de agua de la cascada, una experiencia que será inolvidable. Al final de la tarde, retornamos al Campamento Ucaima, donde nos esperan con un delicioso refrigerio y cena (A/C).
+						<strong>• Day 1: ARRIVAL CANAIMA / TOUR JUMP THE FROG</strong><br> 
+							Departure by plane at 9:00 am from Puerto Ordaz airport to Canaima . At the airport, the guide will be waiting to take us in Jeep (15 min . ) And then in canoe ( 5 min. ) Until the Camp Ucaima , where we will be greeted by a delightful cocktail. After making check in and once located in the rooms, we have time to rest and / or enjoy the facilities and then take a hearty lunch . Between 2.00pm and 2.30pm we prepared to leave the tour to Canaima Lagoon and Jump the Frog, where we spend behind the curtain of cascading water , an experience that will be unforgettable. By late afternoon , we return to Camp Ucaima , where we expect a delicious snack and dinner ( A / C).
 							<br><br> 
-						<strong>• Día 2: EXCURSIÓN Y PERNOCTA EN SALTO ANGEL</strong><br> 
-							Desayuno a las 7:00/7:30, (check out de las habitaciones, solo llevar equipaje necesario para la pernocta, los demás equipajes queda guardado en la oficina) salida de la excursión al Salto Angel a las 8:00/8:30 am. Comenzamos con una travesía por el Río Carrao hasta la zona de Mayupa (15 min.), haremos una caminata de 30 min. Por la sabana, continuamos la travesía por él río pasando por los rápidos de Arautaima. Seguimos nuestro trayecto hasta la zona de la Isla Orquídea, continuamos por el río Churún, haremos una parada a orillas del rio para un pequeño Lunch, continuamos hasta llegar a la isla Ratoncito (1:00/2:00pm), donde comenzaremos una caminata un poco más de 1 hora por la empinada selva a través de un sendero natural entre raíces y piedras. Llegaremos al Mirador Laime que es una piedra inmensa que sale de la selva, para brindarnos un panorama espectacular del misterioso Auyantepui y del Salto Angel en su totalidad. Descansaremos un poco para luego seguir la caminata hasta la poza del salto en donde (si el nivel del agua lo permite) podremos tomar un baño en sus frías aguas. Retornamos al Refugio, Cena y descanso en cómodas cabañas (con camas) compartidas con baño común. (D/A/C). 
+						<strong>• Day 2: TOUR AND STAYING IN ANGEL FALLS</strong><br> 
+							Breakfast at 7: 00/7: 30, (check out the rooms, only necessary for carrying luggage overnight, other luggage is stored in the office) out of the tour to Angel Falls at 8: 00/8: 30 am. We started with a journey on the Carrao River to the area Mayupa (15 min.), We will walk 30 min. In the savanna, we continue the journey on the river through the rapids of Arautaima. We made our way to the Orchid Island area, Churún continue along the river, we will stop along the river for a small Lunch, continue until you reach the island Tooth (1: 00/2: 00pm), where we will begin a walk a little more than 1 hour the steep forest through a natural path between roots and stones. We reach the Mirador Laime that is an immense stone that leaves the forest, to give us a spectacular panorama of the mysterious Auyantepui and of the Angel in full. Rest a bit and then continue the walk to the pool where the jump (if the water level allows it) we can take a bath in its cold waters. We return to the refuge, dinner and rest in comfortable cabins (with beds) with shared common bathroom. (D / A / C).
 							<br><br> 
-						<strong>• Día 3: RETORNO DEL SALTO ANGEL / PUERTO ORDAZ </strong><br> 
-							Luego del desayuno regreso a Canaima, haremos una breve parada en el Pozo de la Felicidad, en las aguas cristalinas con su hermosa cascada podremos tomar un agradable baño y disfrutar de la tranquilidad y belleza de nuestra naturaleza, navegaremos hasta Mayupa, volvemos a hacer la caminata por la sabana, y 35 min el curiara hasta el Campamento. (Tendremos una habitación común para cambiarnos). Salida al Aeropuerto para tomar el vuelo de retorno a Puerto Ordaz. Fin de nuestro servicio. (D/-/-).
+						<strong>• Day 3: RETURN FROM ANGEL FALLS / PUERTO ORDAZ </strong><br> 
+							After breakfast return to Canaima , we will stop at the Pozo de la Felicidad , in the crystalline waters with its beautiful waterfall we can take a leisurely swim and enjoy the tranquility and beauty of our nature , sail to Mayupa , we again make the walk across the savannah , and 35 min the canoe to the camp. ( We will have a common room to move ) . Departure to the airport to take the flight back to Puerto Ordaz. End of our service. ( B / - / -) .
 							<br><br>
 					</p>
                  </div>
@@ -224,7 +224,7 @@
 	                    <div class="panel panel-warning" style="margin-top: 25px">
 	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
 	                        <div class="panel-body">
-	                            <p><strong><i>Parque Nacional Canaima - Venezuela</i></strong></p>
+	                            <p><strong><i>Canaima National Park - Venezuela</i></strong></p>
 	                    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.4499882452933!2d-62!3d5.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc0c55555555555%3A0x94f51378e4df67cb!2sParque+Nacional+Canaima!5e0!3m2!1ses!2sve!4v1439828856495" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
 	                        </div>
 	                    </div>
@@ -297,8 +297,8 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>Dirección: Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</li><br><br>
-											<li>&copy;Todos los derechos Reservados</li><br>
+											<li>Address: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
+											<li>&copy;All right reserved</li><br>
 											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>

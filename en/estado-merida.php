@@ -34,7 +34,7 @@
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer Mérida</h1>
+				<h1>Only One Travel and Venezuela Travel Tours takes you to know Merida</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
@@ -46,17 +46,21 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Mérida
+                                Merida
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-						La ciudad de Mérida, cuyo nombre oficial es Santiago de los Caballeros de Mérida es la capital del municipio Libertador y del estado Mérida. Es una de las principales localidades de los Andes venezolanos. Se encuentra ubicada sobre una meseta en medio de la región, justo entre las sierras montañosas de La Culata y 
-						Nevada y los parques nacionales homónimos, dicha condición geográfica la posiciona como un importante centro turístico. Así mismo el prestigio de su principal universidad y la vasta variedad de institutos de enseñanza la han situado a nivel nacional como destino predilecto para el turismo y la población estudiantil. 
-						Posee gran movimiento nocturno; una cultura rica y diversa, es un importante centro deportivo y posee un notable desarrollo comercial y tecnológico.
+	                	The Merida city, whose official name is Santiago de los Caballeros de Merida, is the capital of municipality Libertador and Merida state. 
+	                	It's a of the main towns in the venezuelan Andes. 
+	                	It is located on a plateau in the middle of the region, just between the mountain ranges of the Culata and Nevada and the national parks homonyms,
+	                	the geographical condition is positioned as a major tourist center.Likewise, the prestige of his main university and the vast variety 
+	                	of educational institutions have placed the national and preferred destination for tourism and student population.
+	                	It has great nightlife ; a rich and diverse culture is a major sports center and has a remarkable commercial and technological development.
 			    		<br><br>
+
 					</p>
 					<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d45474.59836600714!2d-71.15510630000001!3d8.583264765125572!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e648721ba42e8dd%3A0x5df63fea56d56c66!2zTcOpcmlkYQ!5e1!3m2!1ses-419!2sve!4v1442005372047" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                    </div>
@@ -66,7 +70,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Características
+                                Characteristics
                      </a>
                  </h2>
              </div>
@@ -75,13 +79,13 @@
 
 			            <div class="row featurette">
 			                <div class="col-md-9">
-			                    <strong>• CLIMA</strong><br>
+			                    <strong>• WEATHER</strong><br>
 			                    <p>
-									Posee un clima subtropical con temperaturas moderadas debido a la situación geográfica de esta ciudad dentro de la cordillera andina, y a su gran altitud. En las zonas y montañas circundantes, por encima de los metros de altura el clima es templado de montaña.
+									It has a subtropical climate with moderate temperatures due to the geographical situation of this city in the Andes , and its high altitude . In zones and surrounding mountains, above the meters the climate is temperate mountain.
 								<br>
-									Aunque la polución ha generado un aumento en la temperatura, ésta se ha mantenido más baja (en términos relativos) que en las otras ciudades importantes del país, con registros que oscilan entre los 18 °C y los 24 °C, determinando un promedio general de 18,9 °C. 
-									Las precipitaciones son de intensidad media durante las épocas de lluvia, desde el mes de abril hasta el mes de noviembre. La temperatura de la ciudad varía de norte a sur según la altitud. El norte de la ciudad se encuentra más alto, a unos 1700 msnm manteniendo 
-									una temperatura promedio de 16 °C. El sur posee un clima más cálido por encontrarse a unos 1300 metros sobre el nivel del mar, teniendo una temperatura promedio de 22 °C.
+									Although pollution has generated an increase in temperature, it has remained lower ( in relative terms ) than in other major cities, with records ranging between 18 ° C and 24 ° C , determining an overall average 18.9 ° C .
+									The medium-intensity rainfall during the rainy season , from April to November . The temperature of the city varies from north to south according to altitude. The north of the city is higher, at about 1700 m maintained
+									an average temperature of 16 ° C . The south has a warmer climate for being about 1300 meters above sea level , with an average temperature of 22 ° C .
 								</p>
 			                </div>
 			                <div class="col-md-3">
@@ -92,14 +96,14 @@
 			
 			            <div class="row featurette">
 			                <div class="col-md-7 col-md-push-5">
-			                    <strong>• ECONOMÍA</strong><br>
+			                    <strong>• ECONOMY</strong><br>
 			                    <p>
-					    			El turismo, llamado la industria verde, es la principal fuente de sustento de la ciudad, y una de sus industrias más florecientes. La actividad turística se beneficia del potencial que ofrecen las montañas andinas alrededor de la ciudad, así 
-					    			como las atracciones propias de la misma, como son parques, museos, plazas, entre otros. Además, en los últimos años, gracias a la creación de la única zona libre cultural, científica y tecnológica del país, la ciudad ha empezado a desenvolverse 
-					    			dentro del campo de la tecnología, gracias, además, al apoyo que ha proporcionado la Universidad de los Andes en la materia.
+					    			Tourism, called the green industry is the main source of livelihood of the city, and one of its most flourishing industries. The tourism industry benefits from the potential offered by Andean mountains around the city as well
+									as it 's own attractions , such as parks , museums , plazas, among others. Moreover, in recent years , thanks to the creation of the unique cultural , scientific and technological free zone of the country, the city has begun to unfold
+									within the field of technology , thanks also to the support it has provided the University of the Andes in the field.
 								<br><br>
-									La ciudad de Mérida posee una economía que gira en torno al turismo y a la Universidad de Los Andes y son justamente estos dos factores los que se han visto afectados en los últimos años y los que han hecho que la ciudad de Mérida viva un evidente
-									 retroceso con respecto a otras ciudades de Venezuela.
+									Teh Merida city has an economy that revolves around tourism and the University of Los Andes and it is precisely these two factors which have been affected in recent years and those who have made ​​the city an obvious alive Merida
+									retreat from other cities in Venezuela .
 <!--								
 								
 										<i>° El Odocoileus margaritae,</i> es una especie de venado endémica de la Isla, este particular venado sólo se encuentra localizado en la Isla de Margarita ya que en la Isla de Coche ya no se hallan ejemplares aunque se cree que los hubo
@@ -122,11 +126,11 @@
 			            <div class="row featurette">
 			                <div class="col-md-9">
 								<p>
-				                    <strong>• VEGETACIÓN Y FAUNA</strong><br>
-				                    	La vegetación en el interior de la ciudad está integrada por árboles de copa media a alta y helechos (Pteridophyte), ubicados principalmente en torno a la cuenca del río Albarregas. En la periferia de Mérida, se divisan zonas no urbanizadas, donde predominan 
-				                    	formas de vegetación características de sub-montaña y selva estacional. Por otro lado, se extienden por el sur vastos bosques de coníferas, plantados hace varios años. Hacia el norte y el este, se localiza a su vez la Selva nublada.
+				                    <strong>• VEGGETATION AND FAUNA</strong><br>
+				                    	The vegetation in the inner city is made up of trees half a glass high and ferns ( Pteridophyte ) , mainly located around the river basin Albarregas . On the outskirts of Merida, undeveloped areas where predominate are sighted
+										forms of vegetation characteristics of sub - mountain and seasonal forest. On the other hand , extending to the south vast coniferous forests, planted several years ago. To the north and east, is located in turn the cloud forest .
 				                    <br><br>
-				                    	Respecto de la fauna local, cabe destacar la importante población de ciertas aves pequeñas y medianas como colibríes y loros (Psittacidae), diseminadas especialmente al sur de la ciudad.
+				                    	Regarding the local fauna included the important population of certain small and medium-sized birds such as hummingbirds and parrots ( Psittacidae ) , spread especially south of the city.
 				                    <br>
 				                </p>
 			                </div>
@@ -141,30 +145,30 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                                Entretenimiento y Turismo
+                                Entertainment and Tourism
                      </a>
                  </h2>
              </div>
              <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		La ciudad turística por excelencia del país, siendo uno de los destinos más reconocidos dentro del ámbito nacional e internacional a la hora de viajar a Venezuela.
+			    		The tourist city of the country , one of the most recognized in the national and international level when traveling to Venezuela destinations.
 			    	<br><br>
-					<strong>• Hoteles</strong>
+					<strong>• Hotels</strong>
 					<br>
-						La infraestructura hotelera de la ciudad está compuesta por diversas clases de locales de hospedaje para todos los presupuestos, disponiendo en gran medida de numerosas posadas y apartamentos para turistas, con ofertas de servicios básicos. Al menos la mitad de los hoteles 
-						del estado Mérida (unos 70 locales, y unas 63 posadas) se localizan en la ciudad, representando el 35% del total estadal. En conjunto, totalizan 2.650 camas, es decir, el 58% del total de camas disponibles en la entidad.						
+						The hotel infrastructure of the city is composed of different kinds of local accommodation for all budgets , featuring heavily on numerous guesthouses and apartments for tourists, with offers basic services. At least half of hotels
+						Merida state ( some 70 local and some 63 inns) are located in the city , accounting for 35 % of total estadal . Overall, they totaling 2,650 beds, ie 58% of the total beds available in the state.
 			    	<br><br>
-			    	<strong>• Comercios</strong>
+			    	<strong>• Commerce</strong>
 			    	<br>
-			    		Siendo uno de los principales sectores económicos de Mérida, el sector comercial de la ciudad se distribuye mayormente dentro del casco central, donde pueden adquirirse una gran variedad de productos. Sin embargo, centros de servicios, por fuera de esa zona, ofrecen también 
-			    		todo tipo de mercancías. Algunos centros de comercio notables de la ciudad por los productos que ofrecen son el Mercado Principal de Mérida y la Heladería Coromoto. El Mercado Principal se caracteriza por su oferta de artesanías, gastronomía, y distintas mercancías típicas de 
-			    		la región. Por su parte, la Heladería Coromoto es otro de los comercios afamados de la ciudad por la singularidad de ser el comercio del ramo que ofrece mayor variedad de sabores en sus helados a escala mundial, con más de 800 opciones.
+			    		Being one of the main economic sectors of Merida, the commercial sector of the city is distributed mainly in the central town , where you can buy a variety of products. However , service centers , outside of that area, also offer
+						all kinds of goods . Some notable trade centers of the city for the products they offer are the Main Market of Merida and Coromoto Gelato . The main market is characterized by its offer of handicrafts , food , and other typical goods
+			    		the region. For its part, the Coromoto Gelato is one of the famous shops in the city for the uniqueness of being the industry trade offered greater variety of ice cream flavors in their globally, with more than 800 options
 			    	<br><br>
-			    	<strong>• Vida nocturna</strong>
+			    	<strong>• Nightlife</strong>
 			    	<br>
-			    		En su carácter de ciudad estudiantil y turística, la ciudad de Mérida goza de una amplia red de locales nocturnos para el entretenimiento del público con diversos gustos, compuesto principalmente de discotecas y bares. También existen diversos cafés, restaurantes y cines. 
-			    		Además, diversos eventos culturales y de entretenimiento son celebrados en la misma constantemente, entre los que destacan conciertos sinfónicos de la Orquesta Sinfónica de Mérida y de bandas locales de rock u otros estilos musicales.
+			    		In his capacity as student and tourist city , Merida enjoys an extensive network of nightclubs for entertaining the public with diverse tastes , composed mainly of nightclubs and bars. There are also several cafes , restaurants and cinemas.
+						In addition , various cultural and entertainment events are held in the same constantly , among them symphonic concerts of the Symphony Orchestra of Merida and local rock bands and other musical styles.
 			    	<br>			    	
 					</p>
                    </div>
@@ -258,7 +262,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	PAQUETES
+                     	Packages
                      </a>
                  </h2>
              </div>
@@ -366,8 +370,8 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>Dirección: Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</li><br><br>
-											<li>&copy;Todos los derechos Reservados</li><br>
+											<li>Address: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
+											<li>&copy;All right reserved</li><br>
 											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>

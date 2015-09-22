@@ -235,7 +235,7 @@
 									<h3><a href="parque-canaima.php">Canaima</a></h3>
 								</header>
 								<p>
-									In 1994 Canaima National Park was named Humanity's Patrimony for the UNESCO,
+									In 1994 Canaima National Park was declared a World Heritage Site by UNESCO,
 									for being a natural reserve that which has unique special steep slopes and around the world, the tepuy , which are species plateaus of millions of years old , with vertical walls and summits... 
 								</p>
 							</article>
@@ -339,7 +339,7 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>Adress: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
+											<li>Address: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
 											<li>&copy;All right reserved</li><br>
 											<li>Design: <a href="#">--</a></li>
 										</ul>

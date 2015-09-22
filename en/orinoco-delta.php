@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Venezuela Travel Tours - Delta del Orinoco</title>
+		<title>Venezuela Travel Tours - Orinoco Delta</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer el Delta del Orinoco">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
@@ -34,7 +34,7 @@
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel y Venezuela Travel Tours te llevan a conocer el Delta del Orinoco</h1>
+				<h1>Only One Travel and Venezuela Travel Tours takes you to know Orinoco Delta</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
@@ -46,20 +46,20 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Delta del Orinoco
+                                Orinoco Delta
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-						El Delta del Orinoco es el delta formado por la desembocadura del río Orinoco, uno de los más grandes del mundo. Su extensión hizo pensar a los primeros exploradores españoles que se trataba de un mar. Se considera un lugar de gran riqueza paisajística por la gran variedad de flora y fauna que alberga.
+						The Orinoco Delta is the delta formed by the mouth of the Orinoco River, one of the largest in the world. Its extension suggested to the early Spanish explorers was a sea. It is considered a place of great natural wealth for the great variety of flora and fauna it.
 			    		<br><br>
-			    		Se encuentra en el estado Delta Amacuro, al este de Venezuela. Inspirándose en el pensamiento de Heródoto, el deltano Domingo Ordaz dice que el delta es un "presente del Orinoco", refiriéndose al conjunto de islas y caños situados en la zona cercana a la desembocadura. Considerar al delta como un presente
-			    		del Orinoco no sólo sirve de manera metafórica, sino que se plasma en la realidad pues la mayoría de las islas que la conforman, son el producto de la constante acumulación de materiales que el Orinoco ha arrastrado a través de su existencia milenaria, con el aporte de sus afluentes y en la medida que el mar
-			    		fue retirándose de las estribaciones de la Sierra Imataca, hasta donde había penetrado, formando un inmenso golfo con una boca aproximadamente de 350 km. No todas sus islas son producto de la acumulación de sedimentos, sino que también fueron formadas por la acumulación de lodo proveniente de erupciones de volcanes
-			    		de lodo como es el caso del cerro Cedral ubicado en Capure y en la isla Cotorra y de Plata, situadas al norte de Pedernales. La formación del delta se remonta en el tiempo a la Era Terciaria, miles de años antes constituía un espacio geográfico cubierto por el mar, pero debido a la acción de las corrientes marinas
-			    		se dio el retiro de las aguas del mar produciéndose el delta.
+			    		It is located in Delta Amacuro state, eastern Venezuela. Inspired by the thought of Herodotus, the Deltano Sunday Ordaz says the delta is a "present of the Orinoco," referring to the islands and channels located in the area near the mouth. Consider the delta as a present
+						Orinoco serves not only metaphorically, but in reality plasma as most of the islands that form, are the result of the steady accumulation of materials that the Orinoco has dragged through its millennial existence, with input its tributaries and to the extent that the sea
+						He was withdrawing from the foothills of the Sierra Imataca, to the penetrated, forming an immense gulf with a mouth about 350 km. Not all islands are the result of the accumulation of sediments, but also were formed by the accumulation of mud from volcanic eruptions
+						Mud as in the case of Cedral hill in Capure and Parrot and Silver island, located north of Pedernales. The formation of delta goes back in time to the Tertiary, thousands of years before constituted a geographical area covered by the sea, but because of the action of ocean currents
+						the withdrawal of sea water resulting in the delta occurred.
 					</p>
 					<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d354758.28624579334!2d-61.60822988284855!3d9.361390217036183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdelta+del+orinoco!5e1!3m2!1ses-419!2sve!4v1441290145442" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                    </div>
@@ -69,27 +69,27 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Características
+                                Characteristics
                      </a>
                  </h2>
              </div>
              <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 			                    <p>
-									El delta del orinoco es el segundo delta más grande del continente, con una superficie de unos 25000 kmq. En la parte inferior el río alcanza un ancho de 20 km, dividiéndose en acerca de 40 canales de los que el más meridional e importante es el Recobro Grande.
+									The Orinoco Delta is the second largest continent, with an area of about 25000 kmq delta. At the bottom of the river reaches a width of 20 km, divided into about 40 channels of which the most important is the southern Recovery Grande.
 								<br><br>
-									El delta es compuesto por un laberinto de islas separado por canales, cuyas orillas están en buena parte flanqueara por manglares. La vegetación además es constituida por selvas mixtas, dónde nacen varios tipos de palmas, entre cuyo la más característica de la región, conocida como moriche.
+									The delta is made up of a maze of islands separated by canals, whose banks are in good flanqueara part by mangroves. The vegetation is also constituted by mixed forests, where born several types of palms, among which the most characteristic of the region, known as moriche.
 								</p>
 			
 			            <div class="row featurette">
 			                <div class="col-md-7 col-md-push-5">
 			                    <p>
 			                    <br><br>
-					    			El clima se caracteriza por presentar una temperatura media de 26,7 °C, la máxima media es de 32,3 °C y la mínima media es de 23 °C. La pluviosidad alcanza desde 900 hasta 2500 mm, entre mínimas y máximas respectivamente. Los vientos alisios del noreste y sudeste, al ponerse 
-					    			en contacto con tierras deltanas, producen el viento este-oeste que avanza por el cauce del Orinoco. Durante la crecida se observa la presencia del llamado viento barinés, el cual se desplaza siguiendo la misma dirección del Orinoco. En la época de menor precipitación pluvial 
-					    			actúan en la zona los vientos llamados "nortes". Debido a la influencia de las mareas que se producen en el Atlántico, se eleva y baja el caudal de aguas del río Orinoco y los caños del delta. La acción mediante la cual la marea entra y cambia la dirección del río y su red de 
-					    			caños se llama flujo, y la salida o descenso del agua permitiendo que la corriente del río y caños tomen su dirección normal se denomina reflujo. Cuando el flujo alcanza su nivel máximo hace posible que el agua salada se desplace hacia el interior del delta por sus caños, los 
-					    			cuales se desbordan y anegan las tierras adyacentes facilitando la formación de grandes manglares, ubicados en las áreas cercanas a la costa atlántica.
+					    			The weather is characterized by an average temperature of 26.7 ° C, the maximum average is 32.3 ° C and the average low is 23 ° C. Rainfall ranges from 900-2500 mm, between minimum and maximum respectively. The trade winds from the northeast and southeast, to be
+									deltanas contact lands produce wind east-west you go through the channel of the Orinoco. During the flood the presence of Barinas called wind, which moves in the same direction of the Orinoco is observed. At the time of lower rainfall
+									They are operating in the area winds called "North". Due to the influence of the tides that occur in the Atlantic, it raises and lowers the flow of waters of the Orinoco River delta and pipes. The action by which the tide comes in and changes the direction of the river and its network of
+									called flow pipes and the water drop out or allowing the flow of the river and streams take its normal direction is called reflux. When the flow reaches its maximum enables the seawater to move into the delta by its channels, the
+									which overflow and inundate the adjacent lands to facilitate the formation of large mangroves, located in the areas near the Atlantic coast.
 								<br><br>							                    	
 			                    </p>
 			                </div>
@@ -101,10 +101,10 @@
 			            </div>
 			            <div class="row featurette">
 			                <div class="col-md-9">
-									Esta región ha sido por largo tiempo una de las más salvajes de Venezuela, pero la situación es notablemente cambiada después del descubrimiento y la explotación de los grandes yacimientos petrolíferos situado en la zona de perdenales. Otro elemento que ha modificado la costumbre de vida es el tráfico de estupefacientes que explota los canales del delta para hacer llegar la droga de Columbia a los Caribe.
+									This region has long been one of the wildest of Venezuela, but the situation changed dramatically after the discovery and exploitation of large oil fields located in the area of Perdenales. Another factor that has changed the way of life is drug trafficking which exploits the delta channels to deliver drugs to the Caribbean Columbia.
 								<br><br>
-									La capital del estado es Tucupita, que se encuentra en las orillas del Canao manamo, situado en el extremo occidente del delta y cuyo corrido es interrumpido por un dique apuesta 22 km a sur de Tucupita. La calle que pasa sobre el dique es la única calle de enlace terrenal existente entre la capital y el resto del país.
-									Tucupita es que considerarse una base más de cuyo desplazarse en la exploración del Delta, que una meta turística real.
+									The state capital is Tucupita, located on the banks of Canao manamo, located in the extreme western delta and whose run is interrupted by a dam bet 22 km south of Tucupita. The road passing over the dam is the only existing terrestrial link road between the capital and the rest of the country.
+									Tucupita is considered a base over which move in exploring the Delta, a tourist destination real.
 			                    <br><br>
 			                </div>
 			                <div class="col-md-3">
@@ -224,7 +224,7 @@
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	PAQUETES
+                     	Packages
                      </a>
                  </h2>
              </div>
@@ -332,8 +332,8 @@
 								<!-- Copyright -->
 									<div class="copyright">
 										<ul class="menu">
-											<li>Dirección: Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</li><br><br>
-											<li>&copy;Todos los derechos Reservados</li><br>
+											<li>Address: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
+											<li>&copy;All right reserved</li><br>
 											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>

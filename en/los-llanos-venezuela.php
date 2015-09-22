@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Venezuela Travel Tours - Margarita</title>
-		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer a la Isla de Margarita">
-		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve">
+		<title>Venezuela Travel Tours - Los Llanos Venezolano</title>
+		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Los Llanos Venezolano">
+		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve, los llanos, barinas, apure, portuguesa">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
 		<meta charset="utf-8" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -20,7 +20,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header4">
+				<div id="header7">
 
 						<div class="inner">
 							<header>
@@ -29,37 +29,43 @@
 						</div>
 
 					<?php include("menu.php"); ?>
-					
 				</div>
 			<br>
 			<!-- Banner -->
 		<section id="banner">
 			<header>
-				<h1>Only One Travel and Venezuela Travel Tours takes you to know Margarita Island</h1>
+				<h1>Only One Travel and Venezuela Travel Tours takes you to know Los Llanos</h1>
 				<!--<p>
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
 			</header>
-		</section>					
+		</section>						
 		<div class="container">	
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-warning">
              <div class="panel-heading">
                  <h2 class="panel-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Margarita Island
+                                Los Llanos
                      </a>
                  </h2>
              </div>
              <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-	                	The Margarita Island, called the pearl of Caribbean, is located in the southeast of Caribbean sea,venezuelan northeast, 
-						north of the peninsula of Araya Sucre state. Along with the islands of Coche and Cubagua , it is the only island state of Venezuela , called Nueva Esparta. The island played an important role in the history of independence of Venezuela.
-						
-			    		<br><br>
+						They are called " Los Llanos " a broad expanse that runs from the western end of Apure state to the eastern end of the Monagas state. This extension corresponds to almost a third of the country's territory bordered on the north by the Andes mountain range of central and eastern and south
+						Colombia and the Orinoco border.
+						<br><br>
+						Los llanos are divided into three big areas:
+						<br>
+						• Los llanos western, corresponding to the Apure , Barinas and Portuguesa states and divided into low and high plains .
+						<br>
+						• Los llanos central, corresponding to the Cojedes and Guarico states.
+						<br>
+						• Los llanos eastern, in the Anzoategui and Monagas states.
+						<br><br>
 					</p>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d209846.27140608802!2d-64.09254235!3d11.019099999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c31f1a90b8eb173%3A0x8f83879d37efd85e!2sIsla+de+Margarita!5e1!3m2!1ses-419!2sve!4v1440775890686" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63115.66010266586!2d-70.23554865!3d8.6220072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e7b583bb9f6f665%3A0x6b4ce066ae95450c!2sBarinas!5e1!3m2!1ses-419!2sve!4v1442428468648" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                    </div>
                </div>
                </div>
@@ -76,61 +82,64 @@
 
 			            <div class="row featurette">
 			                <div class="col-md-9">
+			                    <br>
 			                    <strong>• WEATHER</strong><br>
 			                    <p>
-									It is characterized mainly by a dry semi-arid tropical climate accompanied by bright sunshine, largely on the peninsula Macanao. The average temperature is 27 ° C and minimum ranging between 22 ° and 23 ° C and maximum that can easily exceed 34 ° C.
-									There are exceptions like the Copey hill where one can see a type of mountain climate where temperatures can drastically drop to 14 ° C. Rainfall is common in the winter months or rainy season that begins in mid-
-									July-October (although usually quite rare). No snow or hail been recorded on the island of Margarita. Being located in the Caribbean Sea, near the Ecuador Earth, solar rays perpendicularly on the island and it is therefore advisable
-									Always use some sort of sunscreen when visiting its beaches.
+									The average annual temperature is 27 ° C, with maximum and minimum annual values ​​of 33 ° C and 22 ° C, respectively. The plains have a rainy intertropical savannah climate with a marked rainy season in the south ( Apure) and with a very strong drought in northern Guarico state .
+									In the northern state of Anzoategui climate it is drier .
+								<br>
 								</p>
 			                </div>
 			                <div class="col-md-3">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-fauna01.jpg" />
+			                	<br>
+			                    <img class="featurette-image img-responsive center-block" src="images/Losllanos-Clima.jpg" />
 			                </div>
 			            </div>
 			
 			            <div class="row featurette">
 			                <div class="col-md-7 col-md-push-5">
-			                    <strong>• FAUNA</strong><br>
+			                    <strong>• ECONOMY</strong><br>
 			                    <p>
-					    			The fauna of the island of Margarita besides not being sufficiently valued and has known a great variety of animals; a significant number of animals Margarita Island is in danger of extinction and the most outrageous is that is not created
-									awareness about it, which is a serious problem since the processes of life and biodiversity alter Margarita. Among the most prominent animals Margarita Island are:
-								<br><br>
-										<i>° The Odocoileus margaritae,</i> It is an endemic species of deer on the island, this particular deer is only located on the island of Margarita because in Coche Island and copies are not found although it is believed that there.
-									<br>
-										<i>° The Leopardus pardalis,</i> It is a carnivorous mammal that is distributed in America, which has 10 subspecies among which the ocelot of Venezuela (Leopardus pardalis melanurus) which is also distributed in Guyana, Trinidad, Barbados and Granada is located.
-									<br>
-										<i>° Cebus apella margaritae,</i> It is also called Margarita, Machín monkey, capuchin monkey or common. This is another Margarita animal species which is in danger of extinction.
-									<br>
-										<i>° The Sciurus granatensis nesaeus,</i> is a subspecies of endemic Squirrel Island as there are more than 30 subspecies of this type of squirrel.
-									<br>
-										<i>° The Dasypus novemcinctus (Cachicamo),</i> It is a mammal related to anteaters and sloths bears. This is from the United States to Argentina. It has about 5 subspecies among which is that of Venezuela and Margarita.
-								<br><br>							                    	
+					    			Economic activity par excellence of the plains is ranching . In the agricultural line cotton, sorghum , rice , corn, peanuts, cashews and beans are grown. There is also an important oil activity in the
+									Anzoátegui states ( El Tigre , Anaco , San Tome ) and Monagas , and to a lesser extent in Apure and Monagas . South of Guarico, Anzoategui and Monagas is the famous Orinoco oil belt producing extra heavy crudes. Fishing
+									River also has some importance.
+								<br><br>				                    	
 			                    </p>
 			                </div>
-			                <br><br>
-			                
 			                <div class="col-md-5 col-md-pull-7">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-fauna02.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/Losllanos-Economia.jpg" />
 			                </div>
 			            </div>
-		
 			            <div class="row featurette">
 			                <div class="col-md-9">
-			                    <br>
-			                    <strong>• VEGETATION</strong><br>
-			                    	On the island of Margarita climatic effects and / or soil have produced a mixture of life zones, with diverse ecosystems ranging from tropical desert scrub in the lowlands and dry, until the thorn scrub and dry tropical forest areas taller.
-									On the hill Copey lies the montane rain forest and wetlands and mangroves abound salt.
-			                    <br><br>
-			                    	The most representative species are olive trees, dividive and Linnet, around Copey Guaraguao Matasiete and hills. The dry forest is found in areas of
-									Very intervened vegetation. The main species are: cují, guatacare, Guamache, cactus, dividive and olive. The thorny weeds and desert, key state formations occupy the coastal plains. Its main species are thistle, cují (Yaque), oregano, tuna,
-									cactus, dividive (Guatapanare) Guamache, nettle (Guaritoto) and others. The concentrations of mangroves are located in La Restinga, Las Marites and other areas of coastal water. The most important species are the red mangrove, black mangrove and botoncillo.
-			                    <br>
+								<p>
+				                    <strong>• VEGETATION AND FLORA</strong><br>
+				                    	In these plains abound sheets more or fewer trees , flooded or not ( in the winter or rainy season , much of the low plains are flooded under water) . Palm groves, gallery forests and dry forests to also get
+										( deciduous ) with cacti .
+									<br><br>
+										Some of the species characteristics are plain : The Alconrnoque , the Merecure , the saman , water lily , the flower of nacre, the squat , salting, burrowing cañafístolo and of course the palm plains .
+				                    <br><br>
+				                </p>
 			                </div>
 			                <div class="col-md-3">
-			                    <img class="featurette-image img-responsive center-block" src="images/Margarita-vegetacion-bahia-de-plata.jpg" />
+			                    <img class="featurette-image img-responsive center-block" src="images/Losllanos-Vegetacion.jpg" />
 			                </div>
-			            </div>	            
+			            </div>
+
+			            <div class="row featurette">
+			                <div class="col-md-9">
+			                    <strong>• FAUNA</strong><br>
+			                    <p>
+									The Llano is characterized by the number of animals that can be observed , particularly during the summer , since at that time of year are concentrated in points with water. Among the most characteristic we may mention the capybara , anteater , banana frog , deer, drool ,
+									peccary , the Caribbean , the peacock , the king vulture , the gray heron , the caricare , the chenchena and coat.
+								<br>
+								</p>
+			                </div>
+			                <div class="col-md-3">
+			                	<br>
+			                    <img class="featurette-image img-responsive center-block" src="images/Losllanos-Fauna.jpg" />
+			                </div>
+			            </div>			            	            
                    </div>
              </div>
              </div>
@@ -145,13 +154,7 @@
              <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                  <div class="panel-body">
 	                <p>
-			    		Margarita Island is the most important tourist attraction in Venezuela with more than 2.711 million tourists in 2009. It has beaches with conditions for surfing, diving, windsurfing
-						and other water sports as well as historical colonial peoples. In recent years it has planned to carry out several projects to boost tourism, as the cruise port of Puerto la Mar,
-						the expansion of the Santiago Mariño Caribbean International Airport, the Lighthouse of Punta Ballena (in cooperation with the Navy of Venezuela) among others. On the island are several Spanish fortifications
-						old (castles, forts and fortresses), which are considered national treasures.
-			    		<br><br>
-						Other attractions are the feast of the Virgen del Valle, annually in the second week of September, and the Lobster Festival in November, when the fishing season begins.
-			    		<br>
+						The Llanos have great tourist potential , particularly for what is called environmental or ecological tourism. Birdwatchers from all over the world come to the plains to observe birds and wildlife plains .
 					</p>
                    </div>
              </div>
@@ -171,58 +174,44 @@
 		            <li data-target="#carousel-principal" data-slide-to="3"></li>
 		            <li data-target="#carousel-principal" data-slide-to="4"></li>
 		            <li data-target="#carousel-principal" data-slide-to="5"></li>
-		            <li data-target="#carousel-principal" data-slide-to="6"></li>
-		            <li data-target="#carousel-principal" data-slide-to="7"></li>
 		            <!--<li data-target="#carousel-principal" data-slide-to="9"></li>-->		            		            		            		            		            
 		       		</ol>
 		        
 		        <div class="carousel-inner" role="listbox">
 		            <div class="item active">
-                        <img src="images/slide/Margarita03.jpg" width="100%" height="1200px" alt="Margarita Isla" />
+                        <img src="images/slide/Losllanos01.jpg" width="100%" height="1200px" alt="Losllanos01.jpg" title="Los Llanos Venezolano" />
                         <div class="carousel-caption">
-		                    <h3>Coche Island</h3>
+		                    <h3></h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/Margarita02.jpg" width="100%" height="1200px" alt="Isla de Margarita" />
+                        <img src="images/slide/Losllanos02.jpg" width="100%" height="1200px" alt="Losllanos02.jpg" title="Los Llanos Venezuela" />
                         <div class="carousel-caption">
-		                    <h3>Basílica Menor de la Virgen del Valle</h3>
+		                    <h3></h3>
                         </div>
                     </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita04.jpg" width="100%" height="1200px" alt="Isla de coche" />
+		                <img src="images/slide/Losllanos04.jpg" width="100%" height="1200px" alt="Losllanos04.jpg" title="Los Llanos"/>
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita05.jpg" width="100%" height="1200px" alt="Castillo de Pampatar Margarita" />
+		                <img src="images/slide/Losllanos05.jpg" width="100%" height="1200px" alt="Losllanos05.jpg" title="Los Llanos " />
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita06.jpg" width="100%" height="1200px" alt="Estado Nueva Esparta" />
+		                <img src="images/slide/Losllanos06.jpg" width="100%" height="1200px" alt="Losllanos06.jpg" title="Los Llanos" />
 		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita09.jpg" width="100%" height="1200px" alt="Laguna de la restinga" />
+		                <img src="images/slide/Losllanos08.jpg" width="100%" height="1200px" alt="Losllanos08.jpg" title="Los Llanos" />
 		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Margarita10.jpg" width="100%" height="1200px" alt="Laguna de la restinga" />
-		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
-		                </div>
-		            </div>	
-		            <div class="item">
-		                <img src="images/slide/Margarita07.jpg" width="100%" height="1200px" alt="Punta ballena" />
-		                <div class="carousel-caption">
-		                    <h3>Faro de Punta Ballena</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>			            	         
 		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
@@ -353,7 +342,7 @@
 									<div class="copyright">
 										<ul class="menu">
 											<li>Address: Duplex 4 Street 61 Obarrio Panama City, Panama</li><br><br>
-											<li>&copy;All right reserved</li><br>
+											<li>&copy;All right reserved.</li><br>
 											<li>Design: <a href="#">--</a></li>
 										</ul>
 									</div>
