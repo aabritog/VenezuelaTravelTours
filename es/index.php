@@ -52,7 +52,7 @@
 		                </div>
 		            </div>		            
 		            <div class="item">
-		                <img src="images/slide/Merida-paramo-culata02.jpg" width="100%" height="1200px" alt="Mérida" title="Mérida" />
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" height="1200px" alt="Mérida" title="Mérida" />
 		                <div class="carousel-caption">
 		                    <h3>Mérida</h3>
 		                </div>
