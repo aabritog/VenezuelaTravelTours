@@ -26,45 +26,45 @@
 				<!--<div class="wrapper style2">-->
 			<?php include("menu.php"); ?>				
 			<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
-		        <div style="height: 700px !important;" class="carousel-inner" role="listbox">
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox" align="center">
 		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
+                        <img src="images/slide/Canaima01.jpg" width="100%" alt="Canaima" style="height: 700px" />
                         <div class="carousel-caption">
                             <h3>Canaima</h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/SaltoAngel09.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
+                        <img src="images/slide/SaltoAngel09.jpg" width="100%" alt="Salto Angel" style="height: 700px" />
                         <div class="carousel-caption">
                             <h3>Salto Angel</h3>
                         </div>
                     </div>
 		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques" />
+		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" style="height: 700px" />
 		                <div class="carousel-caption">
 		                    <h3>Los Roques</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Losllanos05.jpg" width="100%" height="1200px" alt="Los Llanos" title="Los Llanos" />
+		                <img src="images/slide/Losllanos05.jpg" width="100%" alt="Los Llanos" style="height: 700px" />
 		                <div class="carousel-caption">
 		                    <h3>Los Llanos</h3>
 		                </div>
 		            </div>		            
 		            <div class="item">
-		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" height="1200px" alt="Mérida" title="Mérida" />
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" alt="Mérida" style="height: 700px" />
 		                <div class="carousel-caption">
 		                    <h3>Mérida</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Margarita04.jpg" width="100%" height="1200px" alt="Margarita" title="Margarita"/>
+		                <img src="images/slide/Margarita04.jpg" width="100%" alt="Margarita" style="height: 700px" />
 		                <div class="carousel-caption">
 		                    <h3>Margarita</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/OrinocoDelta01.jpg" width="100%" height="1200px" alt="Orinoco Delta" title="Orinoco Delta"/>
+		                <img src="images/slide/OrinocoDelta01.jpg" width="100%" alt="Orinoco Delta" style="height: 700px" />
 		                <div class="carousel-caption">
 		                    <h3>Delta del Orinoco</h3>
 		                </div>
@@ -171,10 +171,9 @@
 
 			<!-- Features -->
 				<div class="wrapper style1">
-					<section id="features" class="container special">
+					<section id="features" class="container special" >
 						<header>
 							<h2>Conoce nuestros paquetes turísticos</h2><br>
-							<!--<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>-->
 						</header>
 						<div class="row">
 							<article class="4u 12u(mobile) special">

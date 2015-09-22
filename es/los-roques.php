@@ -11,6 +11,15 @@
 		<link rel="stylesheet" href="bootstrap-3.3.4-dist/bootstrap-3.3.4-dist/css/bootstrap.min.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>		
+		
 	</head>
 	<body style="overflow-x:hidden !important;" class="homepage">
 		
@@ -23,10 +32,10 @@
 				<!--<div class="wrapper style2">-->
 					<?php include("menu.php"); ?>				
 					<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
-		        <div style="height: 700px !important;" class="carousel-inner" role="listbox">
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox">
     
 		            <div class="item active">
-                        <img src="images/slide/los-roques01.jpg" width="100%" alt="Los Roques" />
+                        <img src="images/slide/los-roques01.jpg" width="100%" alt="Los Roques" style="height: 700px" />
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
@@ -34,14 +43,14 @@
 
                 
                     <div class="item">
-                        <img src="images/slide/los-roques07.jpg" width="100%" alt="Los Roques" />
+                        <img src="images/slide/los-roques07.jpg" width="100%" alt="Los Roques" style="height: 700px"/>
                         <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
                         </div>
                     </div>
                     
 		            <div class="item">
-		                <img src="images/slide/los-roques03.jpg" width="100%" alt="Los Roques" />
+		                <img src="images/slide/los-roques03.jpg" width="100%" alt="Los Roques" style="height: 700px"/>
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
@@ -55,7 +64,7 @@
 		            </div>-->
 
 		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" />
+		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" style="height: 700px"/>
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
@@ -198,7 +207,10 @@
 			</p>
 				
 		</article>
-		
+
+		<article>
+			<div class="fb-comments" data-href="http://venezuelatravel.tours/los-roques.php" data-numposts="5"></div>
+		</article>		
 		
 		 
 		<!--<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
