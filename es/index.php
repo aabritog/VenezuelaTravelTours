@@ -22,23 +22,55 @@
 		
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header">
-
-					<!-- Inner -->
-						<div class="inner">
-							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
-							</header>
-							<!--<footer>
-								<a href="#banner" class="button circled scrolly">Inicio</a>
-							</footer>-->
-						</div>
-
-					<?php include("menu.php"); ?>
-
-				</div>
-
+			<!--Slider-->		
+				<!--<div class="wrapper style2">-->
+			<?php include("menu.php"); ?>				
+			<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 700px !important;" class="carousel-inner" role="listbox">
+		            <div class="item active">
+                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
+                        <div class="carousel-caption">
+                            <h3>Canaima</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slide/SaltoAngel09.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
+                        <div class="carousel-caption">
+                            <h3>Salto Angel</h3>
+                        </div>
+                    </div>
+		            <div class="item">
+		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques" />
+		                <div class="carousel-caption">
+		                    <h3>Los Roques</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Losllanos05.jpg" width="100%" height="1200px" alt="Los Llanos" title="Los Llanos" />
+		                <div class="carousel-caption">
+		                    <h3>Los Llanos</h3>
+		                </div>
+		            </div>		            
+		            <div class="item">
+		                <img src="images/slide/Merida-paramo-culata02.jpg" width="100%" height="1200px" alt="Mérida" title="Mérida" />
+		                <div class="carousel-caption">
+		                    <h3>Mérida</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Margarita04.jpg" width="100%" height="1200px" alt="Margarita" title="Margarita"/>
+		                <div class="carousel-caption">
+		                    <h3>Margarita</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/OrinocoDelta01.jpg" width="100%" height="1200px" alt="Orinoco Delta" title="Orinoco Delta"/>
+		                <div class="carousel-caption">
+		                    <h3>Delta del Orinoco</h3>
+		                </div>
+		            </div>
+		        </div>
+		    </div>		        
 
 			<!-- Banner -->
 				<section id="banner">
@@ -91,73 +123,7 @@
 					</div>
 				</section>
 
-			<!-- Main -->
-<!--
-				<div class="wrapper style2">
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        	<ol class="carousel-indicators">
-		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
-		            <li data-target="#carousel-principal" data-slide-to="1"></li>
-		            <li data-target="#carousel-principal" data-slide-to="2"></li>
-		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		            <li data-target="#carousel-principal" data-slide-to="5"></li>		            		            
-		       		</ol>
-		        
-		        <div class="carousel-inner" role="listbox">
 
-		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
-                        <div class="carousel-caption">
-                            <h3>Canaima</h3>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
-                        <div class="carousel-caption">
-                            <h3>Salto Angel</h3>
-                        </div>
-                    </div>
-                    
-		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques" />
-		                <div class="carousel-caption">
-		                    <h3>Los Roques</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>Canaima</h3>
-		                </div>
-		            </div>		            
-		            
-		            <div class="item">
-		                <img src="images/slide/Escalando.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques"/>
-		                <div class="carousel-caption">
-		                    <h3>Los Roques</h3>
-		                </div>
-		            </div>		            
-		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
-		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		                <span class="sr-only">Anterior</span>
-		            </a>
-		            <a class="right carousel-control" href="#carousel-principal" role="button" data-slide="next">
-		                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		                <span class="sr-only">Siguiente</span>
-		            </a>
-		        </div>
-		        
-		   </div>-->
 		    <!--<div id="nostros">
 		    	
 			<div class="container">
