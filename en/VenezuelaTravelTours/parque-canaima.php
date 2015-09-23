@@ -12,24 +12,51 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
 	</head>
-	<body class="homepage">
+	<body style="overflow-x:hidden !important;" class="homepage">
 		
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>		
 
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header2">
-
-						<div class="inner">
-							<header>
-							</header>
-						</div>
-
+			<!--Slider-->
 					<?php include("menu.php"); ?>
-				</div>
-			<br>
+					<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox">
+    
+		            <div class="item active">
+                        <img src="images/slide/Canaima01.jpg" width="100%" height="700px" alt="Canaima" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slide/Canaima02.jpg" width="100%" height="700px" alt="Canaima" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>		           
+		            <div class="item">
+		                <img src="images/slide/Canaima03.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Canaima04.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Canaima05.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		    
 			<!-- Banner -->
 		<section id="banner">
 			<header>
@@ -38,61 +65,46 @@
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
 			</header>
-		</section>						
-		<div class="container">	
-		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Canaima
-                     </a>
-                 </h2>
-             </div>
-             <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-	                <p>
-			    		Canaima National Park is a national park located in Bolivar State, Venezuela. It was launched on June 12, 1962 and declared a World Heritage Site by Unesco in 1994.
-			    		<br><br>
-						It extends over 30,000 square kilometers to the border with Guyana and Brazil, for its size is considered the world's sixth largest national park. About 65% of the park is occupied by rock mesas called tepuis. These are a unique biological environment, also showing a great geological interest. Its steep cliffs and waterfalls (including Angel Falls, which is the highest water fall of the world, 1,002 m) are spectacular scenery.
-					</p>
-                   </div>
-               </div>
-               </div>
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Canaima:  World Heritage Site
-                     </a>
-                 </h2>
-             </div>
-             <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-	                <p>
-			    		In 1994 Canaima National Park was declared a World Heritage Site by UNESCO, for being a natural reserve that which has unique special steep slopes and around the world, the tepuy , which are species plateaus of millions of years old , with vertical walls and almost flats summits
-			    		<br><br>
-						The most famous tepuis are Mount Roraima, the tallest and easiest to climb around the park, and the Auyan-tepui, the most visited, because in this waterfall or higher water fall of the world is, Angel Falls .
-			    		<br><br>
-						It is said that the tepui are sandstones and date from the period when America and Africa formed a supercontinent. This type of relief is commonly called Macizo Guayanes.
-			    		<br><br>
-			    		The park is home to the Pemon people. They have a relationship with the tepui, and believe that are home to the spirits "Mawari". The park is in a remote site to civilization. It has few roads that connect to other nearby cities such as Ciudad Guayana. The most common means of transport is to traverse through canoes.
-			    		<br>
-					</p>
-                   </div>
-             </div>
-             </div>
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	Characteristics
-                     </a>
-                 </h2>
-             </div>
-             <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-                <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
+		</section>
+								
+		<div class="container">
+
+		<article>
+			<header>
+				<h2>Canaima</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<p>
+	    		Canaima National Park is a national park located in Bolivar State, Venezuela. It was launched on June 12, 1962 and declared a World Heritage Site by Unesco in 1994.
+			</p>
+            <p>
+				It extends over 30,000 square kilometers to the border with Guyana and Brazil, for its size is considered the world's sixth largest national park. About 65% of the park is occupied by rock mesas called tepuis. These are a unique biological environment, also showing a great geological interest. Its steep cliffs and waterfalls (including Angel Falls, which is the highest water fall of the world, 1,002 m) are spectacular scenery.
+			</p>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.4499882452933!2d-62!3d5.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc0c55555555555%3A0x94f51378e4df67cb!2sParque+Nacional+Canaima!5e0!3m2!1ses!2sve!4v1439828856495" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</article>
+		<article>
+			<header>
+				<h2>Canaima:  World Heritage Site</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<p>
+	    		In 1994 Canaima National Park was declared a World Heritage Site by UNESCO, for being a natural reserve that which has unique special steep slopes and around the world, the tepuy , which are species plateaus of millions of years old , with vertical walls and almost flats summits
+			</p>
+            <p>
+				The most famous tepuis are Mount Roraima, the tallest and easiest to climb around the park, and the Auyan-tepui, the most visited, because in this waterfall or higher water fall of the world is, Angel Falls .
+			</p>
+            <p>
+				It is said that the tepui are sandstones and date from the period when America and Africa formed a supercontinent. This type of relief is commonly called Macizo Guayanes.
+			</p>
+            <p>
+	    		The park is home to the Pemon people. They have a relationship with the tepui, and believe that are home to the spirits "Mawari". The park is in a remote site to civilization. It has few roads that connect to other nearby cities such as Ciudad Guayana. The most common means of transport is to traverse through canoes.						
+			</p>
+		</article>
+		<article>
+			<header>
+				<h2>Characteristics</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
 					<p>
 						<strong>Fauna<br></strong>
 							Canaima has a very varied fauna, which is distributed throughout the park according to multiple environmental factors such as height and type of vegetation. Among the species that can be found we are:
@@ -114,7 +126,7 @@
 							</ul>
 							<br>
 						<strong>Hydrography<br></strong>
-							El parque incluye la totalidad de la cuenca de la margen derecha del río Caroní, y dos de los saltos de agua más altos del mundo, el salto Ángel y el Kukenán y gran cantidad de cataratas de menor altura.
+							The park includes the entire watershed of the right bank of the Caroni River , and two breaks water highest in the world , Angel Falls and Kukenán waterfalls and plenty of lower height .
 							<ul>
 								<li>• There are over 300 species endemic only in the Gran Sabana.</li>
 								<li>• Endemic gener: Achnopogon, chimantaea, Quelchia, Tepuia, Mallophyton, Adenanthe.</li>															
@@ -128,82 +140,14 @@
 							Geological ranging between 1500 and 2000 million years, which makes them one of the oldest formations on the planet. The most famous tepuis are the Auyantepuy (where the Angel follows)
 							The Roraima The Chimantá The Kukenan and many others.
 					</p>
-                 </div>
-               </div>
-               </div>             
-        </div>			
-			
-	</div>	
-
-			<!--Slider-->
-				<div class="wrapper style2">
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        <!-- Indicadores del carousel slide -->
-		        	<ol class="carousel-indicators">
-		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
-		            <li data-target="#carousel-principal" data-slide-to="1"></li>
-		            <li data-target="#carousel-principal" data-slide-to="2"></li>
-		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		       		</ol>
-		        
-		        <div class="carousel-inner" role="listbox">
-    
-		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="Canaima" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>		           
-		            <div class="item">
-		                <img src="images/slide/Canaima03.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Canaima04.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Canaima05.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
-		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		                <span class="sr-only">Anterior</span>
-		            </a>
-		            <a class="right carousel-control" href="#carousel-principal" role="button" data-slide="next">
-		                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		                <span class="sr-only">Siguiente</span>
-		            </a>
-		        </div>
-		    </div>
-		</div>		
-
-			<!--Itinerario del paquete-->	
-		<div class="container">	
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
-                     	Package itinerary: Canaima and Angel Falls 3 days
-                     </a>
-                 </h2>
-             </div>
-             <div id="cuartoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">           
-                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+		</article>
+						
+			<!--Itinerario del paquete-->		
+		<article>
+			<header>
+				<h2>Itinerario del paquete: Canaima y Salto Angel 3 días</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
 					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
 						<strong>• Day 1: ARRIVAL CANAIMA / TOUR JUMP THE FROG</strong><br> 
@@ -216,33 +160,12 @@
 							After breakfast return to Canaima , we will stop at the Pozo de la Felicidad , in the crystalline waters with its beautiful waterfall we can take a leisurely swim and enjoy the tranquility and beauty of our nature , sail to Mayupa , we again make the walk across the savannah , and 35 min the canoe to the camp. ( We will have a common room to move ) . Departure to the airport to take the flight back to Puerto Ordaz. End of our service. ( B / - / -) .
 							<br><br>
 					</p>
-                 </div>
-               </div>
-               </div>	
-            	<div class="row">
-	                <div class="col-md-6">
-	                    <div class="panel panel-warning" style="margin-top: 25px">
-	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
-	                        <div class="panel-body">
-	                            <p><strong><i>Canaima National Park - Venezuela</i></strong></p>
-	                    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.4499882452933!2d-62!3d5.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc0c55555555555%3A0x94f51378e4df67cb!2sParque+Nacional+Canaima!5e0!3m2!1ses!2sve!4v1439828856495" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
-	                        </div>
-	                    </div>
-	                </div>
-	                <!--<div class="col-md-6">
-	                    <div class="panel panel-warning" style="margin-top: 25px">
-	                        <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
-	                        <div class="panel-body">
-	                            
-	                            <ul>
-	                                <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
-	                                <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
-	                            </ul>
-	                        </div>
-	                    </div>
-	                </div>-->
-            	</div>               		
+		</article>			
+		
 		</div>	
+
+		<div style="margin-bottom:40px;"></div>
+
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">

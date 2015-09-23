@@ -12,24 +12,51 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
 	</head>
-	<body class="homepage">
+	<body style="overflow-x:hidden !important;" class="homepage">
 		
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55e05e6fddd52fd7" async="async"></script>		
 
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header2">
-
-						<div class="inner">
-							<header>
-							</header>
-						</div>
-
+			<!--Slider-->
 					<?php include("menu.php"); ?>
-				</div>
-			<br>
+					<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox">
+    
+		            <div class="item active">
+                        <img src="images/slide/Canaima01.jpg" width="100%" height="700px" alt="Canaima" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slide/Canaima02.jpg" width="100%" height="700px" alt="Canaima" />
+                        <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+                        </div>
+                    </div>		           
+		            <div class="item">
+		                <img src="images/slide/Canaima03.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Canaima04.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Canaima05.jpg" width="100%" height="700px" alt="Canaima" />
+		                <div class="carousel-caption">
+		                    <h3>&nbsp;</h3>
+		                </div>
+		            </div>
+		        </div>
+		    </div>	
+		    
 			<!-- Banner -->
 		<section id="banner">
 			<header>
@@ -38,61 +65,46 @@
 					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
 				</p>-->
 			</header>
-		</section>						
+		</section>				
+				
 		<div class="container">	
-		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="primerCollapse">
-                                Canaima
-                     </a>
-                 </h2>
-             </div>
-             <div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-	                <p>
-			    		El Parque Nacional Canaima es un parque nacional ubicado en el Estado Bolívar, Venezuela. Fue instaurado el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en el año 1994.
-			    		<br><br>
-						Se extiende sobre 30.000 km² hasta la frontera con Guyana y Brasil, por su tamaño es considerado el sexto parque nacional más grande del mundo. Cerca de 65 % del parque está ocupado por mesetas de roca llamadas tepuyes. Estos constituyen un medio biológico único, presentando también un gran interés geológico. Sus acantilados escarpados y sus caídas de agua (incluyendo el Salto Ángel, que es la caída de agua más elevada del mundo, a 1.002 m) forman paisajes espectaculares.
-					</p>
-                   </div>
-               </div>
-               </div>
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-                                Canaima: Patrimonio de la Humanidad
-                     </a>
-                 </h2>
-             </div>
-             <div id="segundoCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-	                <p>
-			    		En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO, por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas casi planas.
-			    		<br><br>
-						Los tepuyes más conocidos son el Monte Roraima, el más alto y fácil de escalar de todo el parque, y el Auyan-tepui, el más visitado, pues en este se encuentra la catarata o caída de agua más alta del mundo, el Salto Ángel.
-			    		<br><br>
-						Se dice que los tepuy son rocas areniscas y datan del período en que América y África formaban un supercontinente. A este tipo de relieve se le conoce comúnmente como Macizo Guayanés.
-			    		<br><br>
-			    		El parque es hogar del pueblo pemón. Estos tienen una relación con los tepuy, y creen en que son el hogar de los espíritus "Mawari". El parque está en un sitio lejano a la civilización. Cuenta con pocas carreteras que conectan con otras ciudades cercanas, como Ciudad Guayana. El medio de transporte más común para recorrerlo es a través de canoas.						
-			    		<br>
-					</p>
-                   </div>
-             </div>
-             </div>
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="tercerCollapse">
-                     	Caracteristicas
-                     </a>
-                 </h2>
-             </div>
-             <div id="tercerCollapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">
-                <!-- <img src="img/enconstruccion.jpg" width="100%" /></<img> -->
+
+		<article>
+			<header>
+				<h2>Canaima</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<p>
+	    		El Parque Nacional Canaima es un parque nacional ubicado en el Estado Bolívar, Venezuela. Fue instaurado el 12 de junio de 1962 y declarado Patrimonio de la Humanidad por la Unesco en el año 1994.
+			</p>
+            <p>
+				Se extiende sobre 30.000 km² hasta la frontera con Guyana y Brasil, por su tamaño es considerado el sexto parque nacional más grande del mundo. Cerca de 65 % del parque está ocupado por mesetas de roca llamadas tepuyes. Estos constituyen un medio biológico único, presentando también un gran interés geológico. Sus acantilados escarpados y sus caídas de agua (incluyendo el Salto Ángel, que es la caída de agua más elevada del mundo, a 1.002 m) forman paisajes espectaculares.
+			</p>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.4499882452933!2d-62!3d5.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc0c55555555555%3A0x94f51378e4df67cb!2sParque+Nacional+Canaima!5e0!3m2!1ses!2sve!4v1439828856495" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</article>			
+		<article>
+			<header>
+				<h2>Canaima: Patrimonio de la Humanidad</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
+			<p>
+	    		En 1994 el Parque Nacional Canaima fue nombrado Patrimonio de la Humanidad por la UNESCO, por ser una reserva natural que cuenta con relieves abruptos especiales y únicos en todo el mundo, los tepuy, que son especies de mesetas de millones de años de antigüedad, con paredes verticales y cimas casi planas.
+			</p>
+            <p>
+				Los tepuyes más conocidos son el Monte Roraima, el más alto y fácil de escalar de todo el parque, y el Auyan-tepui, el más visitado, pues en este se encuentra la catarata o caída de agua más alta del mundo, el Salto Ángel.
+			</p>
+            <p>
+				Se dice que los tepuy son rocas areniscas y datan del período en que América y África formaban un supercontinente. A este tipo de relieve se le conoce comúnmente como Macizo Guayanés.
+			</p>
+            <p>
+	    		El parque es hogar del pueblo pemón. Estos tienen una relación con los tepuy, y creen en que son el hogar de los espíritus "Mawari". El parque está en un sitio lejano a la civilización. Cuenta con pocas carreteras que conectan con otras ciudades cercanas, como Ciudad Guayana. El medio de transporte más común para recorrerlo es a través de canoas.						
+			</p>
+		</article>			
+		<article>
+			<header>
+				<h2>Caracteristicas</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
 					<p>
 						<strong>Fauna<br></strong>
 							Canaima posee una fauna muy variada, la cual está distribuida a lo largo del parque de acuerdo a múltiples factores ambientales como la altura y el tipo de vegetación. Entre las especies que podemos encontrar están:
@@ -128,82 +140,14 @@
 							geológica que oscila entre 1500 y 2000 millones de años, lo que las convierte en unas de las formaciones más antiguas del planeta. Los tepuyes más conocidos son: el Auyantepuy (de donde se desprende el Salto Ángel),
 							El Roraima, El Kukenan y El Chimantá entre muchos otros.
 					</p>
-                 </div>
-               </div>
-               </div>             
-        </div>			
-			
-	</div>	
+		</article>			
 
-			<!--Slider-->
-				<div class="wrapper style2">
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        <!-- Indicadores del carousel slide -->
-		        	<ol class="carousel-indicators">
-		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
-		            <li data-target="#carousel-principal" data-slide-to="1"></li>
-		            <li data-target="#carousel-principal" data-slide-to="2"></li>
-		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		       		</ol>
-		        
-		        <div class="carousel-inner" role="listbox">
-    
-		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="Canaima" />
-                        <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-                        </div>
-                    </div>		           
-		            <div class="item">
-		                <img src="images/slide/Canaima03.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Canaima04.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Canaima05.jpg" width="100%" height="1200px" alt="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
-		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		                <span class="sr-only">Anterior</span>
-		            </a>
-		            <a class="right carousel-control" href="#carousel-principal" role="button" data-slide="next">
-		                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		                <span class="sr-only">Siguiente</span>
-		            </a>
-		        </div>
-		    </div>
-		</div>		
-
-			<!--Itinerario del paquete-->	
-		<div class="container">	
-             <div class="panel panel-warning">
-             <div class="panel-heading">
-                 <h2 class="panel-title">
-                     <a data-toggle="collapse" data-parent="#accordion" href="#cuartoCollapse" aria-expanded="true" aria-controls="cuartoCollapse">
-                     	Itinerario del paquete: Canaima y Salto Angel 3 días
-                     </a>
-                 </h2>
-             </div>
-             <div id="cuartoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                 <div class="panel-body">           
-                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+			<!--Itinerario del paquete-->		
+		<article>
+			<header>
+				<h2>Itinerario del paquete: Canaima y Salto Angel 3 días</h2>
+				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+			</header>
 					<div class="addthis_native_toolbox" align="left"></div><br>
 					<p>
 						<strong>• Día 1: LLEGADA A CANAIMA / EXCURSIÓN SALTO EL SAPO</strong><br> 
@@ -216,33 +160,12 @@
 							Luego del desayuno regreso a Canaima, haremos una breve parada en el Pozo de la Felicidad, en las aguas cristalinas con su hermosa cascada podremos tomar un agradable baño y disfrutar de la tranquilidad y belleza de nuestra naturaleza, navegaremos hasta Mayupa, volvemos a hacer la caminata por la sabana, y 35 min el curiara hasta el Campamento. (Tendremos una habitación común para cambiarnos). Salida al Aeropuerto para tomar el vuelo de retorno a Puerto Ordaz. Fin de nuestro servicio. (D/-/-).
 							<br><br>
 					</p>
-                 </div>
-               </div>
-               </div>	
-            	<div class="row">
-	                <div class="col-md-6">
-	                    <div class="panel panel-warning" style="margin-top: 25px">
-	                        <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
-	                        <div class="panel-body">
-	                            <p><strong><i>Parque Nacional Canaima - Venezuela</i></strong></p>
-	                    		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.4499882452933!2d-62!3d5.5!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8dc0c55555555555%3A0x94f51378e4df67cb!2sParque+Nacional+Canaima!5e0!3m2!1ses!2sve!4v1439828856495" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
-	                        </div>
-	                    </div>
-	                </div>
-	                <!--<div class="col-md-6">
-	                    <div class="panel panel-warning" style="margin-top: 25px">
-	                        <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
-	                        <div class="panel-body">
-	                            
-	                            <ul>
-	                                <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
-	                                <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
-	                            </ul>
-	                        </div>
-	                    </div>
-	                </div>-->
-            	</div>               		
+		</article>	
+	               		
 		</div>	
+
+		<div style="margin-bottom:40px;"></div>	
+	
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">

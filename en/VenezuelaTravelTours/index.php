@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="es">
 	<head>
-		<title>Venezuela Travel Tours</title>
+		<title>Venezuela Travel Tours Welcome!</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer los destinos turísticos mas exóticos de Venezuela y el mundo.">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
@@ -22,24 +22,56 @@
 		
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header">
-
-					<!-- Inner -->
-						<div class="inner">
-							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
-							</header>
-							<!--<footer>
-								<a href="#banner" class="button circled scrolly">Inicio</a>
-							</footer>-->
-						</div>
-
-					<?php include("menu.php"); ?>
-
-				</div>
-
-
+			<!--Slider-->		
+				<!--<div class="wrapper style2">-->
+			<?php include("menu.php"); ?>				
+			<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox" align="center">
+		            <div class="item active">
+                        <img src="images/slide/Canaima01.jpg" width="100%" alt="Canaima" style="height: 700px" />
+                        <div class="carousel-caption">
+                            <h3>Canaima</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slide/SaltoAngel09.jpg" width="100%" alt="Salto Angel" style="height: 700px" />
+                        <div class="carousel-caption">
+                            <h3>Angel Falls</h3>
+                        </div>
+                    </div>
+		            <div class="item">
+		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>The Roques</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Losllanos05.jpg" width="100%" alt="Los Llanos" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>The Llanos</h3>
+		                </div>
+		            </div>		            
+		            <div class="item">
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" alt="Mérida" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Mérida</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Margarita04.jpg" width="100%" alt="Margarita" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Margarita</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/OrinocoDelta01.jpg" width="100%" alt="Orinoco Delta" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Delta del Orinoco</h3>
+		                </div>
+		            </div>
+		        </div>
+		    </div>		        
+		    
 			<!-- Banner -->
 				<section id="banner">
 					<header>
@@ -53,117 +85,45 @@
 			<!-- Carousel -->
 				<section class="carousel">
 					<div class="reel" id="carousel">
-
+						
 						<article>
 							<a href="salto-angel.php" class="image featured"><img src="images/SaltoAngel.jpg" alt="Salto Angel" title="Salto Angel" /></a>
 							<header>
 								<h3><a href="salto-angel.php"><p>Angel Falls<br>Venezuela</p></a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
-
+						
 						<article>
 							<a href="parque-canaima.php" class="image featured"><img src="images/Canaima.jpg" alt="Canaima" title="Canaima" /></a>
 							<header>
 								<h3><a href="parque-canaima.php">Canaima<br>Venezuela</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
-
+						
 						<article>
 							<a href="#" class="image featured"><img src="images/Galapagos.jpg" alt="Isla Galapagos" title="Isla Galapagos"/></a>
 							<header>
 								<h3><a href="#">Galapagos<br>Ecuador</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
-
+						
 						<article>
 							<a href="#" class="image featured"><img src="images/SalarDeUyuni.jpg" alt="Salar de Uyuni" title="Salar de Uyuni"/></a>
 							<header>
 								<h3><a href="#">Salar de Uyuni<br>Bolivia</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
-
+						
 						<article>
 							<a href="#" class="image featured"><img src="images/MachuPicchu.jpg" alt="Machu Picchu" title="Machu Picchu" /></a>
 							<header>
 								<h3><a href="#">Machu Picchu<br>Perú</a></h3>
 							</header>
-							<!--<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>-->
 						</article>
 					</div>
 				</section>
 
-			<!-- Main -->
-				<div class="wrapper style2">
-					<div id="carousel-principal" class="carousel slide" data-ride="carousel">
-		        <!-- Indicadores del carousel slide -->
-		        	<ol class="carousel-indicators">
-		            <li data-target="#carousel-principal" data-slide-to="0" class="active"></li>
-		            <li data-target="#carousel-principal" data-slide-to="1"></li>
-		            <li data-target="#carousel-principal" data-slide-to="2"></li>
-		            <li data-target="#carousel-principal" data-slide-to="3"></li>
-		            <li data-target="#carousel-principal" data-slide-to="4"></li>
-		            <li data-target="#carousel-principal" data-slide-to="5"></li>		            		            
-		            <!--<li data-target="#carousel-principal" data-slide-to="4"></li>-->
-		       		</ol>
-		        
-		        <div class="carousel-inner" role="listbox">
-
-		            <div class="item active">
-                        <img src="images/slide/Canaima01.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
-                        <div class="carousel-caption">
-                            <h3>Canaima</h3>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="images/slide/SaltoAngel01.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
-                        <div class="carousel-caption">
-                            <h3>Angel Falls</h3>
-                        </div>
-                    </div>
-                    
-		            <div class="item">
-		                <img src="images/slide/los-roques05.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques" />
-		                <div class="carousel-caption">
-		                    <h3>Los Roques</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/Canaima02.jpg" width="100%" height="1200px" alt="Canaima" title="Canaima" />
-		                <div class="carousel-caption">
-		                    <h3>Canaima</h3>
-		                </div>
-		            </div>		            
-		            
-		            <div class="item">
-		                <img src="images/slide/Escalando.jpg" width="100%" height="1200px" alt="Salto Angel" title="Salto Angel" />
-		                <div class="carousel-caption">
-		                    <h3>&nbsp;</h3>
-		                </div>
-		            </div>
-
-		            <div class="item">
-		                <img src="images/slide/los-roques04.jpg" width="100%" height="1200px" alt="Los Roques" title="Los Roques"/>
-		                <div class="carousel-caption">
-		                    <h3>Los Roques</h3>
-		                </div>
-		            </div>		            
-		            <a class="left carousel-control" href="#carousel-principal" role="button" data-slide="prev">
-		                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		                <span class="sr-only">Previous</span>
-		            </a>
-		            <a class="right carousel-control" href="#carousel-principal" role="button" data-slide="next">
-		                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		                <span class="sr-only">Next</span>
-		            </a>
-		        </div>
-		        
-		    </div>
+		    
 		    <!--<div id="nostros">
 		    	
 			<div class="container">
@@ -214,7 +174,6 @@
 					<section id="features" class="container special">
 						<header>
 							<h2>Meet our tour packages</h2><br>
-							<!--<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>-->
 						</header>
 						<div class="row">
 							<article class="4u 12u(mobile) special">
@@ -245,7 +204,7 @@
 									<h3><a href="los-roques.php">Los Roques</a></h3>
 								</header>
 								<p>
-									Los Roques archipelago is a federal dependency of Venezuela consisting of approximately 350 islands, cays, and islets in a total area of 40.61 square kilometers. 
+									The Roques archipelago is a federal dependency of Venezuela consisting of approximately 350 islands, cays, and islets in a total area of 40.61 square kilometers. 
 									The archipelago is located 128 kilometers (80 mi) directly north of the port of La Guaira...
 								</p>
 							</article>
@@ -278,7 +237,7 @@
 									<h3><a href="estado-merida.php">Merida</a></h3>
 								</header>
 								<p>
-									the Merida city, whose official name is Santiago de los Caballeros de Mérida is the capital of the Libertador municipality and Merida state . It is one of the main towns in the Venezuelan Andes.
+									The Merida city, whose official name is Santiago de los Caballeros de Mérida is the capital of the Libertador municipality and Merida state . It is one of the main towns in the Venezuelan Andes.
 									It is located on a plateau in the middle of the region, just between the mountain ranges... 
 								</p>
 							</article>
