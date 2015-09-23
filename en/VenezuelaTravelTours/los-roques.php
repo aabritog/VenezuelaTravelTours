@@ -20,7 +20,6 @@
 		<div id="page-wrapper">
 
 			<!--Slider-->		
-				<!--<div class="wrapper style2">-->
 					<?php include("menu.php"); ?>				
 					<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
 		        <div style="height: 600px !important;" class="carousel-inner" role="listbox">
