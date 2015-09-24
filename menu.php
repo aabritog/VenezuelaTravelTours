@@ -23,6 +23,6 @@
 							<div style="position:absolute; top:0; right:0; padding: 15px;">
 								<br>
 								<a href="index.php"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>								
-								<a href="/en/index.php"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>
+								<a href="en/index.php"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>
 							</div>
 						</nav>
