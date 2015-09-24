@@ -20,12 +20,5 @@
 								</li>
 								<li><a href="#contacto" class="scrolly">Contact</a></li>
 							</ul>
-							<div style="position:absolute; top:0; right:0; padding: 15px;">
-								<br>
-								<!--<a href="<?php echo str_replace('/en/','/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>
-								<a href="<?php echo str_replace('/es/','/en/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>-->
-								<a href="../index.php"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>								
-								<a href="index.php"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>								
-							</div>
 						</nav>								
 
