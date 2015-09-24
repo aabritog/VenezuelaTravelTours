@@ -54,12 +54,6 @@
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Merida-ciudad.jpg" width="100%" height="700px" alt="Merida-ciudad" />
-		                <div class="carousel-caption">
-		                    <h3>Mérida City</h3>
-		                </div>
-		            </div>
-		            <div class="item">
 		                <img src="images/slide/Merida-paramo-culata01.jpg" width="100%" height="700px" alt="Merida-paramo-culata01 "/>
 		                <div class="carousel-caption">
 		                    <h3>Páramo de la Culata</h3>
@@ -181,7 +175,7 @@
 			<!--Itinerario del paquete-->
 			<article>
 				<header>
-					<h2>Packages</h2>
+					<h2>Paquetes</h2>
 					<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
 				</header>
 				<div class="addthis_native_toolbox" align="left"></div><br>

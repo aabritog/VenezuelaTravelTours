@@ -39,17 +39,17 @@
 
                     },  
             messages: {
-                nombres: "Este campo es obligatorio",
-                apellidos: "Este campo es obligatorio",
-                destinos: "Este campo es obligatorio",
+                nombres: "This field is required",
+                apellidos: "This field is required",
+                destinos: "This field is required",
                 email: {
-                        required:"Este campo es obligatorio",
-                        email:"El correo no es válido"
+                        required:"This field is required",
+                        email:"The mail is not valid"
                 },
-                texto: "Este campo es obligatorio",
-                tel:{   required:"Este campo es obligatorio",
-                            minlength: "El teléfono no es válido. Debe tener minimo 7 dígitos",
-                            maxlength:"El teléfono no es válido. Debe tener maximo 13 dígitos"
+                texto: "This field is required",
+                tel:{   required:"This field is required",
+                            minlength: "The phone is invalid. Must be at least 7 digits",
+                            maxlength:"The phone is invalid. You must have maximum 13 digits"
                 }
                       }
             });

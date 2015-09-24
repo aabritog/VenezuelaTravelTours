@@ -201,7 +201,7 @@
 							<article class="4u 12u(mobile) special">
 								<a href="los-roques.php" class="image featured"><img src="images/los-roques05.jpg" alt="Los Roques" title="Los Roques"/></a>
 								<header>
-									<h3><a href="los-roques.php">Los Roques</a></h3>
+									<h3><a href="los-roques.php">The Roques</a></h3>
 								</header>
 								<p>
 									The Roques archipelago is a federal dependency of Venezuela consisting of approximately 350 islands, cays, and islets in a total area of 40.61 square kilometers. 

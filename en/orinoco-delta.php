@@ -41,12 +41,12 @@
 		                    <h3></h3>
 		                </div>
 		            </div>
-		            <div class="item">
+		            <!--<div class="item">
 		                <img src="images/slide/OrinocoDelta05.jpg" width="100%" height="700px" alt="Delta Orinoco" />
 		                <div class="carousel-caption">
 		                    <h3></h3>
 		                </div>
-		            </div>
+		            </div>-->
 		            <div class="item">
 		                <img src="images/slide/OrinocoDelta08.jpg" width="100%" height="700px" alt="Delta del Orinoco" />
 		                <div class="carousel-caption">

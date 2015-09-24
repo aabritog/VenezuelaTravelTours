@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Venezuela Travel Tours - Los Llanos Venezolano</title>
+		<title>Venezuela Travel Tours - The Llanos</title>
 		<meta name="description" content="Venezuela Travel Tours y Only One Travel te llevan a conocer Los Llanos Venezolano">
 		<meta name="keywords" content="venezuela travel tours, venezuela tours, venezuela travel, tours, travel, viajes, viaje, turismo, salto angel, canaima, los roques, parque nacional, destinos turisticos, internacional, orinoco delta, negocio, caracas, margarita, hotel, only one travel, grupo only one, archipielago, full day, avioneta, vuelo, pasajes, hospedaje, cubagua, coche, isla de coche, los frailes, virgen del valle, delta amacuro, rio orinoco, paramo culata, laguna de mucubaji, pico bolivar, merida, teleferico, nieve, los llanos, barinas, apure, portuguesa">
 		<link href="images/Logo-Final.ico" rel="shortcut icon" />
@@ -175,7 +175,7 @@
 		<!--Itinerario del paquete-->
 		<article>
 			<header>
-				<h2>Paquetes</h2>
+				<h2>Packages</h2>
 				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
 			</header>
 			<div class="addthis_native_toolbox" align="left"></div><br>

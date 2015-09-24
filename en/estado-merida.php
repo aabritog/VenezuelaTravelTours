@@ -54,12 +54,6 @@
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Merida-ciudad.jpg" width="100%" height="700px" alt="Merida-ciudad" />
-		                <div class="carousel-caption">
-		                    <h3>Ciudad de Mérida</h3>
-		                </div>
-		            </div>
-		            <div class="item">
 		                <img src="images/slide/Merida-paramo-culata01.jpg" width="100%" height="700px" alt="Merida-paramo-culata01" />
 		                <div class="carousel-caption">
 		                    <h3>Páramo de la Culata</h3>

@@ -41,12 +41,12 @@
 		                    <h3></h3>
 		                </div>
 		            </div>
-		            <div class="item">
+		            <!--<div class="item">
 		                <img src="images/slide/OrinocoDelta05.jpg" width="100%" height="700px" alt="Delta Orinoco" />
 		                <div class="carousel-caption">
 		                    <h3></h3>
 		                </div>
-		            </div>
+		            </div>-->
 		            <div class="item">
 		                <img src="images/slide/OrinocoDelta08.jpg" width="100%" height="700px" alt="Delta del Orinoco" />
 		                <div class="carousel-caption">
@@ -147,7 +147,7 @@
 		<!--Itinerario del paquete-->	
 		<article>
 			<header>
-				<h2>Packages</h2>
+				<h2>Paquetes</h2>
 				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
 				<br>
 				<div class="addthis_native_toolbox" align="left"></div><br>				

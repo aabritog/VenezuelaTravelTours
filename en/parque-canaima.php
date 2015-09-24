@@ -145,7 +145,7 @@
 			<!--Itinerario del paquete-->		
 		<article>
 			<header>
-				<h2>Itinerario del paquete: Canaima y Salto Angel 3 días</h2>
+				<h2>Package itinerary: Canaima and Angel Falls 3 days</h2>
 				<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
 			</header>
 					<div class="addthis_native_toolbox" align="left"></div><br>
