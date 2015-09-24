@@ -24,53 +24,53 @@
 				<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
 		        <div style="height: 600px !important;" class="carousel-inner" role="listbox">
 		            <div class="item active">
-                        <img src="images/slide/Merida-laguna-mucubaji.jpg" width="100%" height="700px" alt="Merida-laguna-mucubaji.jpg" title="Merida-laguna-mucubaji.jpg" />
+                        <img src="images/slide/Merida-laguna-mucubaji.jpg" width="100%" height="700px" alt="Merida-laguna-mucubaji.jpg" />
                         <div class="carousel-caption">
 		                    <h3>Laguna de Mucubají</h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/Merida-paramo-culata02.jpg" width="100%" height="700px" alt="Merida-paramo-culata02.jpg" title="Merida-paramo-culata02.jpg" />
+                        <img src="images/slide/Merida-paramo-culata02.jpg" width="100%" height="700px" alt="Merida-paramo-culata02.jpg" />
                         <div class="carousel-caption">
 		                    <h3>Páramo de la Culata</h3>
                         </div>
                     </div>
-		            <div class="item">
+		            <!--<div class="item">
 		                <img src="images/slide/Merida-pico-bolivar.jpg" width="100%" height="700px" alt="Merida-pico-bolivar" title="Merida-pico-bolivar"/>
 		                <div class="carousel-caption">
 		                    <h3>Pico Bolívar</h3>
 		                </div>
-		            </div>
+		            </div>-->
 		            <div class="item">
-		                <img src="images/slide/Merida-ciudad02.jpg" width="100%" height="700px" alt="Merida-ciudad02" title="Merida-ciudad02" />
+		                <img src="images/slide/Merida-ciudad02.jpg" width="100%" height="700px" alt="Merida-ciudad02" />
 		                <div class="carousel-caption">
 		                    <h3>Mérida City</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" height="700px" alt="Merida-laguna-mucubaji03" title="Merida-laguna-mucubaji03" />
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" height="700px" alt="Merida-laguna-mucubaji03" />
 		                <div class="carousel-caption">
 		                    <h3>Laguna de Mucubají</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Merida-ciudad.jpg" width="100%" height="700px" alt="Merida-ciudad" title="Merida-ciudad" />
+		                <img src="images/slide/Merida-ciudad.jpg" width="100%" height="700px" alt="Merida-ciudad" />
 		                <div class="carousel-caption">
 		                    <h3>Mérida City</h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Merida-paramo-culata01.jpg" width="100%" height="700px" alt="Merida-paramo-culata01" title="Merida-paramo-culata01" />
+		                <img src="images/slide/Merida-paramo-culata01.jpg" width="100%" height="700px" alt="Merida-paramo-culata01 "/>
 		                <div class="carousel-caption">
 		                    <h3>Páramo de la Culata</h3>
 		                </div>
 		            </div>	
-		            <div class="item">
+		            <!--<div class="item">
 		                <img src="images/slide/Merida-laguna-mucubaji01.jpg" width="100%" height="700px" alt="Merida-laguna-mucubaji01" title="Merida-laguna-mucubaji01" />
 		                <div class="carousel-caption">
 		                    <h3>Laguna de Mucubají</h3>
 		                </div>
-		            </div>			            	         
+		            </div>-->			            	         
 		        </div>
 		    </div>	
 		    			

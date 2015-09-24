@@ -26,51 +26,51 @@
 		            <div class="item active">
                         <img src="images/slide/Margarita03.jpg" width="100%" height="700px" alt="Margarita Isla" />
                         <div class="carousel-caption">
-		                    <h3>Isla de Coche</h3>
+		                    <h3></h3>
                         </div>
                     </div>
-                    <div class="item">
+                    <!--<div class="item">
                         <img src="images/slide/Margarita02.jpg" width="100%" height="700px" alt="Isla de Margarita" />
                         <div class="carousel-caption">
 		                    <h3>Basílica Menor de la Virgen del Valle</h3>
                         </div>
-                    </div>
+                    </div>-->
 		            <div class="item">
 		                <img src="images/slide/Margarita04.jpg" width="100%" height="700px" alt="Isla de coche" />
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
 		                <img src="images/slide/Margarita05.jpg" width="100%" height="700px" alt="Castillo de Pampatar Margarita" />
 		                <div class="carousel-caption">
-		                    <h3>Castillo de Pampatar</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
-		            <div class="item">
+		            <!--<div class="item">
 		                <img src="images/slide/Margarita06.jpg" width="100%" height="700px" alt="Estado Nueva Esparta" />
 		                <div class="carousel-caption">
 		                    <h3>&nbsp;</h3>
 		                </div>
-		            </div>
+		            </div>-->
 		            <div class="item">
 		                <img src="images/slide/Margarita09.jpg" width="100%" height="700px" alt="Laguna de la restinga" />
 		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
 		                <img src="images/slide/Margarita10.jpg" width="100%" height="700px" alt="Laguna de la restinga" />
 		                <div class="carousel-caption">
-		                    <h3>Laguna de la Restinga</h3>
+		                    <h3></h3>
 		                </div>
 		            </div>	
-		            <div class="item">
-		                <img src="images/slide/Margarita07.jpg" width="100%" height="1200px" alt="Punta ballena" />
+		            <!--<div class="item">
+		                <img src="images/slide/Margarita07.jpg" width="100%" height="700px" alt="Punta ballena" />
 		                <div class="carousel-caption">
-		                    <h3>Faro de Punta Ballena</h3>
+		                    <h3></h3>
 		                </div>
-		            </div>			            	         
+		            </div>	-->
 		        </div>
 		    </div>
 

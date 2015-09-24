@@ -26,41 +26,41 @@
 		        
 		        <div class="carousel-inner" role="listbox">
 		            <div class="item active">
-                        <img src="images/slide/Losllanos01.jpg" width="100%" height="700px" alt="Losllanos01.jpg" title="Los Llanos Venezolano" />
+                        <img src="images/slide/Losllanos01.jpg" width="100%" height="700px" alt="Losllanos01.jpg" />
                         <div class="carousel-caption">
 		                    <h3></h3>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="images/slide/Losllanos02.jpg" width="100%" height="700px" alt="Losllanos02.jpg" title="Los Llanos Venezuela" />
+                        <img src="images/slide/Losllanos02.jpg" width="100%" height="700px" alt="Losllanos02.jpg" />
                         <div class="carousel-caption">
 		                    <h3></h3>
                         </div>
                     </div>
 		            <div class="item">
-		                <img src="images/slide/Losllanos04.jpg" width="100%" height="700px" alt="Losllanos04.jpg" title="Los Llanos"/>
+		                <img src="images/slide/Losllanos04.jpg" width="100%" height="700px" alt="Losllanos04.jpg" />
 		                <div class="carousel-caption">
 		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Losllanos05.jpg" width="100%" height="700px" alt="Losllanos05.jpg" title="Los Llanos " />
+		                <img src="images/slide/Losllanos05.jpg" width="100%" height="700px" alt="Losllanos05.jpg" />
+		                <div class="carousel-caption">
+		                    <h3></h3>
+		                </div>
+		            </div>
+		            <!--<div class="item">
+		                <img src="images/slide/Losllanos06.jpg" width="100%" height="700px" alt="Losllanos06.jpg" />
 		                <div class="carousel-caption">
 		                    <h3></h3>
 		                </div>
 		            </div>
 		            <div class="item">
-		                <img src="images/slide/Losllanos06.jpg" width="100%" height="700px" alt="Losllanos06.jpg" title="Los Llanos" />
+		                <img src="images/slide/Losllanos08.jpg" width="100%" height="700px" alt="Losllanos08.jpg" />
 		                <div class="carousel-caption">
 		                    <h3></h3>
 		                </div>
-		            </div>
-		            <div class="item">
-		                <img src="images/slide/Losllanos08.jpg" width="100%" height="700px" alt="Losllanos08.jpg" title="Los Llanos" />
-		                <div class="carousel-caption">
-		                    <h3></h3>
-		                </div>
-		            </div>			            	         
+		            </div>-->			            	         
 		        </div>
 		    </div>
 		</div>		

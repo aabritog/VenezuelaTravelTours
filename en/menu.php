@@ -24,8 +24,8 @@
 								<br>
 								<!--<a href="<?php echo str_replace('/en/','/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>
 								<a href="<?php echo str_replace('/es/','/en/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>-->
-								<a href="<?php echo str_replace('VenezuelaTravelTours/en/VenezuelaTravelTours/','VenezuelaTravelTours/',$_SERVER['SCRIPT_NAME']) ?>"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>								
-								<a href="<?php echo 'en'.$_SERVER['SCRIPT_NAME'] ?>"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>								
+								<a href="index.php"><img src="images/flags/shiny/32/Spain.png" alt="Español" title="Español"></a>								
+								<a href="/en/index.php"><img src="images/flags/shiny/32/United-States.png" alt="English" title="English"></a>								
 							</div>
 						</nav>								
 
