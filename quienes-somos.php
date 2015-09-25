@@ -14,206 +14,150 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
 	</head>
-	<body class="homepage">
+		<body style="overflow-x:hidden !important;" class="homepage">
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<div id="header">
 
-						<div class="inner">
-							<header>
-								<!--<a href="index.php" id="logo"><img src="images/Logo-Final.png" width="450px" height="350px" alt="Logo" /></a>-->
-							</header>
-							<!--<footer>
-								<a href="#banner" class="button circled scrolly">Inicio</a>
-							</footer>-->
-						</div>
 
-					<?php include("menu.php"); ?>
-					
-				</div>
+			<!--Slider-->		
+				<!--<div class="wrapper style2">-->
+			<?php include("menu.php"); ?>				
+			<div style="margin-top:0px !important; padding: 0px !important;" id="carousel-principal" class="carousel slide" data-ride="carousel">							        
+		        <div style="height: 600px !important;" class="carousel-inner" role="listbox" align="center">
+		            <div class="item active">
+                        <img src="images/slide/Canaima01.jpg" width="100%" alt="Canaima" style="height: 700px" />
+                        <div class="carousel-caption">
+                            <h3>Canaima</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slide/SaltoAngel09.jpg" width="100%" alt="Salto Angel" style="height: 700px" />
+                        <div class="carousel-caption">
+                            <h3>Salto Angel</h3>
+                        </div>
+                    </div>
+		            <div class="item">
+		                <img src="images/slide/los-roques05.jpg" width="100%" alt="Los Roques" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Los Roques</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Losllanos05.jpg" width="100%" alt="Los Llanos" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Los Llanos</h3>
+		                </div>
+		            </div>		            
+		            <div class="item">
+		                <img src="images/slide/Merida-laguna-mucubaji03.jpg" width="100%" alt="Mérida" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Mérida</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/Margarita04.jpg" width="100%" alt="Margarita" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Margarita</h3>
+		                </div>
+		            </div>
+		            <div class="item">
+		                <img src="images/slide/OrinocoDelta01.jpg" width="100%" alt="Orinoco Delta" style="height: 700px" />
+		                <div class="carousel-caption">
+		                    <h3>Delta del Orinoco</h3>
+		                </div>
+		            </div>
+		        </div>
+		    </div>		        
+		    
 			<!-- Banner -->
 		<section id="banner">
 			<header>
 				<h1>Venezuela Travel Tours - Quienes somos</h1>
-				<!--<p>
-					Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
-				</p>-->
 			</header>
 		</section>			
-			<!-- Banner -->
-<!--				<section id="banner">
-					<header>
-						<h2><strong>SALTO ANGEL</strong></h2>
-						<!--<p>
-							A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
-							Built on <strong>skel</strong> and released under the <a href="http://html5up.net/license">CCA</a> license.
-						</p>-->
-					<!--</header>
-				</section>-->
-			<br>
 		
-		<div class="container">
-			<!--</div> <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">aabg-->			
+		<div class="container">			
 				<!--Quienes somos -->
-				<div class="panel panel-warning">
-				  <div class="panel-heading">
-				  	<h2 class="panel-title">
-				    	<a data-toggle="collapse" data-parent="#accordion" href="#primerCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-				    		Quienes somos
-			    		</a>				    	
-				  	</h2>
-				  </div>
-	          		<div id="primerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-				  		<div class="panel-body">
-							<p>
-								<strong>Grupo Only One (GOO)</strong>
-								<br>
-									En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo Only One es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
-								<br>
-								<br>
-								<strong>NUESTRA MISIÓN</strong>
-								<br>
-									• Ofrecer un producto nunca antes visto en América Latina.<br>
-								<br>
-								<strong>NUESTRO SECRETO DEL ÉXITO</strong><br>
-									• Contamos con un personal altamente calificado.<br>
-									• Fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
-									• Ofrecemos asistencia inmediata.<br>
-									• Hablamos tu idioma.<br>
-							</p>
-				  		</div>
-				    </div>
-				</div>
-				
-				
-			
-				<!--Nuestros productos -->
-				<div class="panel panel-warning">
-				  <div class="panel-heading">
-				  	<h2 class="panel-title">
-				    	<a data-toggle="collapse" data-parent="#accordion" href="#segundoCollapse" aria-expanded="true" aria-controls="segundoCollapse">Nuestros productos</a>
-				  	</h2>
-				  </div>
-	          		<div id="segundoCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-				  		<div class="panel-body">
-							<p>
-								<strong>Desarrollo de negocios, traducciones de documentos y traducción simultánea.</strong><br><br/>
-								<strong>Soluciones habitacionales:</strong><br/>
-									• Bienes Raíces.<br/>
-									• Asistencia Legal.<br/>
-									• Apertura de cuentas bancarias.<br/>
-								<strong>Consultoría de Turismo arreglos o y viajes de ocio.</strong><br/><br/>
-								<strong>Transporte.</strong><br>
-							</p>
-				  		</div>
-				    </div>
-				</div>	
-	
-	
-				<!--Alianzas -->
-				<div class="panel panel-warning">
-				  <div class="panel-heading">
-				  	<h2 class="panel-title">
-				    	<a data-toggle="collapse" data-parent="#accordion" href="#tercerCollapse" aria-expanded="true" aria-controls="segundoCollapse">
-				    		Alianzas
-				    	</a>
-				  	</h2>
-				  </div>
-	          		<div id="tercerCollapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-				  		<div class="panel-body">
-							<p>
-								<strong>Autoridad de Turismo de Panamá</strong><br>
-								    Por los primeros 4 meses de 2015 hemos tenido un impacto en más de 20 millones de espectadores en Japón, la promoción de Panamá como destino turístico.<br><br>
-								<strong>Autoridad del Canal de Panamá</strong><br>
-								    Hemos roto la barrera del idioma mediante el establecimiento de una relación entre la Autoridad del Canal de Panamá y la multinacional ENEOS Oil Company en 2015.<br><br>
-								<strong>Toyota</strong><br>
-								    Tenemos éxito en la reubicación de los altos ejecutivos de esta gran empresa en la Ciudad de Panamá.<br><br>
-								<strong>Only One Travel</strong><br>
-									Ofrecemos una amplia gama de paquetes turísticos, conducidos por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
-									<br>• Salar de Uyuni, Bolivia.
-									<br>• El Salto Angel, Venezuela.
-									<br>• Lencois Maranhenses, Brasil.
-									<br>• Machu Picchu, Perú.
-							</p>
-				  		</div>
-				    </div>
-				</div>			
-		    	<div class="row">
-		            <div class="col-md-6">
-		                <div class="panel panel-warning" style="margin-top: 25px">
-		                    <div class="panel-heading"><h2 class="panel-title">Ubicaci&oacute;n</h2></div>
-		                    <div class="panel-body">
-		                        <p><strong><i>Duplex 4 Calle 61 Obarrio Ciudad de Panamá, Panamá</i></strong></p>
-		                			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15763.381396977995!2d-79.5180833!3d8.986374799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca8fac2c0d2ed%3A0xf6664f5b3642e0e7!2sObarrio%2C+Panam%C3%A1!5e0!3m2!1ses!2sve!4v1439829372420" width="525" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> 
-		                    </div>
-		                </div>
-		            </div>
-		            <div class="col-md-6">
-		                <div class="panel panel-warning" style="margin-top: 25px">
-		                    <div class="panel-heading"><h2 class="panel-title">Link de Inter&eacute;s</h2></div>
-		                    <div class="panel-body">
-		                        
-		                        <ul>
-		                            <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
-		                            <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
-		                        </ul>
-		                    </div>
-		                </div>
-		            </div>
-		    	</div>			
-			<!--</div> aabg-->
-	</div>
+				<article>
+					<header>
+						<h2>Quienes somos</h2>
+						<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+					</header>
+						<p>
+							<strong>Grupo Only One (GOO)</strong>
+							<br>
+								En lugar de buscar la conexión perfecta entre el compromiso y la pasión: lo creamos. Grupo Only One es una empresa "detallada orientada", con una vasta experiencia en: desarrollo de negocios, soluciones de vivienda y asesoría de viajes.
+							<br>
+							<br>
+							<strong>NUESTRA MISIÓN</strong>
+							<br>
+								• Ofrecer un producto nunca antes visto en América Latina.<br>
+							<br>
+							<strong>NUESTRO SECRETO DEL ÉXITO</strong><br>
+								• Contamos con un personal altamente calificado.<br>
+								• Fusionamos un enfoque centrado en el cliente con herramientas que permiten ahorrar tiempo.<br>
+								• Ofrecemos asistencia inmediata.<br>
+								• Hablamos tu idioma.<br>
+						</p>
+				</article>
+				<article>
+					<header>
+						<h2>Nuestros productos</h2>
+						<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+					</header>
+						<p>
+							<strong>Desarrollo de negocios, traducciones de documentos y traducción simultánea.</strong><br><br/>
+							<strong>Soluciones habitacionales:</strong><br/>
+								• Bienes Raíces.<br/>
+								• Asistencia Legal.<br/>
+								• Apertura de cuentas bancarias.<br/>
+							<strong>Consultoría de Turismo arreglos o y viajes de ocio.</strong><br/><br/>
+							<strong>Transporte.</strong><br>
+						</p>
+				</article>				
+				<article>
+					<header>
+						<h2>Alianzas</h2>
+						<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+					</header>
+						<p>
+							<strong>Autoridad de Turismo de Panamá</strong><br>
+							    Por los primeros 4 meses de 2015 hemos tenido un impacto en más de 20 millones de espectadores en Japón, la promoción de Panamá como destino turístico.<br><br>
+							<strong>Autoridad del Canal de Panamá</strong><br>
+							    Hemos roto la barrera del idioma mediante el establecimiento de una relación entre la Autoridad del Canal de Panamá y la multinacional ENEOS Oil Company en 2015.<br><br>
+							<strong>Toyota</strong><br>
+							    Tenemos éxito en la reubicación de los altos ejecutivos de esta gran empresa en la Ciudad de Panamá.<br><br>
+							<strong>Only One Travel</strong><br>
+								Ofrecemos una amplia gama de paquetes turísticos, conducidos por nuestros guías altamente experimentados. Hemos logrado más de 1.500 visitas en los últimos años a nuestros destinos de la firma:
+								<br>• Salar de Uyuni, Bolivia.
+								<br>• El Salto Angel, Venezuela.
+								<br>• Lencois Maranhenses, Brasil.
+								<br>• Machu Picchu, Perú.
+						</p>
+				</article>		
+				<article>
+					<header>
+						<h2>Ubicaci&oacute;n</h2>
+						<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+					</header>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15763.381396977995!2d-79.5180833!3d8.986374799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca8fac2c0d2ed%3A0xf6664f5b3642e0e7!2sObarrio%2C+Panam%C3%A1!5e0!3m2!1ses!2sve!4v1439829372420" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</article>
+				<article>
+					<header>
+						<h2>Enlaces de Inter&eacute;s</h2>
+						<hr style="padding:0 px !important; margin:0px !important; position:static !important;">
+					</header>
+		            <p>
+		                <ul>
+	                        <li><a onclick="window.open('http://onlyone.travel/en/')" href="#">Only One Travel</a></li>
+	                        <li><a onclick="window.open('http://grupoonlyone.blogspot.com/')" href="#" >Grupo Only One</a></li>
+	                    </ul>
+	                </p>
+				</article>							
+		</div>
+
+		<div style="margin-bottom:60px;"></div>
 		
-			<!-- Main -->
-				<div class="wrapper style2">
-
-				</div>
-
-			<!-- Features -->
-				<!--<div class="wrapper style1">
-
-					<section id="features" class="container special">
-						<header>
-							<h2>Morbi ullamcorper et varius leo lacus</h2>
-							<p>Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</p>
-						</header>
-						<div class="row">
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Gravida aliquam penatibus</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-							<article class="4u 12u(mobile) special">
-								<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
-								<header>
-									<h3><a href="#">Magna laoreet et aliquam</a></h3>
-								</header>
-								<p>
-									Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-									porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-								</p>
-							</article>
-						</div>
-					</section>
-
-				</div>-->
-
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">
